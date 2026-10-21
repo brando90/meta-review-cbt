@@ -1,10 +1,29 @@
-# Protocol: executive function and CBT outcomes in adult ADHD
+# Protocol: critical meta-review of CBT across conditions
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/init/protocol.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/protocol.md>
 
-**TLDR:** Prospectively assess evidence for benefit and for baseline executive function as a predictor or moderator of cognitive behavioral therapy (CBT) outcomes in adult attention-deficit/hyperactivity disorder (ADHD). This is version 0.1, dated 10-21-2026, not a registered or completed review. Both positive and null findings are eligible.
+**TLDR:** Version 0.2 (10-21-2026) restores the broader scope requested by the author: reasons CBT can fail across conditions, with systematic-review evidence and explicit gaps. This is an unregistered protocol amendment, not a completed review. The original ADHD search receipts remain intact as a case study.
 
-## PICO and estimands
+## Scope amendment: primary review
+
+The ADHD-only initial scope was narrower than the author's blog and intended project. This amendment precedes broad systematic screening and preserves the prior queries and counts rather than relabeling them as comprehensive evidence.
+
+| Element | Broader definition |
+| --- | --- |
+| Population | Adults across mental-health conditions; other clinical uses such as insomnia and chronic pain remain eligible in separate strata. Separate diagnoses, settings, severity, comorbidity and age groups; do not extrapolate automatically to children. |
+| Intervention | CBT packages and identifiable components, including cognitive restructuring, exposure, behavioral activation and compensatory skills. Code what was delivered rather than assuming all treatments labeled CBT are identical. |
+| Comparator | Waitlist, usual care, pill/psychological placebo, active psychotherapy, medication, and component-removal contrasts, analyzed separately. |
+| Outcomes | Symptoms, response, remission, functioning, quality of life, sustained benefit/relapse, deterioration/adverse events, dropout, burden and access; treatment-specific predictors, moderators and mechanisms. |
+
+Primary questions: Where is benefit absent, small, uncertain, short-lived or poorly transferable? Does restructuring add benefit beyond behavioral components? How do control choice, publication bias, measurement and missing data affect conclusions? Who does not respond, and what alternatives have direct comparative support?
+
+Include systematic reviews/meta-analyses with explicit selection methods and extractable CBT findings. Supplement with component trials, direct moderator studies, adverse-effect studies and mechanistic research, labeled by evidence type. Exclude irrelevant interventions, inseparable mixed interventions, unsystematic efficacy claims and duplicate reports without new information. Narrative and laboratory work can motivate hypotheses but cannot establish clinical ineffectiveness. Retain evidence favorable to CBT and contrary to the critique. Map overlapping reviews to primary studies, use AMSTAR 2, and extract estimates with reported uncertainty rather than pooling incompatible endpoints.
+
+Search Europe PMC, PubMed and PsycINFO across: (1) cross-condition reviews, (2) anxiety, (3) depression, (4) trauma/obsessive-compulsive conditions, (5) other conditions, (6) components/mechanisms, (7) comparator/bias, (8) nonresponse/harms/burden, (9) durability/functioning, and (10) moderators/alternatives. Broad searches and translated syntax are pending, not represented by the ADHD-only counts below. The initial broad evidence map uses explicitly identified seed sources from the original drafts and targeted retrieval; it is not an exhaustive search.
+
+The following operational definitions and ten frozen queries govern the retained **ADHD executive-function case study**, not eligibility for the broader review.
+
+## ADHD case-study PICO and estimands
 
 | Element | Definition |
 | --- | --- |
@@ -19,7 +38,7 @@ A predictor is a prognostic association; a moderator changes the treatment contr
 
 The executive-demand hypothesis predicts smaller CBT benefits at lower baseline executive function, particularly for cognitive restructuring; compensatory-skills accounts could predict greater benefit instead. Record both directions, confidence intervals and null findings. Do not select studies according to agreement with the author's blog.
 
-## Evidence streams and eligibility
+## ADHD case-study evidence streams and eligibility
 
 **A: Meta-review.** Include systematic reviews and meta-analyses with an explicit search and selection method and extractable adult-ADHD CBT results, irrespective of publication year or direction. Narrative reviews, editorials and non-systematic theoretical reviews supply context only. Map each review's primary studies to avoid treating overlapping reviews as independent replications.
 
@@ -27,7 +46,7 @@ The executive-demand hypothesis predicts smaller CBT benefits at lower baseline 
 
 Exclude from primary synthesis: exclusively pediatric samples; mixed samples without separate adult-ADHD data; no ADHD diagnosis; no relevant CBT intervention; no extractable relevant results; duplicate reports without new information. Link companion reports rather than discarding useful follow-up data. Abstracts, dissertations and preprints may be retained provisionally but are labeled by publication status and assessed for extractability; unavailable full text is *awaiting retrieval*, not evidence of no effect. Apply no language exclusion at search; seek translation and disclose unresolved cases. Exclude publications first published after 10-21-2026 from this baseline version. Contextual older-adult anxiety studies must not be silently generalized to ADHD.
 
-## Databases and ten search slices
+## ADHD case-study databases and ten search slices
 
 Europe PMC is the implemented baseline search. PubMed and PsycINFO (Ovid) are planned complementary searches, not yet executed. Search database inception through 10-21-2026 where fields permit; log exact platform, date, limits, query, count and export. The executable source of truth is [search/queries.json](search/queries.json), containing **ten complete search strings per database**. The Europe PMC strings are also reproduced below, not shorthand placeholders. PubMed uses title/abstract and publication-type/date fields; Ovid translations require syntax validation against the institution's PsycINFO interface before use. Record any revision as a new protocol/query version, without replacing baseline receipts.
 

@@ -1,0 +1,15 @@
+{
+  "query": "(TITLE_ABS:ADHD OR TITLE_ABS:\"attention deficit hyperactivity disorder\" OR TITLE_ABS:\"attention-deficit/hyperactivity disorder\" OR TITLE_ABS:\"attention deficit disorder\") AND (TITLE_ABS:adult*) AND (TITLE_ABS:\"cognitive behavioral therap*\" OR TITLE_ABS:\"cognitive behavioural therap*\" OR TITLE_ABS:\"cognitive behavior therap*\" OR TITLE_ABS:\"cognitive behaviour therap*\" OR TITLE_ABS:CBT) AND (TITLE_ABS:\"executive function*\" OR TITLE_ABS:\"cognitive control\" OR TITLE_ABS:\"cognitive flexibil*\" OR TITLE_ABS:\"working memory\" OR TITLE_ABS:inhibit* OR TITLE_ABS:\"set shifting\" OR TITLE_ABS:\"set-shifting\" OR TITLE_ABS:planning) AND (TITLE_ABS:moderat* OR TITLE_ABS:predict* OR TITLE_ABS:outcome* OR TITLE_ABS:response OR TITLE_ABS:baseline) AND FIRST_PDATE:[1900-01-01 TO 2026-10-21]",
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3AADHD+OR+TITLE_ABS%3A%22attention+deficit+hyperactivity+disorder%22+OR+TITLE_ABS%3A%22attention-deficit%2Fhyperactivity+disorder%22+OR+TITLE_ABS%3A%22attention+deficit+disorder%22%29+AND+%28TITLE_ABS%3Aadult%2A%29+AND+%28TITLE_ABS%3A%22cognitive+behavioral+therap%2A%22+OR+TITLE_ABS%3A%22cognitive+behavioural+therap%2A%22+OR+TITLE_ABS%3A%22cognitive+behavior+therap%2A%22+OR+TITLE_ABS%3A%22cognitive+behaviour+therap%2A%22+OR+TITLE_ABS%3ACBT%29+AND+%28TITLE_ABS%3A%22executive+function%2A%22+OR+TITLE_ABS%3A%22cognitive+control%22+OR+TITLE_ABS%3A%22cognitive+flexibil%2A%22+OR+TITLE_ABS%3A%22working+memory%22+OR+TITLE_ABS%3Ainhibit%2A+OR+TITLE_ABS%3A%22set+shifting%22+OR+TITLE_ABS%3A%22set-shifting%22+OR+TITLE_ABS%3Aplanning%29+AND+%28TITLE_ABS%3Amoderat%2A+OR+TITLE_ABS%3Apredict%2A+OR+TITLE_ABS%3Aoutcome%2A+OR+TITLE_ABS%3Aresponse+OR+TITLE_ABS%3Abaseline%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-10-21%5D&resultType=core&pageSize=1000&format=json",
+  "retrieved_utc": "2026-10-21T16:49:24.661429+00:00",
+  "sha256": "8c9c802ff0e2b2151adc4441f10e075bdbd7458263eba22b79f461e9e8786256",
+  "hitCount": 21,
+  "records_returned": 21,
+  "screening_date": "10-21-2026",
+  "records_screened": 21,
+  "confirmed_direct_baseline_ef_tests": 0,
+  "unresolved_candidate_fulltexts": 5,
+  "screening": "single-agent preliminary",
+  "membership_limit": "Original baseline count request saved one ID only. This full export returned the same count; identical full membership at the earlier instant cannot be verified.",
+  "copyright_note": "Public ledger contains bibliographic metadata and original paraphrases, not full abstracts or publisher full texts."
+}

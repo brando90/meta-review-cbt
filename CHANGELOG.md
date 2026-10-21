@@ -1,6 +1,6 @@
 # Changelog
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/init/CHANGELOG.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/CHANGELOG.md>
 
 **TLDR:** Project initialized on branch `init`; the original author material, protocol, measured search receipts and first manuscript are now versioned. This is not a completed systematic review.
 
@@ -16,4 +16,11 @@
 
 ## Protocol deviations
 
-None after screening: screening has not started. Initial search wording is versioned as 0.1; future changes must preserve this baseline and describe their rationale here.
+At initialization (version 0.1), screening had not started. Version 0.2 broadens the scope at the author’s request and records a preliminary single-agent case-study screen; independent two-reviewer screening remains pending. Initial search wording and receipts are preserved.
+
+## 10-21-2026 — Scope correction and publication on main
+
+- Merged initialization PR #1 so the blog, review, README and manuscript are visible on the default branch.
+- Restored the cross-condition critical scope from the author's blog/Google Docs draft; ADHD is one case study.
+- Recorded direct-to-main publication instructions, protocol amendment 0.2, evidence map and preliminary 21-record screen.
+- Preserved original sources and frozen ADHD search receipts; no broad-search completeness claim.

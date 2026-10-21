@@ -57,6 +57,14 @@ def main():
             assert data["hitCount"] == int(row["hit_count"])
         else:
             assert row["hit_count"] == ""
+    with (ROOT / "data/s03-screening.csv").open(newline="") as stream:
+        screened = list(csv.DictReader(stream))
+    assert len(screened) == len({(r["source"], r["id"]) for r in screened}) == 21
+    unresolved = [r for r in screened if "unresolved" in r["decision"]]
+    assert len(unresolved) == 5
+    assert all(r["reason"] and r["url"] and r["material_checked"] for r in screened)
+    assert screened[0]["cached_fulltext_sha256"] == screened[1]["cached_fulltext_sha256"]
+    assert screened[0]["cached_fulltext_sha256"]
     baseline = [r for r in rows if r["run_id"] == "baseline-10-21-2026"]
     assert len(baseline) == 10
     report = (ROOT / "data/search-report.md").read_text()
