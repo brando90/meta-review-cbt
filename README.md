@@ -20,6 +20,7 @@ A critical meta-review of **why CBT fails**: ten reasons (executive-function dem
 | `deep-research/` | Search protocol, per-topic source notes (eight slices), the **verified** bibliography (`references.bib`) and the verification log. |
 | `experiments/` | Any re-analysis of published meta-analytic data (effect-size trends, moderator meta-regression). Every analysis is logged. |
 | `review/` | The detailed review: venue recommendation, claim-by-claim evidence map, open questions and the draft changelog. |
+| `evidence-screen/` | Companion audit trail: protocol 0.2, Europe PMC search receipts, the 21-record executive-function screen, its short paper, scripts and tests (own `Makefile`). |
 | `AGENTS.md`, `CLAUDE.md` | Rules for AI coding agents working in this repo (citations must be verified; no personal data). |
 
 ## Build the paper
@@ -27,7 +28,7 @@ A critical meta-review of **why CBT fails**: ten reasons (executive-function dem
 cd latex
 latexmk -pdf main.tex      # or: tectonic main.tex
 ```
-`main.pdf` is committed for convenience. The bibliography is `deep-research/references.bib`.
+`latex/main.pdf` is committed for convenience. The bibliography is `deep-research/references.bib`. From the repo root, `make paper` builds the Draft 3 paper, `make screen` and `make test` build and check the evidence-screen companion.
 
 ## Ground rules
 - Commit and push straight to `main` (owner's standing instruction).
@@ -41,13 +42,13 @@ Primary target: *Clinical Psychology Review*. Fallbacks: *Perspectives on Psycho
 
 ---
 
-## Evidence-screen track (root-level files, merged from origin/main)
+## Evidence-screen companion (`evidence-screen/`)
 
-The files below came from a parallel pass: protocol 0.2, a Europe PMC search baseline, a 21-record executive-function screen, and a short developing paper.
+A parallel pass kept intact in its own folder: protocol 0.2, a Europe PMC search baseline with immutable receipts, a 21-record executive-function screen and a short developing paper. The Draft 3 paper in `latex/` is the manuscript; this folder is its audit trail for the ADHD case study, not a second paper to submit.
 
-- [Developing paper (PDF)](main.pdf), source `main.tex` and `sections/`
-- [Protocol 0.2](protocol.md), [evidence and gaps](evidence-map.md), [open questions](open-questions.md)
-- [Original blog draft](sources/blog-original.md), [prior 29-page critical review](sources/deep-research-draft-2.pdf)
-- Search receipts in `data/`, scripts in `scripts/`, tests in `tests/`
+- [Developing paper (PDF)](evidence-screen/main.pdf), source `evidence-screen/main.tex` and `evidence-screen/sections/`
+- [Protocol 0.2](evidence-screen/protocol.md), [evidence and gaps](evidence-screen/evidence-map.md), [open questions](evidence-screen/open-questions.md)
+- [Original blog draft](evidence-screen/sources/blog-original.md), [prior 29-page critical review](evidence-screen/sources/deep-research-draft-2.pdf)
+- Search receipts in `evidence-screen/data/`, scripts in `evidence-screen/scripts/`, tests in `evidence-screen/tests/`; its changelog is `evidence-screen/CHANGELOG.md`
 
-The ten searches and the 21-record screen are an ADHD case study, not a search of all CBT evidence.
+The ten searches and the 21-record screen are an ADHD case study, not a search of all CBT evidence. The ten search slices of the Draft 3 paper (`deep-research/search/`) are a separate, broader count log.

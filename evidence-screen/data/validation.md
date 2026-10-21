@@ -1,6 +1,6 @@
 # Validation of the cross-condition scope update
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/data/validation.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/data/validation.md>
 
 **TLDR:** The current eight-page PDF builds cleanly. Six deterministic tests and the offline source/citation/search/screening consistency checks pass. These checks validate artifacts, not clinical conclusions.
 

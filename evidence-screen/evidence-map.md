@@ -1,6 +1,6 @@
 # Why CBT can fail: evidence and gaps
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-map.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/evidence-map.md>
 
 **TLDR:** The evidence supports specific criticisms of cognitive behavioral therapy (CBT), including incomplete response, comparator-sensitive effects and uncertain component mechanisms. It also reports benefits that a credible critique must explain. This is a targeted seed map, not a completed systematic meta-review.
 

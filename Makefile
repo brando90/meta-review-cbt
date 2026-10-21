@@ -1,12 +1,16 @@
-.PHONY: paper test clean
+.PHONY: paper screen test clean
 
+# Draft 3 manuscript (latex/)
 paper:
-	latexmk -pdf -outdir=_build -interaction=nonstopmode -halt-on-error main.tex
-	cp _build/main.pdf main.pdf
+	cd latex && latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
+
+# Evidence-screen companion (evidence-screen/)
+screen:
+	$(MAKE) -C evidence-screen paper
 
 test:
-	python3 -m unittest discover -s tests -v
-	python3 scripts/check_project.py
+	$(MAKE) -C evidence-screen test
 
 clean:
-	latexmk -C -outdir=_build main.tex
+	cd latex && latexmk -C main.tex
+	$(MAKE) -C evidence-screen clean

@@ -1,6 +1,6 @@
 # Protocol: critical meta-review of CBT across conditions
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/protocol.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/protocol.md>
 
 **TLDR:** Version 0.2 (10-21-2026) restores the broader scope requested by the author: reasons CBT can fail across conditions, with systematic-review evidence and explicit gaps. This is an unregistered protocol amendment, not a completed review. The original ADHD search receipts remain intact as a case study.
 

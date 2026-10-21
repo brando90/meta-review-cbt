@@ -1,6 +1,6 @@
 # ADHD case study: 21 executive-function hits screened
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/data/s03-screening.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/data/s03-screening.md>
 
 **TLDR:** No direct baseline executive-function predictor or moderator test is confirmed in the material retrieved for these 21 records. Sixteen records can presently be classified as not direct tests; five candidate full texts remain unresolved. This is preliminary single-agent screening, not a completed two-reviewer systematic assessment or evidence that no such study exists.
 

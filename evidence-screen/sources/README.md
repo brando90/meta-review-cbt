@@ -1,6 +1,6 @@
 # Imported author sources
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/sources/README.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/sources/README.md>
 
 **TLDR:** These are the author's existing blog and critical-review drafts, preserved as motivation and material to audit. They are not screened evidence or independently verified clinical conclusions.
 

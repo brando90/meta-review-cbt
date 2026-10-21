@@ -1,6 +1,6 @@
 # Open questions
 
-**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/open-questions.md>
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/evidence-screen/open-questions.md>
 
 **TLDR:** The broader critical review is in development; ADHD is one case study. Evidence coverage, competing explanations and unresolved full texts are tracked explicitly.
 

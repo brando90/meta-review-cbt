@@ -8,6 +8,7 @@ Write a rigorous critical meta-review of why CBT fails: all the reasons (executi
 - `deep-research/`: `protocol.md` (search strategy), `sources/*.md` (per-topic notes: one line per source with key numbers and a VERIFIED/PARTIAL flag), `references.bib` (single bibliography), `VERIFICATION.md` (log).
 - `experiments/`: analyses of published data. Each run gets a dated entry in `experiments/LOG.md` (question, data source with DOI, code path, result, caveats).
 - `review/`: `venue.md`, `claim_evidence_map.md`, `open_questions.md`, `CHANGELOG.md`.
+- `evidence-screen/`: the companion audit trail from the parallel track (its own `main.tex`, `sections/`, `references.bib`, `protocol.md`, `evidence-map.md`, `sources/`, `data/`, `scripts/`, `tests/`, `Makefile`, `CHANGELOG.md`). Not a second manuscript: the paper to submit is `latex/`. Build and checks: `make screen`, `make test` from the root.
 
 ## Hard rules
 1. **Never invent a reference.** Add an entry to `references.bib` only after resolving its DOI through Crossref (`https://api.crossref.org/works/<doi>`) and checking that title, authors and year match what you intend to cite. If a DOI does not exist, drop the claim or write `\citegap{what is missing}`.
@@ -23,8 +24,8 @@ Plain, precise academic prose. First-person plural. Short paragraphs. Define ter
 
 ## Rules carried over from the evidence-screen track (origin/main)
 - Scope: a critical meta-review of why CBT can fail across conditions; ADHD and executive function are a case study, not the whole project.
-- Preserve the original blog and Google Docs export in sources/ and use their questions to guide the argument. Do not manufacture evidence or omit contradictory findings.
+- Preserve the original blog and Google Docs export in `evidence-screen/sources/` and use their questions to guide the argument. Do not manufacture evidence or omit contradictory findings.
 - Brando explicitly instructed on 10-21-2026: always push verified project updates to main. This replaces the earlier init-branch-only workflow for this repository.
-- Run make test and make paper, inspect the fresh PDF and exact staged diff before committing. Commit the current main.pdf with semantic manuscript changes.
+- Run `make test` and `make screen` (root), inspect the fresh PDF and exact staged diff before committing. Commit the current PDF (`latex/main.pdf` for the paper, `evidence-screen/main.pdf` for the companion) with semantic manuscript changes.
 - Preserve search receipts and distinguish abstract screening, full-text review, indirect evidence, and unresolved access. Do not claim an exhaustive review prematurely.
-- Two tracks share this repo: the Draft 3 paper in `latex/`, `deep-research/`, `review/`, and the evidence-screen track at the root (`main.tex`, `sections/`, `protocol.md`, `evidence-map.md`, `sources/`, `data/`, `scripts/`, `tests/`). Neither was dropped in the merge; reconcile them deliberately, not by deleting one.
+- Two tracks share this repo, reconciled 2026-10-21 (AT-845) with no files dropped: the Draft 3 paper in `latex/`, `deep-research/`, `review/`, and the evidence-screen companion in `evidence-screen/`. Add new screening receipts, protocol versions and tests there; add manuscript text only in `latex/`. Keep `evidence-screen/` paths stable (its checks hash its sources and receipts).
