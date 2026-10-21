@@ -20,3 +20,11 @@ Write a rigorous critical meta-review of why CBT fails: all the reasons (executi
 
 ## Style
 Plain, precise academic prose. First-person plural. Short paragraphs. Define terms once. No hype, no moralising, no medical advice.
+
+## Rules carried over from the evidence-screen track (origin/main)
+- Scope: a critical meta-review of why CBT can fail across conditions; ADHD and executive function are a case study, not the whole project.
+- Preserve the original blog and Google Docs export in sources/ and use their questions to guide the argument. Do not manufacture evidence or omit contradictory findings.
+- Brando explicitly instructed on 10-21-2026: always push verified project updates to main. This replaces the earlier init-branch-only workflow for this repository.
+- Run make test and make paper, inspect the fresh PDF and exact staged diff before committing. Commit the current main.pdf with semantic manuscript changes.
+- Preserve search receipts and distinguish abstract screening, full-text review, indirect evidence, and unresolved access. Do not claim an exhaustive review prematurely.
+- Two tracks share this repo: the Draft 3 paper in `latex/`, `deep-research/`, `review/`, and the evidence-screen track at the root (`main.tex`, `sections/`, `protocol.md`, `evidence-map.md`, `sources/`, `data/`, `scripts/`, `tests/`). Neither was dropped in the merge; reconcile them deliberately, not by deleting one.

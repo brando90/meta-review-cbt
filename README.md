@@ -38,3 +38,16 @@ latexmk -pdf main.tex      # or: tectonic main.tex
 
 ## Venue
 Primary target: *Clinical Psychology Review*. Fallbacks: *Perspectives on Psychological Science*, *Psychological Medicine*. See `review/venue.md`.
+
+---
+
+## Evidence-screen track (root-level files, merged from origin/main)
+
+The files below came from a parallel pass: protocol 0.2, a Europe PMC search baseline, a 21-record executive-function screen, and a short developing paper.
+
+- [Developing paper (PDF)](main.pdf), source `main.tex` and `sections/`
+- [Protocol 0.2](protocol.md), [evidence and gaps](evidence-map.md), [open questions](open-questions.md)
+- [Original blog draft](sources/blog-original.md), [prior 29-page critical review](sources/deep-research-draft-2.pdf)
+- Search receipts in `data/`, scripts in `scripts/`, tests in `tests/`
+
+The ten searches and the 21-record screen are an ADHD case study, not a search of all CBT evidence.

@@ -1,0 +1,13 @@
+\section{Source archive and reproducibility}
+\label{sec:appendix}
+The repository preserves the author's original blog Markdown, a Google document text export, and the 29-page deep-research Draft 2 PDF with extracted text.
+Source identifiers and SHA-256 hashes are recorded in \texttt{sources/manifest.json}.
+The imported review motivates the broader anxiety and cognitive-restructuring question and identifies itself as a critical theoretical review rather than a completed systematic review.
+Its claim of approximately 300 identifier-verified sources is not independently certified here; the underlying ledger was not retrieved.
+Its journal-style submission footer is not evidence of an actual submission.
+
+The current bibliography uses separately retrieved Europe PMC metadata, with a claim-and-scope ledger in \texttt{data/citation-evidence.csv}.
+Metadata and abstract checks establish source identity and support the limited statements used here; they do not replace full-text assessment for the review.
+Run \texttt{make test} for deterministic checks and \texttt{make paper} to compile this manuscript with latexmk and BibTeX.
+Search reruns use a new run label and retain earlier receipts.
+The public repository is \url{https://github.com/brando90/meta-review-cbt}.

@@ -205,6 +205,18 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local caches, LaTeX auxiliary files and rendering previews
+_build/
+tmp/
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+
 # Ruff stuff:
 .ruff_cache/
 

@@ -1,0 +1,9 @@
+{
+  "run_id": "baseline-10-21-2026",
+  "endpoint": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+  "script_sha256": "8c939660a78163c74a91996d8ad86724e2d2507f9672afba415fd4cb34d30352",
+  "query_manifest_sha256": "ef64d43763513e5417d762b5b7dd10c338a99e0dfc95a1ec8cd841ac5f1ff8ff",
+  "successful_slices": 10,
+  "total_slices": 10,
+  "counts_are_eligible_studies": false
+}
