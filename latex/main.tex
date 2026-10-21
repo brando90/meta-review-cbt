@@ -1,0 +1,47 @@
+% Target venue: Clinical Psychology Review (Elsevier), elsarticle class.
+% Fallbacks: Perspectives on Psychological Science (SAGE/APA 7), Psychological Medicine (CUP, 4,500 words).
+% Build: latexmk -pdf main.tex   (or: tectonic main.tex)
+\documentclass[preprint,12pt,authoryear]{elsarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,booktabs,hyperref}
+\biboptions{authoryear,round}
+\journal{Clinical Psychology Review}
+
+\usepackage{xcolor}
+\newcommand{\citegap}[1]{\textcolor{red}{[CITE: #1]}}
+
+\begin{document}
+\begin{frontmatter}
+\title{Reasoning Your Way Out of Anxiety? A Critical Review of Cognitive Restructuring, Executive Function and Adult ADHD}
+
+\author{Brando Miranda\corref{cor1}}
+\ead{brando9@stanford.edu}
+\cortext[cor1]{Corresponding author}
+\address{Stanford University, Stanford, CA, USA}
+
+\begin{abstract}
+Cognitive behavioral therapy (CBT) is the best-studied psychotherapy for anxiety, yet roughly half of treated patients do not respond, and the mechanism usually offered for its cognitive component---that patients change feelings by examining and replacing automatic thoughts---has seldom been tested against the cognitive demands it places on the patient. This review makes one argument. Cognitive restructuring is, mechanically, an executive-function task (working memory, inhibition, shifting). Anxiety and acute stress impair the prefrontal systems that support these functions, and attention-deficit/hyperactivity disorder (ADHD) is characterised by executive weaknesses before anxiety arrives. We therefore ask whether the ``argue with your thoughts'' component carries the benefit of CBT, or whether exposure, behavioural skills and repeated practice do. We (i) specify the executive demands of restructuring, (ii) review evidence on stress, anxiety and prefrontal function, (iii) review the efficacy evidence for CBT in anxiety and in adult ADHD, including the alternatives (mindfulness-based programmes, acceptance and commitment therapy, medication), (iv) review the sparse direct evidence on whether executive function moderates CBT outcome, and (v) steelman the case against the argument. The evidence supports a narrow claim and does not support a broad one: restructuring-heavy CBT is effective on average, but its cognitive mechanism is under-tested, no adequately powered trial has tested executive function as a moderator in working-age adults with ADHD and anxiety, and the best-supported active ingredients are behavioural. We close with preregistrable predictions and a research agenda. \textbf{This is draft 1; claims marked [CITE] await sources.}
+\end{abstract}
+
+\begin{keyword}
+cognitive behavioral therapy \sep cognitive restructuring \sep executive function \sep anxiety \sep ADHD \sep mindfulness \sep critical review
+\end{keyword}
+\end{frontmatter}
+
+\input{sections/01-introduction}
+\input{sections/02-demands}
+\input{sections/03-stress}
+\input{sections/04-adhd}
+\input{sections/05-evidence}
+\input{sections/06-ingredients}
+\input{sections/07-alternatives}
+\input{sections/08-moderators}
+\input{sections/09-objections}
+\input{sections/10-agenda}
+
+\section*{Declarations}
+\textbf{Funding:} none. \textbf{Competing interests:} none declared. \textbf{Author note:} this is a theoretical critical review by a non-clinician; it is not medical advice. \textbf{Data and materials:} the search record, verified bibliography and analysis logs are in the public repository accompanying this paper.
+
+\bibliographystyle{elsarticle-harv}
+\bibliography{../deep-research/references}
+\end{document}
