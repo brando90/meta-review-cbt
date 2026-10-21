@@ -1,0 +1,1 @@
+study_id,record_id,design,diagnosis,adult_n,outcome_n,medication,comparator,cbt_components,ef_measure,ef_domain,ef_timing,ef_measure_type,outcome,rater_blinding,timepoint,analysis_class,interaction_model,estimate_type,estimate,ci95_low,ci95_high,p_value,test_null,covariates,missing_data,prespecified,multiplicity,source_page,checked_by

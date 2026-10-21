@@ -1,0 +1,33 @@
+{
+  "manifest_created_utc": "2026-10-21T15:35:03.111599+00:00",
+  "files": {
+    "blog-original.md": {
+      "source": "https://github.com/brando90/brandomiranda/blob/eccdef6b5d6dbeb6a95b021341ffee330e42c3b0/_drafts/2026-10-19-why-cbt-doesnt-make-sense-to-me.md",
+      "format": "original Markdown",
+      "sha256": "554ed90a6a8db8762c74d2d37785e0a14bc74f217d76267606d38de1772ef835",
+      "bytes": 19156,
+      "retrieval_date": "2026-10-21"
+    },
+    "blog-draft-10-19-2026.txt": {
+      "source": "https://docs.google.com/document/d/1-3ynnqjyrLw-rwftcR6Rpa1h7bhbhCDThq4cZlmU0bI/edit",
+      "format": "connector text export",
+      "sha256": "713e225229c8c14ed24531b1b2c8bfa172c4c23dd6e6427003d797fd03da89ab",
+      "bytes": 18631,
+      "retrieval_date": "2026-10-21"
+    },
+    "deep-research-draft-2.pdf": {
+      "source": "https://drive.google.com/file/d/1DNICAHIXtoaPREg619iY1_Xa7i9W6eZC/view",
+      "format": "original PDF",
+      "sha256": "d1f866f02f98ab27f7f4b8659c4026456a4ea61ef5279f1f0f2416cb795eb957",
+      "bytes": 160647,
+      "retrieval_date": "2026-10-21"
+    },
+    "deep-research-draft-2.txt": {
+      "source": "deep-research-draft-2.pdf",
+      "format": "pdftotext -layout derivative",
+      "sha256": "8d8b4a2ed361df0cda97130e60f5f752f1bd7d73a737495895b50b3a4d7304cd",
+      "bytes": 63505,
+      "retrieval_date": "2026-10-21"
+    }
+  }
+}
