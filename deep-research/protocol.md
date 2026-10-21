@@ -12,4 +12,6 @@
 3. Record the entry in `sources/<slice>.md` with a VERIFIED (abstract or full text read) or PARTIAL (secondary source only) flag.
 4. Only VERIFIED or explicitly flagged PARTIAL sources enter `references.bib`.
 
+**Search yield (reproducible).** `search/europepmc_counts.py` runs ten Europe PMC strings and logs hit counts per slice (`search/counts-*.tsv`). Screening of those hits is not done yet.
+
 **Known limitations.** Search is targeted rather than a PRISMA-complete systematic search; a PRISMA-style umbrella search is listed as a future step in `review/open_questions.md`.
