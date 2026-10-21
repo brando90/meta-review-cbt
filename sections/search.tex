@@ -1,0 +1,14 @@
+\section{Search strategy}
+\label{sec:search}
+Ten overlapping search slices cover reviews, trials, executive-function associations, broader executive-function terms, specific cognitive processes, medication, components and comparators, adherence, functioning and anxiety.
+The complete Europe PMC, PubMed and PsycINFO translations are versioned in \texttt{search/queries.json}; Europe PMC strings are reproduced in the protocol.
+The baseline publication-date cutoff is October 21, 2026.
+Only Europe PMC has been executed in this initialization.
+PubMed and PsycINFO remain planned; the Ovid PsycINFO translations require institutional syntax validation.
+
+The standard-library Python script retrieves match counts, preserves request queries and response hashes, and appends dated rows to a comma-separated values (CSV) log.
+Each response includes only one record identifier, so this operation is not a complete screening export.
+A failed request is logged with a blank count and an error, never as zero.
+The historical notes of 27 reviews and 9 executive-function/moderator/outcome hits lack their exact search strings and dates and remain unverified.
+Current queries are not tuned to reproduce those numbers.
+Complete record exports, deduplication, reference checking and search sensitivity checks are required before eligibility or completeness claims, consistent with search-reporting guidance \citep{Rethlefsen2021}.

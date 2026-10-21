@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-21",
+  "pdf_sha256": "610e002fd0a5d8df13a29e33945782e8b80c949fef8bd9c1f7fc16ba6f879021",
+  "pdf_bytes": 205785,
+  "pages": 6,
+  "unit_tests_passed": 6,
+  "source_hashes_verified": 4,
+  "bibliography_records": 10,
+  "search_receipts_verified": 10,
+  "final_log_warnings": 0,
+  "undefined_citations": 0,
+  "undefined_references": 0,
+  "overfull_underfull_boxes": 0,
+  "visual_pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "builds": [
+    "make paper",
+    "latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex"
+  ]
+}

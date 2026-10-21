@@ -21,6 +21,8 @@ Primary synthesis: systematic reviews and meta-analyses of CBT for adult ADHD. S
 
 The [source archive](sources/README.md) contains the actual blog draft and the 29-page deep-research Draft 2, including its searchable text. Their arguments and citations are not silently relabeled as verified findings. The current [manuscript](main.pdf) and [citation evidence](data/citation-evidence.csv) distinguish retrieved support from questions still to be answered.
 
+A [Google project summary](https://docs.google.com/document/d/1f_iB6s4OG7D26Bns6782IGMuWA_GMTC_bEekB4_fERI/edit) mirrors the scope, measured counts and remaining evidence needs; anyone with the link can view it. Build and artifact checks are recorded in [validation](data/validation.md).
+
 ## Reproduce
 
 Requirements: Python 3.10+ (standard library only), TeX Live with `latexmk`, `pdflatex`, BibTeX, `natbib`, `booktabs`, `geometry`, `hyperref` and `microtype`; Poppler for optional PDF inspection.
