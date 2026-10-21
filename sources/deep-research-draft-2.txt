@@ -1,0 +1,1116 @@
+  Reasoning Your Way Out of Anxiety? A Critical
+Review of Cognitive Restructuring, Executive Function
+                  and Adult ADHD
+                                 Brando Miranda∗
+                        Stanford University, Stanford, CA, USA
+
+
+
+
+Abstract
+Cognitive behavioral therapy (CBT) is the best-studied psychotherapy for
+anxiety, yet only about half of treated patients respond, and the mecha-
+nism usually offered for its cognitive component, that patients change feel-
+ings by examining and replacing automatic thoughts, has seldom been tested
+against the cognitive demands it places on them. We ask whether cogni-
+tive restructuring is an executive-function task that anxiety and attention-
+deficit/hyperactivity disorder (ADHD) make harder, and whether it is the
+part of CBT that carries the benefit. We specify the executive demands of
+restructuring, review evidence on stress, anxiety and prefrontal function (in-
+cluding a check of the popular “prefrontal cortex goes off-line” claim against
+its sources), review eﬀicacy, bias and component evidence, review alternatives
+and CBT in adult ADHD, and assess the sparse direct evidence on executive
+function as a moderator of outcome. About 300 sources were DOI-verified.
+The evidence supports a narrow claim and not a broad one. Reappraisal
+draws on working memory in the laboratory, but evidence that stress abol-
+ishes it is contested. CBT is effective on average, though effects shrink with
+active controls and bias adjustment and have not grown over three decades.
+Component studies, though underpowered, repeatedly fail to find added ben-
+efit from restructuring over exposure or behavioural activation. Executive
+function predicts uptake of the cognitive skill in older adults more than over-
+all outcome. In adult ADHD, effective CBT protocols look behavioural, and
+
+  ∗
+      Corresponding author
+      Email address: brando9@stanford.edu (Brando Miranda)
+
+
+Preprint submitted to Clinical Psychology Review                 October 21, 2026
+we found no study of ADHD as a moderator of CBT for anxiety. We close
+with preregistrable predictions and a research agenda. Draft 2; for the
+author’s review.
+Keywords: cognitive behavioral therapy, cognitive restructuring, executive
+function, anxiety, ADHD, mindfulness, critical review
+
+
+1. Introduction
+    Cognitive behavioral therapy (CBT) is among the most heavily tested
+psychotherapies. A meta-analysis of 41 placebo-controlled trials in anxi-
+ety and related disorders (total N = 2,843) found that CBT outperformed
+placebo on target symptoms with a moderate effect (Hedges’ g = 0.56) (Car-
+penter et al., 2018). The same literature also shows a ceiling: across 87
+studies only about half of patients respond to CBT for anxiety disorders,
+and the figure depends on how response is defined (Loerinc et al., 2015); a
+larger meta-analysis of 100 articles reports a mean remission rate of 51.0%
+(Springer et al., 2018). A therapy can work on average and still leave open
+why it works and for whom.
+    The textbook account of CBT’s cognitive component is a top-down loop.
+A situation triggers an automatic thought (“I am going to fail this talk”);
+the patient records it, names the distortion, weighs evidence for and against,
+and generates a more balanced thought; the feeling is expected to follow.
+This review asks a narrow question about that loop: does the mechanism ask
+the patient to use a capacity that anxiety, and in some patients attention-
+deficit/hyperactivity disorder (ADHD), has already degraded? If so, the cog-
+nitive component should depend on baseline executive capacity, should be
+harder to use when stressed than when calm, and should contribute less to
+outcome than behavioural elements that do not demand effortful reasoning.
+    The argument has a popular version. Judson Brewer, a clinician-researcher,
+argues that anxiety takes the prefrontal cortex “off-line,” so that willpower
+and reasoning are unavailable at the moments when they are needed (Brewer,
+2016, 2021), and he has applied this directly to CBT (Brewer, 2026). Our
+aim is to find out how much of this survives contact with the primary liter-
+ature. Our answer, in brief, is that a narrow version survives and the strong
+version does not.
+What we find.. (1) Reappraisal does draw on working memory in laboratory
+studies, but evidence that acute stress abolishes it is thin and contested.
+
+                                     2
+(2) The direct evidence that executive function moderates CBT outcome is
+sparse and mostly null for overall outcome, with the clearest signal at the
+level of the cognitive skill itself. (3) Component studies repeatedly find that
+adding cognitive restructuring to exposure or behavioural activation does not
+add measurable benefit, but these studies are underpowered and a minority
+find a benefit. (4) CBT’s headline effects shrink with active controls and
+bias adjustment; whether they shrink over time is disputed. (5) In adult
+ADHD, CBT is modestly effective, mostly as an adjunct to medication, and
+the plausible active ingredient is behavioural compensation; we found no trial
+testing ADHD as a moderator of CBT for anxiety in adults.
+Contributions.. (i) An explicit decomposition of cognitive restructuring into
+executive demands (Section 3); (ii) an evidence-graded review of the stress-
+and-prefrontal premise, including a check of the “off-line” claim against its
+sources (Section 4); (iii) a review of eﬀicacy, bias and component evidence
+(Sections 6–7); (iv) a review of alternatives and of CBT in adult ADHD (Sec-
+tions 8–9); (v) the direct moderator evidence (Section 10); (vi) preregistrable
+predictions (Section 12).
+
+2. Method
+    This is a critical (theoretical) review, not a PRISMA-complete systematic
+review. It selects the literatures needed to evaluate one mechanistic argument
+and states what each can and cannot show. Searches ran in October 2026
+across PubMed, Europe PMC, Crossref, publisher pages and the reference
+lists of key meta-analyses, in four slices: (a) eﬀicacy, bias and head-to-head
+comparisons; (b) mechanisms and component (dismantling) studies, includ-
+ing exposure and third-wave alternatives; (c) executive function, stress and
+emotion regulation, including executive function as a moderator of treatment;
+and (d) ADHD (CBT, medication, mindfulness, executive function, anxiety
+comorbidity). Priority was given to meta-analyses, umbrella reviews, compo-
+nent trials and moderator studies, and to the strongest critiques and defences
+of CBT.
+Verification.. Every reference was resolved through Crossref (title, authors
+and year compared with the intended citation). Every quoted number was
+read from the abstract or full text, not recalled. Roughly 300 candidate
+sources were verified this way; several candidate references proposed from
+memory were dropped because the DOI did not resolve or resolved to a
+
+                                      3
+different paper. Sources for which only a partial abstract or a secondary
+summary was available are flagged in deep-research/sources/. Popular
+sources (books, talks, blogs) are cited only for the claims their authors make.
+
+Limitations of the method.. Single-reviewer screening; no pre-registered pro-
+tocol; no formal risk-of-bias assessment of included reviews; evidence from
+depression is used where anxiety evidence on a question is thin, and flagged
+when so. A PRISMA-style umbrella search is the obvious next step (Sec-
+tion 12).
+
+3. What cognitive restructuring asks of the patient
+    Consider the standard thought-record exercise. The patient must (a) no-
+tice an automatic thought while it is occurring, (b) hold the thought, the
+supporting evidence, the contradicting evidence and a candidate alternative
+in mind at once, (c) suppress the pull of the automatic thought while evalu-
+ating it, and (d) shift from being inside the feeling to observing it. Mapped
+onto the best-known model of executive function, these are three separable
+components: updating and holding information (working memory), inhibit-
+ing a prepotent response, and shifting between mental sets (Miyake et al.,
+2000).
+
+Laboratory evidence that reappraisal draws on executive resources.. In event-
+related-potential studies, high working-memory load eliminated the effect of
+reappraisal on the late positive potential (Gan et al., 2017; Adamczyk et al.,
+2022). Working-memory capacity predicted reappraisal success (Schmeichel
+et al., 2008), and reappraising late in an emotional response, once emotion is
+already intense, costs self-control resources (Sheppes and Meiran, 2008). Peo-
+ple also choose differently as intensity rises: they prefer distraction to reap-
+praisal in high-intensity negative situations and reappraisal in low-intensity
+ones (Sheppes et al., 2011).
+
+Evidence that it works, and can be trained, when load is low.. Instructed
+reappraisal reduces negative experience in the laboratory (Hofmann et al.,
+2009) and can be trained (Denny and Ochsner, 2014). So the claim is not
+that reappraisal fails; it is that it costs executive resources, which matters
+when those resources are scarce.
+
+
+
+
+                                       4
+Two clarifications.. First, this is a task analysis plus laboratory support,
+not a treatment finding. Clinicians scaffold the load (worksheets, a therapist
+who prompts for evidence, graded practice). Second, executive function is
+not a single resource; the argument concerns working memory, inhibition and
+shifting, not general intelligence. We return to both in Section 11.
+
+4. Stress, anxiety and the prefrontal executive system
+4.1. Mechanistic neuroscience
+    The most developed account is due to Arnsten. Her review of stress sig-
+nalling describes the prefrontal cortex (PFC) as the most evolved brain region
+and also the one most sensitive to the detrimental effects of stress exposure
+(Arnsten, 2009). The proposed mechanism is an inverted-U in catecholamine
+signalling: moderate norepinephrine and dopamine levels support prefrontal
+network firing and working memory, while the high levels of uncontrollable
+stress weaken them and strengthen amygdala and striatal habit circuitry. A
+later review summarises the result as stress rapidly flipping the brain from
+reflective to reflexive control of behaviour (Arnsten, 2015). Acute uncontrol-
+lable stress impairs PFC-dependent working memory in monkeys and rodents
+(Arnsten and Goldman-Rakic, 1998). In humans, a meta-analysis finds that
+acute stress impairs working memory and cognitive flexibility, with more nu-
+anced effects on inhibition and many moderators (Shields et al., 2016), and
+imaging suggests a reallocation of resources toward salience networks rather
+than a switch-off (Hermans et al., 2014).
+
+Where the “off-line” language comes from.. The phrase traces to a hedged
+line in a 1998 monkey study (“Stress may take the PFC ‘off-line”’; Arnsten
+and Goldman-Rakic 1998), and its author still uses it in quotation marks for
+uncontrollable stress (Arnsten, 2020). Brewer and Roy apply it to worry and
+cite Arnsten’s 2009 and 2015 reviews, which are not studies of worry (Brewer
+and Roy, 2021); their app-based trial (n = 65, treatment-as-usual control)
+did not test a prefrontal mechanism (Roy et al., 2021). We therefore read
+“offline” as a popularisation of impaired, in a graded and dose-dependent way,
+mainly under uncontrollable stress.
+
+4.2. Does stress abolish reappraisal in humans?
+    Evidence for this specific link is contested. The founding study found that
+participants stressed before learning showed no fear reduction after regulation
+
+                                      5
+training (Raio et al., 2013), and a review summarises that acute stress may
+impair the persistent inhibition of fear, presumably by altering prefrontal
+function (Raio and Phelps, 2015). Five later studies (n = 54–98) found no
+group-level impairment (Shermohammed et al., 2017; Sandner et al., 2021;
+Langer et al., 2021, 2023; Hamza et al., 2024), though two reported sex- or
+cortisol-linked effects. Their laboratory stressors were moderate, so the null
+results may not transfer to clinical-level arousal; that gap is itself an open
+question.
+
+4.3. Cognitive psychology of anxiety
+    Attentional Control Theory proposes that anxiety impairs the inhibition
+and shifting functions of executive control, so that anxious individuals are
+more captured by threat and worse at redirecting attention (Eysenck et al.,
+2007). The theory predicts that eﬀiciency (effort and time) suffers more than
+effectiveness (accuracy), because anxious people compensate with extra ef-
+fort. Meta-analytic support exists at group level (g = −0.58; Shi et al., 2019)
+and for working memory (g = −0.334; Moran, 2016), but with qualifiers: a
+meta-analysis of 32 studies (N = 13,084) found generalised anxiety disorder
+(GAD) associated with poorer cognitive flexibility and working memory but
+not inhibitory control, and with no association with any executive domain in
+older adults (Nguyen et al., 2025). Working memory was unrelated to social
+anxiety in one study (Harrison et al., 2025), and one study found enhanced
+control over negative distractors in GAD (Hallion et al., 2019).
+
+5. Executive function in ADHD
+    ADHD is heterogeneous: executive diﬀiculties are common but not uni-
+versal. A meta-analysis of 83 studies found that groups with ADHD under-
+perform controls on every executive task class examined, most strongly on
+response inhibition, vigilance, working memory and planning, with medium
+effect sizes (0.46–0.69) (Willcutt et al., 2005). The same authors caution that
+executive weaknesses are neither necessary nor suﬀicient to cause all cases of
+ADHD, and fewer than half of the (mostly child) samples show impairment
+on any single executive test (Willcutt et al., 2005). Measured more carefully,
+impairment is more prevalent: in a sample of 136 children, 89% of those
+with ADHD were impaired on at least one executive function (62% working
+memory, 27% inhibitory control, 38% set shifting) (Kofler et al., 2019).
+
+
+                                      6
+     Anxiety is common in adult ADHD: a meta-analysis of 58 studies (N =
+18,821) found higher anxiety scores in adults with ADHD than without
+(g = 0.77; g = 0.95 against non-clinical and g = 0.44 against clinical con-
+trols) (Hoskins et al., 2026). Whether anxiety adds executive load in ADHD
+is less clear: in a sample of 339 children, trait anxiety did not uniquely pre-
+dict working memory or inhibitory control, nor moderate the ADHD effect
+(Marsh et al., 2024). The stacking assumption (low baseline executive ca-
+pacity, lowered further by anxiety) is therefore plausible but, in children at
+least, not supported by the one careful test we found.
+
+6. What the eﬀicacy evidence shows
+6.1. The case for CBT
+    Against placebo, CBT outperforms on anxiety target symptoms (g = 0.56
+across 41 trials; Carpenter et al. 2018). Against inactive controls, effects are
+larger: a meta-analysis of 144 trials found g = 0.75 (depression) to 0.88
+(social anxiety disorder), with 0.80 for GAD and 0.81 for panic disorder
+(Cuijpers et al., 2016). A 2025 network of 375 trials gave anxiety-spectrum
+effects between 0.5 and 1.0, above 1.0 for PTSD and specific phobia (Cuijpers
+et al., 2025). In social anxiety, individual CBT ranked best of the therapies
+compared in a network meta-analysis of 101 trials (Mayo-Wilson et al., 2014),
+and in GAD only CBT remained significantly better than treatment as usual
+at 3–12 months in a network of 65 trials (Papola et al., 2024). Any critique
+has to explain why CBT works at all.
+
+6.2. The headline shrinks with better controls and bias adjustment
+   • Control type. More than 80% of anxiety trials used waitlist controls,
+      and the few that did not showed much smaller effects (Cuijpers et al.,
+      2016); only 17.4% of trials in that analysis were high quality. In the
+      375-trial analysis, waitlist-controlled effects exceeded g = 0.94, while
+      care-as-usual comparisons gave 0.22–1.13 (Cuijpers et al., 2025).
+
+   • Bias. In depression, psychotherapy effects fell from g = 0.70 to
+     g = 0.31 after adjusting for several sources of bias, with only 23%
+     of studies at low risk of bias (Cuijpers et al., 2019a). Of NIH-funded
+     psychotherapy trials, 23.6% never reached publication; including them
+     reduced the pooled effect by about 25% (Driessen et al., 2015). An
+     umbrella review of 102 recent meta-analyses (3,782 RCTs) found most
+
+                                       7
+      target-symptom effects small and pooled psychotherapy effects of 0.34
+      against placebo or treatment as usual (Leichsenring et al., 2022).
+   • Response and remission. About half of anxiety patients respond or
+     remit (Loerinc et al., 2015; Springer et al., 2018).
+6.3. Does the effect shrink over time?
+    This is contested, and the evidence is mixed. In depression, one meta-
+analysis reported a steady decline in CBT effects since its introduction (Johnsen
+and Friborg, 2015), but a reanalysis restricted to randomised comparisons
+judged the decline “most likely a spurious finding” (Cristea et al., 2017), and
+a 409-trial meta-analysis found no reduction by publication year (Cuijpers
+et al., 2023). In anxiety, a meta-regression of 49 controlled studies over 30
+years found a flat trend (publication year B = −0.008, p = .24): effects
+“did not increase over the last 3 decades” (Hofmann et al., 2025). Placebo-
+controlled anxiety estimates have been reported at lower values in successive
+reviews (0.73, 0.56, 0.24), but those come from separate reviews with differ-
+ent case mixes, not from one meta-regression. We therefore do not claim a
+decline over time; the defensible statement is that effects have not grown and
+that they are sensitive to control condition and bias.
+
+7. Where the active ingredients may lie
+7.1. Component and dismantling evidence
+    The foundational dismantling trial (depression, N = 150) found no evi-
+dence that the complete cognitive treatment outperformed behavioural acti-
+vation alone or behavioural activation plus automatic-thought skills at ter-
+mination or at 6 months (Jacobson et al., 1996), and a large non-inferiority
+trial found behavioural activation as effective as CBT (mean PHQ-9 differ-
+ence 0.1; Richards et al. 2016). In anxiety:
+   • In a 108-trial meta-analysis, cognitive therapy, exposure and their com-
+     binations were eﬀicacious with “no differential eﬀicacy for any treat-
+     ment components” (Norton and Price, 2007).
+   • In a full-factorial trial of internet CBT for social anxiety (N = 464),
+     conditions with psychoeducation and exposure were more effective,
+     while conditions with cognitive restructuring or attention training were
+     not superior at post-treatment; the advantage of exposure faded at
+     follow-up (Šipka et al., 2025).
+
+                                      8
+   • Adding cognitive restructuring to prolonged exposure did not enhance
+     outcome in assault survivors with PTSD (Foa et al., 2005), nor in
+     children with social anxiety (de Mooij et al., 2023).
+
+   • A component network meta-analysis in panic disorder (72 studies) sin-
+     gled out interoceptive exposure, not cognitive restructuring, as eﬀicacy-
+     enhancing (Pompoli et al., 2018).
+
+   • In GAD, the network meta-analysis authors concluded that pure cog-
+     nitive restructuring was not a decisively active ingredient when con-
+     sidered alone (Papola et al., 2024); the paper was later corrected for
+     a duplicated cohort and an error in standard-error handling (JAMA
+     Psychiatry, 2024).
+
+7.2. Evidence against the claim
+    These findings are not uniform.
+
+   • Cognitive therapy beat exposure in social phobia in a meta-analysis of
+     20 direct comparisons (N = 1,308), with no difference in PTSD, OCD
+     or panic (Ougrin, 2011).
+
+   • In a trauma trial, adding cognitive restructuring to exposure was asso-
+     ciated with PTSD rates of 31% versus 63–75% without it at 6 months
+     (Bryant et al., 2008).
+
+   • In-session cognitive restructuring correlates with outcome (r = .35),
+     though from only four studies and correlationally (Ezawa and Hollon,
+     2023).
+
+   • In a single-session trial (N = 249), restructuring before exposure worked
+     about as well as behavioural experiments and better than exposure
+     without explicit processing (Johnco et al., 2025).
+
+   • The exposure–cognition split is blurred: exposure may itself work by
+     changing the expectancy of harm (Hofmann, 2008).
+
+7.3. Why the component evidence is weak on both sides
+    A review of 16 component studies concluded that they lack “the statistical
+power nor the quality to draw any meaningful conclusion,” because none
+except one could detect an effect smaller than g = 0.55 (Cuijpers et al., 2017).
+
+                                       9
+Mediation evidence is correlational: cognitive change tracks symptom change
+however it is produced (Cristea et al., 2015; Lorenzo-Luaces et al., 2015),
+cognitive mediation of symptom reduction was limited in a depression cohort
+(median r = .06; Vittengl et al., 2014), and reviewers say no common or
+specific factor meets causal criteria (Kazdin, 2007; Cuijpers et al., 2019b). A
+null component result is thus weak evidence that restructuring adds nothing,
+and a positive correlation is weak evidence that it matters.
+
+7.4. The strongest defence: practice when calm
+    A defender can answer that patients do not restructure during a panic;
+they practise when calm so the response becomes automatic. We accept the
+force of this. It changes the claim, though: if rehearsal during calm periods
+does the work, the active ingredient is practice and habit formation, and the
+relevant question is the executive cost of each rehearsal. Exposure, which is
+central to anxiety CBT, is behavioural, and optimised exposure protocols are
+explicitly framed around expectancy violation and extinction (Craske et al.,
+2014).
+
+8. Alternatives and their evidence
+8.1. Mindfulness and acceptance-based treatments
+    The alternative that follows from the argument is to train attention and
+acceptance directly rather than dispute thoughts. Brewer frames anxiety as
+a habit loop (trigger, worry, a feeling of control) and proposes noticing, cu-
+riosity about the reward value of worry, and a “bigger, better offer” (Brewer,
+2021). Evidence for the specific programme is early: in a randomised trial of
+an app-based programme for GAD (n = 65), anxiety scores fell 67% versus
+14% under usual care, with mediation implicating reduced worry (Roy et al.,
+2021). The trial is small, self-reported, compared with usual care rather than
+CBT, and has the programme’s developer among its authors.
+    Against evidence-based comparators, mindfulness and acceptance ap-
+proaches show parity, not superiority. A meta-analysis found essentially no
+difference (g ≈ 0.00) between mindfulness-based interventions and evidence-
+based treatments, often CBT (Goldberg et al., 2018); another found no differ-
+ence from traditional CBT or behavioural therapies (g = −.07, nine compar-
+isons; Khoury et al. 2013). For acceptance and commitment therapy (ACT)
+versus CBT, the pooled difference was non-significant in one meta-analysis
+(A-Tjak et al., 2014), and a sceptical reading of 60 RCTs concluded that
+
+                                      10
+ACT is not yet well-established for any disorder (Öst, 2014). In 276 adults
+with anxiety disorders, eight weeks of mindfulness-based stress reduction was
+noninferior to escitalopram, with fewer discontinuations for adverse events
+(Hoge et al., 2023). That is parity with a first-line drug, not superiority to
+CBT. The convergence of camps is itself informative: if CBT, behavioural
+activation, ACT and mindfulness are roughly equivalent, either common fac-
+tors dominate or several mechanisms lead to the same place.
+
+8.2. Medication in ADHD
+     In a network meta-analysis of 133 double-blind trials, amphetamines
+(standardised effect −0.79) and methylphenidate (−0.49) outperformed placebo
+in adults on clinician ratings, over short follow-up (Cortese et al., 2018). The
+certainty varied from high or moderate to low or very low. A Cochrane re-
+view of extended-release methylphenidate found a self-rated effect of −0.37,
+judged 20 of 21 trials at high risk of bias, and noted that all trials excluded
+participants with psychiatric comorbidity such as anxiety or selected previ-
+ous responders (Boesen et al., 2022). So the pivotal medication trials say
+little about adults with ADHD and anxiety.
+
+9. CBT in adult ADHD
+9.1. Eﬀicacy
+    A randomised trial of 86 medication-treated adults found that CBT out-
+performed relaxation with educational support, with 53% versus 23% re-
+sponders on clinician global ratings (Safren et al., 2010); a smaller earlier
+trial found 56% versus 13% responders for CBT added to medication (Safren
+et al., 2005). A meta-analysis of 32 studies found a between-group effect of
+g = .65 on symptoms, smaller with active controls, and neither medication
+status nor treatment length moderated outcome (Knouse et al., 2017). An-
+other found SMD 0.76 against waitlist but 0.43 against active controls (Young
+et al., 2020), and a 2026 meta-analysis of 14 RCTs found SMD −0.45 on core
+symptoms and −0.43 on executive function (Liu et al., 2026). A component
+network meta-analysis of 113 RCTs found CBT better than placebo only on
+clinician-reported measures (Ostinelli et al., 2025), and blinded-rater effects
+of psychological treatments were attenuated to non-significance in an earlier
+synthesis that did not separate adult from child samples (Sonuga-Barke et al.,
+2013). An umbrella review judged CBT, atomoxetine and methylphenidate
+to have at least moderate-certainty evidence in adults, with no high-certainty
+
+                                      11
+long-term evidence for any intervention (Gosling et al., 2025). The Cochrane
+review rates the CBT evidence as low quality (Lopez et al., 2018).
+
+9.2. What the protocols contain, and where CBT sits
+    The effective protocols are skills-heavy: time management, organisation
+and planning, with adaptive thinking as one module (Safren et al., 2010;
+Solanto et al., 2010). One review argued that learning behavioural compen-
+satory strategies “may be a critical active ingredient” (Knouse and Safren,
+2010), and the authors of one trial proposed behavioural control as the key
+mechanism (Young et al., 2017). We found no dismantling study of cognitive
+restructuring in adult ADHD, so this is inference. In the largest multi-centre
+trial (N = 433), group CBT did not beat structured clinical management,
+while methylphenidate beat placebo (Philipsen et al., 2015). Guidelines posi-
+tion CBT as an adjunct to medication (Kooij et al., 2019; National Institute
+for Health and Care Excellence, 2018). Results on adding medication to CBT
+are mixed: no incremental benefit in a small double-blind pilot (Weiss et al.,
+2012), but greater early improvement in an unblinded trial (N = 88), with
+the gap narrowing over follow-up (Cherkasova et al., 2020).
+
+9.3. Anxiety in ADHD
+    In a meta-analysis of 13 RCTs (n = 744), CBT-based interventions re-
+duced anxiety in ADHD modestly (SMD −0.29 post-treatment, −0.42 at
+follow-up), with effects more apparent in adults; most trials delivered ADHD-
+focused rather than anxiety-targeted CBT (Wang et al., 2026). Another
+meta-analysis found CBT improved anxiety, particularly at follow-up, pre-
+dicted by core-symptom reduction (López-Pinar et al., 2020). In children
+with primary anxiety in group CBT (N = 842), neither ADHD diagnosis nor
+subtype predicted response or remission, which cuts against the strong form
+of our thesis (Gould et al., 2018). The adult version of that question appears
+untested.
+
+10. Does executive function moderate CBT outcome?
+    This is the question on which the argument stands or falls. The direct
+evidence is thin and mostly from older adults.
+
+  • Supports (at the level of the skill). In older adults, poorer cogni-
+    tive flexibility predicted poorer cognitive-restructuring quality and less
+
+                                     12
+      distress reduction from restructuring, but not overall CBT outcome:
+      those with poorer flexibility “can still benefit from standardised CBT”
+      (Johnco et al., 2014).
+   • Supports (pilot). In a pilot of CBT for GAD in older adults, par-
+     ticipants whose executive scores remained low did not respond, while
+     those whose scores improved responded as well as an intact-executive
+     group (Mohlman and Gorman, 2005).
+   • Null or mixed. No baseline executive effect was found in adult OCD
+     (Vandborg et al., 2016), child anxiety (Godovich et al., 2020) or brief
+     psychotherapy for late-life depression (Schurr et al., 2025); a system-
+     atic review of late-life anxiety found no replicated executive predictor
+     (Kyriacou et al., 2023). In a meta-analysis of antidepressant response
+     in late-life depression, only planning and organisation predicted out-
+     come (Pimontel et al., 2016).
+   • Opposite direction. Better executive performance went with non-
+     response to exposure-based CBT in paediatric OCD (Hybel et al.,
+     2017), and worse set-shifting went with better CBT response in late-life
+     depression (Goodkind et al., 2016).
+   • Adaptation helps. Problem-solving therapy beat supportive therapy
+     in older adults with executive impairment, with a larger advantage
+     at greater impairment (Areán et al., 2010), which points to adapting
+     therapy rather than abandoning it.
+Taken together, “low executive function means CBT fails” is not supported.
+A narrower claim is: executive capacity may limit uptake of the cognitive skill
+without limiting overall response, because CBT also works through routes
+that do not need it. We found no adequately powered study of working-age
+adults with ADHD and anxiety.
+
+11. The strongest objections
+   1. CBT has a large evidence base. Yes (Section 6). The argument
+      concerns mechanism and moderators, not average eﬀicacy.
+   2. CBT for adult ADHD works. It beats matched controls in medi-
+      cated adults with a skills-heavy protocol; the evidence is graded low to
+      moderate (Section 9).
+
+                                      13
+  3. Patients practise when calm. Accepted (Section 7); it relocates the
+     active ingredient to practice.
+  4. Exposure is behavioural. Likewise; it strengthens the argument
+     against restructuring specifically, though exposure may act via changed
+     expectancies (Hofmann, 2008).
+  5. Mindfulness is not better. True. The argument needs only that
+     restructuring is not uniquely necessary.
+  6. Cognitive therapy sometimes wins. Yes, in social phobia (Ougrin,
+     2011) and in one PTSD trial (Bryant et al., 2008).
+  7. The neuroscience is about acute stress. Correct, and the human
+     reappraisal-under-stress findings are mixed (Section 4).
+  8. Executive function does not predict CBT outcome. Largely
+     true for overall outcome (Section 10); the argument survives only in
+     the narrower, skill-level form.
+  9. Therapists scaffold the executive load. Plausible and untested;
+     a therapist who generates the evidence list lowers demand and could
+     erase a moderator effect.
+
+Limitations. Narrative review by a non-clinician; single-reviewer screening;
+several key studies are in older adults or children; evidence from depression
+stands in for anxiety on some questions (component trials, bias adjustment,
+decline over time).
+
+12. Predictions and a research agenda
+   The argument yields predictions that could fail.
+  1. P1 (skill-level moderation). Baseline executive function predicts
+     acquisition of restructuring skill more than acquisition of exposure-
+     based skills, and predicts overall outcome only weakly.
+  2. P2 (stress-dependence). The gap between calm and in-the-moment
+     reappraisal is larger in low-executive-function samples and at higher
+     arousal than the moderate stressors used so far.
+  3. P3 (component). In adults with ADHD and anxiety, an exposure-
+     and-behaviour protocol is not inferior to the same protocol plus re-
+     structuring.
+  4. P4 (ADHD). ADHD status predicts less benefit from the cognitive
+     module specifically.
+
+                                     14
+What would refute the argument: an adequately powered study find-
+ing no moderation of skill acquisition by executive function; a component
+trial showing that restructuring adds substantial benefit over exposure; or
+meta-regression showing executive-function-heavy samples respond as well.
+The cheapest next steps are (i) an individual-participant or meta-regression
+analysis of existing trials (see experiments/), (ii) a PRISMA-style umbrella
+search to lift this review’s method to the target journal’s standard, and (iii)
+a power calculation for a moderator trial.
+
+13. Conclusion
+    Restructuring-heavy CBT is effective on average, though less so against
+active controls and after bias adjustment, and its effects have not grown over
+three decades. What is not established is that the cognitive component is the
+active ingredient, or that it fails for people with low executive function. The
+best-supported claims are narrow: reappraisal draws on working memory;
+component studies, though underpowered, repeatedly fail to find an added
+benefit of restructuring over behavioural elements; executive capacity may
+limit the uptake of the cognitive skill but not overall response; and in adult
+ADHD the effective ingredients look behavioural. The strong, popular form
+of the argument, that anxiety takes the prefrontal cortex “off-line,” is not
+supported by the primary literature. Direct tests in adults with ADHD and
+anxiety are the missing evidence.
+
+Declarations
+    Funding: none. Competing interests: none declared. Author note:
+this is a theoretical critical review by a non-clinician; it is not medical advice.
+Data and materials: the search record, verified bibliography and analysis
+logs are in the public repository accompanying this paper.
+
+References
+A-Tjak, J.G., Davis, M.L., Morina, N., Powers, M.B., Smits, J.A., Em-
+  melkamp, P.M., 2014. A meta-analysis of the eﬀicacy of acceptance and
+  commitment therapy for clinically relevant mental and physical health
+  problems. Psychotherapy and Psychosomatics 84, 30–36. doi:10.1159/
+  000365764.
+
+
+                                        15
+Adamczyk, A.K., Wyczesany, M., van Peer, J.M., 2022. High working mem-
+  ory load impairs reappraisal but facilitates distraction – an event-related
+  potential investigation. Biological Psychology 171, 108327. doi:10.1016/
+  j.biopsycho.2022.108327.
+Areán, P.A., Raue, P., Mackin, R.S., Kanellopoulos, D., McCulloch, C.,
+  Alexopoulos, G.S., 2010. Problem-solving therapy and supportive therapy
+  in older adults with major depression and executive dysfunction. Ameri-
+  can Journal of Psychiatry 167, 1391–1398. doi:10.1176/appi.ajp.2010.
+  09091327.
+Arnsten, A.F., 2020. Guanfacine’s mechanism of action in treating prefrontal
+  cortical disorders: Successful translation across species. Neurobiology of
+  Learning and Memory 176, 107327. doi:10.1016/j.nlm.2020.107327.
+Arnsten, A.F.T., 2009. Stress signalling pathways that impair prefrontal
+  cortex structure and function. Nature Reviews Neuroscience 10, 410–422.
+  doi:10.1038/nrn2648.
+Arnsten, A.F.T., 2015. Stress weakens prefrontal networks: molecular insults
+  to higher cognition. Nature Neuroscience 18, 1376–1385. doi:10.1038/nn.
+  4087.
+Arnsten, A.F.T., Goldman-Rakic, P.S., 1998. Noise stress impairs prefrontal
+  cortical cognitive function in monkeys. Archives of General Psychiatry 55.
+  doi:10.1001/archpsyc.55.4.362.
+Boesen, K., Paludan-Müller, A.S., Gøtzsche, P.C., Jørgensen, K.J., 2022.
+  Extended-release methylphenidate for attention deficit hyperactivity dis-
+  order (adhd) in adults. Cochrane Database of Systematic Reviews 2022.
+  doi:10.1002/14651858.cd012857.pub2.
+Brewer, J., 2016. A simple way to break a bad habit. TEDMED talk.
+  URL:      https://drjud.com/a-simple-way-to-break-a-bad-habit/.
+  transcript on the author’s site. Popular talk; cited for the author’s own
+  claims.
+Brewer, J., 2021. Unwinding Anxiety: New Science Shows How to Break
+  the Cycles of Worry and Fear to Heal Your Mind. Avery. Popular-science
+  book by a clinician-researcher. Cited for the author’s own claims, not as
+  primary evidence.
+
+                                     16
+Brewer, J., 2026. Why CBT doesn’t work for everyone with anxiety (and
+  what to try next). drjud.com, dated 2026-02-10. URL: https://drjud.
+  com/anxiety/cbt-not-working/. author’s website; opinion, not peer re-
+  viewed.
+
+Brewer, J.A., Roy, A., 2021. Can approaching anxiety like a habit lead to
+  novel treatments? American Journal of Lifestyle Medicine 15, 489–494.
+  doi:10.1177/15598276211008144.
+
+Bryant, R.A., Moulds, M.L., Guthrie, R.M., Dang, S.T., Mastrodomenico,
+  J., Nixon, R.D.V., Felmingham, K.L., Hopwood, S., Creamer, M., 2008. A
+  randomized controlled trial of exposure therapy and cognitive restructur-
+  ing for posttraumatic stress disorder. Journal of Consulting and Clinical
+  Psychology 76, 695–703. doi:10.1037/a0012616.
+
+Carpenter, J.K., Andrews, L.A., Witcraft, S.M., Powers, M.B., Smits, J.A.J.,
+  Hofmann, S.G., 2018. Cognitive behavioral therapy for anxiety and re-
+  lated disorders: A meta‐analysis of randomized placebo‐controlled trials.
+  Depression and Anxiety 35, 502–514. doi:10.1002/da.22728.
+
+Cherkasova, M.V., French, L.R., Syer, C.A., Cousins, L., Galina, H.,
+  Ahmadi-Kashani, Y., Hechtman, L., 2020. Eﬀicacy of cognitive behav-
+  ioral therapy with and without medication for adults with adhd: A
+  randomized clinical trial. Journal of Attention Disorders 24, 889–903.
+  doi:10.1177/1087054716671197.
+
+Cortese, S., Adamo, N., Del Giovane, C., Mohr-Jensen, C., Hayes, A.J.,
+  Carucci, S., Atkinson, L.Z., Tessari, L., Banaschewski, T., Coghill, D.,
+  Hollis, C., Simonoff, E., Zuddas, A., Barbui, C., Purgato, M., Stein-
+  hausen, H.C., Shokraneh, F., Xia, J., Cipriani, A., 2018. Compara-
+  tive eﬀicacy and tolerability of medications for attention-deficit hyper-
+  activity disorder in children, adolescents, and adults: a systematic re-
+  view and network meta-analysis. The Lancet Psychiatry 5, 727–738.
+  doi:10.1016/S2215-0366(18)30269-4.
+
+Craske, M.G., Treanor, M., Conway, C.C., Zbozinek, T., Vervliet, B., 2014.
+  Maximizing exposure therapy: An inhibitory learning approach. Behaviour
+  Research and Therapy 58, 10–23. doi:10.1016/j.brat.2014.04.006.
+
+
+
+                                    17
+Cristea, I.A., Huibers, M.J., David, D., Hollon, S.D., Andersson, G., Cui-
+  jpers, P., 2015. The effects of cognitive behavior therapy for adult de-
+  pression on dysfunctional thinking: A meta-analysis. Clinical Psychology
+  Review 42, 62–71. doi:10.1016/j.cpr.2015.08.003.
+
+Cristea, I.A., Stefan, S., Karyotaki, E., David, D., Hollon, S.D., Cuijpers, P.,
+  2017. The effects of cognitive behavioral therapy are not systematically
+  falling: A revision of johnsen and friborg (2015). Psychological Bulletin
+  143, 326–340. doi:10.1037/bul0000062.
+
+Cuijpers, P., Cristea, I.A., Karyotaki, E., Reijnders, M., Hollon, S.D., 2017.
+  Component studies of psychological treatments of adult depression: A
+  systematic review and meta-analysis. Psychotherapy Research 29, 15–29.
+  doi:10.1080/10503307.2017.1395922.
+
+Cuijpers, P., Cristea, I.A., Karyotaki, E., Reijnders, M., Huibers, M.J., 2016.
+  How effective are cognitive behavior therapies for major depression and
+  anxiety disorders? a meta‐analytic update of the evidence. World Psychi-
+  atry 15, 245–258. doi:10.1002/wps.20346.
+
+Cuijpers, P., Harrer, M., Miguel, C., Ciharova, M., Papola, D., Basic, D.,
+  Botella, C., Cristea, I., de Ponti, N., Donker, T., et al., 2025. Cognitive
+  behavior therapy for mental disorders in adults. JAMA Psychiatry 82,
+  563. doi:10.1001/jamapsychiatry.2025.0482.
+
+Cuijpers, P., Karyotaki, E., Reijnders, M., Ebert, D.D., 2019a. Was eysenck
+  right after all? a reassessment of the effects of psychotherapy for adult
+  depression. Epidemiology and Psychiatric Sciences 28, 21–30. doi:10.
+  1017/s2045796018000057.
+
+Cuijpers, P., Miguel, C., Harrer, M., Plessen, C.Y., Ciharova, M., Ebert,
+  D., Karyotaki, E., 2023. Cognitive behavior therapy vs. control condi-
+  tions, other psychotherapies, pharmacotherapies and combined treatment
+  for depression: a comprehensive meta‐analysis including 409 trials with
+  52,702 patients. World Psychiatry 22, 105–115. doi:10.1002/wps.21069.
+
+Cuijpers, P., Reijnders, M., Huibers, M.J., 2019b. The role of common
+  factors in psychotherapy outcomes. Annual Review of Clinical Psychology
+  15, 207–231. doi:10.1146/annurev-clinpsy-050718-095424.
+
+
+                                      18
+Denny, B.T., Ochsner, K.N., 2014. Behavioral effects of longitudinal training
+  in cognitive reappraisal. Emotion 14, 425–433. doi:10.1037/a0035276.
+Driessen, E., Hollon, S.D., Bockting, C.L.H., Cuijpers, P., Turner, E.H.,
+  2015. Does publication bias inflate the apparent eﬀicacy of psychological
+  treatment for major depressive disorder? a systematic review and meta-
+  analysis of us national institutes of health-funded trials. PLOS ONE 10,
+  e0137864. doi:10.1371/journal.pone.0137864.
+Eysenck, M.W., Derakshan, N., Santos, R., Calvo, M.G., 2007. Anxiety and
+  cognitive performance: Attentional control theory. Emotion 7, 336–353.
+  doi:10.1037/1528-3542.7.2.336.
+Ezawa, I.D., Hollon, S.D., 2023. Cognitive restructuring and psychotherapy
+  outcome: A meta-analytic review. Psychotherapy 60, 396–406. doi:10.
+  1037/pst0000474.
+Foa, E.B., Hembree, E.A., Cahill, S.P., Rauch, S.A.M., Riggs, D.S., Feeny,
+  N.C., Yadin, E., 2005. Randomized trial of prolonged exposure for post-
+  traumatic stress disorder with and without cognitive restructuring: Out-
+  come at academic and community clinics. Journal of Consulting and Clin-
+  ical Psychology 73, 953–964. doi:10.1037/0022-006x.73.5.953.
+Gan, S., Yang, J., Chen, X., Zhang, X., Yang, Y., 2017. High working mem-
+ ory load impairs the effect of cognitive reappraisal on emotional response:
+ Evidence from an event-related potential study. Neuroscience Letters 639,
+ 126–131. doi:10.1016/j.neulet.2016.12.069.
+Godovich, S.A., Senior, C.J., Degnan, K.A., Cummings, C., Shiffrin, N.D.,
+ Alvord, M.K., Rich, B.A., 2020. The role of executive functioning in
+ treatment outcome for child anxiety. Evidence-Based Practice in Child
+ and Adolescent Mental Health 5, 53–66. doi:10.1080/23794925.2020.
+ 1727794.
+Goldberg, S.B., Tucker, R.P., Greene, P.A., Davidson, R.J., Wampold, B.E.,
+ Kearney, D.J., Simpson, T.L., 2018. Mindfulness-based interventions for
+ psychiatric disorders: A systematic review and meta-analysis. Clinical
+ Psychology Review 59, 52–60. doi:10.1016/j.cpr.2017.10.011.
+Goodkind, M.S., Gallagher-Thompson, D., Thompson, L.W., Kesler, S.R.,
+ Anker, L., Flournoy, J., Berman, M.P., Holland, J.M., O’Hara, R.M., 2016.
+
+                                     19
+  The impact of executive function on response to cognitive behavioral ther-
+  apy in late-life depression. International Journal of Geriatric Psychiatry
+  31, 334–339. doi:10.1002/gps.4325.
+Gosling, C.J., Garcia-Argibay, M., De Prisco, M., Arrondo, G., Ayrolles, A.,
+ Antoun, S., Caparos, S., Catalán, A., Ellul, P., Dobrosavljevic, M., et al.,
+ 2025. Benefits and harms of adhd interventions: umbrella review and
+ platform for shared decision making. BMJ 391, e085875. doi:10.1136/
+ bmj-2025-085875.
+Gould, K.L., Porter, M., Lyneham, H.J., Hudson, J.L., 2018. Cognitive-
+ behavioral therapy for children with anxiety and comorbid attention-
+ deficit/hyperactivity disorder. Journal of the American Academy of Child
+ & Adolescent Psychiatry 57, 481–490.e2. doi:10.1016/j.jaac.2018.03.
+ 021.
+Hallion, L.S., Tolin, D.F., Diefenbach, G.J., 2019. Enhanced cognitive control
+  over task-irrelevant emotional distractors in generalized anxiety disorder
+  versus obsessive-compulsive disorder. Journal of Anxiety Disorders 64,
+  71–78. doi:10.1016/j.janxdis.2019.02.004.
+Hamza, J., Vytykačová, S., Janšáková, K., Rajčáni, J., 2024. Cognitive
+  reappraisal and acceptance following acute stress. Stress and Health 40,
+  e3469. doi:10.1002/smi.3469.
+Harrison, A.A., Nguyen, L., Murphy, K., Neumann, D., 2025. Assessing ex-
+  ecutive functioning in individuals with social anxiety disorder (sad) across
+  the lifespan: A systematic literature review and meta-analysis. Journal of
+  Anxiety Disorders 115, 103056. doi:10.1016/j.janxdis.2025.103056.
+Hermans, E.J., Henckens, M.J., Joëls, M., Fernández, G., 2014. Dynamic
+  adaptation of large-scale brain networks in response to acute stressors.
+  Trends in Neurosciences 37, 304–314. doi:10.1016/j.tins.2014.03.006.
+Hofmann, S.G., 2008. Cognitive processes during fear acquisition and extinc-
+  tion in animals and humans: Implications for exposure therapy of anxiety
+  disorders. Clinical Psychology Review 28, 199–210. doi:10.1016/j.cpr.
+  2007.04.009.
+Hofmann, S.G., Heering, S., Sawyer, A.T., Asnaani, A., 2009. How to handle
+  anxiety: The effects of reappraisal, acceptance, and suppression strategies
+
+                                     20
+  on anxious arousal. Behaviour Research and Therapy 47, 389–394. doi:10.
+  1016/j.brat.2009.02.010.
+
+Hofmann, S.G., Kasch, C., Reis, A., 2025. Effect sizes of randomized-
+  controlled studies of cognitive behavioral therapy for anxiety disorders over
+  the past 30 years. Clinical Psychology Review 117, 102553. doi:10.1016/
+  j.cpr.2025.102553.
+
+Hoge, E.A., Bui, E., Mete, M., Dutton, M.A., Baker, A.W., Simon, N.M.,
+  2023. Mindfulness-based stress reduction vs escitalopram for the treatment
+  of adults with anxiety disorders. JAMA Psychiatry 80, 13. doi:10.1001/
+  jamapsychiatry.2022.3679.
+
+Hoskins, J.I., Gooch, D., Gilligan-Lee, K.A., 2026. Symptoms of anxiety in
+  adults with adhd: A systematic review and meta-analysis of case-control
+  studies. Journal of Attention Disorders 30, 1305–1337. doi:10.1177/
+  10870547261459712.
+
+Hybel, K.A., Mortensen, E.L., Lambek, R., Højgaard, D.R., Thomsen, P.H.,
+  2017. Executive function predicts cognitive-behavioral therapy response in
+  childhood obsessive-compulsive disorder. Behaviour Research and Therapy
+  99, 11–18. doi:10.1016/j.brat.2017.08.009.
+
+Jacobson, N.S., Dobson, K.S., Truax, P.A., Addis, M.E., Koerner, K., Gollan,
+  J.K., Gortner, E., Prince, S.E., 1996. A component analysis of cognitive-
+  behavioral treatment for depression. Journal of Consulting and Clinical
+  Psychology 64, 295–304. doi:10.1037/0022-006X.64.2.295.
+
+JAMA Psychiatry, 2024. Errors in network meta-analysis. JAMA Psychiatry
+  81, 320. doi:10.1001/jamapsychiatry.2023.5480.
+
+Johnco, C., Wuthrich, V., Rapee, R., 2014. The influence of cognitive flex-
+  ibility on treatment outcome and cognitive restructuring skill acquisition
+  during cognitive behavioural treatment for anxiety and depression in older
+  adults: Results of a pilot study. Behaviour Research and Therapy 57,
+  55–64. doi:10.1016/j.brat.2014.04.005.
+
+Johnco, C.J., Norberg, M., Wuthrich, V.M., Rapee, R.M., 2025. Cognitive
+  restructuring before exposure therapy or behavioral experiments? how
+  the timing of expectancy violation and magnitude of expectancy change
+
+
+                                      21
+  influence exposure therapy outcomes. Journal of Consulting and Clinical
+  Psychology 93, 369–381. doi:10.1037/ccp0000953.
+
+Johnsen, T.J., Friborg, O., 2015. The effects of cognitive behavioral therapy
+  as an anti-depressive treatment is falling: A meta-analysis. Psychological
+  Bulletin 141, 747–768. doi:10.1037/bul0000015.
+
+Kazdin, A.E., 2007. Mediators and mechanisms of change in psychotherapy
+ research. Annual Review of Clinical Psychology 3, 1–27. doi:10.1146/
+ annurev.clinpsy.3.022806.091432.
+
+Khoury, B., Lecomte, T., Fortin, G., Masse, M., Therien, P., Bouchard, V.,
+ Chapleau, M.A., Paquin, K., Hofmann, S.G., 2013. Mindfulness-based
+ therapy: A comprehensive meta-analysis. Clinical Psychology Review 33,
+ 763–771. doi:10.1016/j.cpr.2013.05.005.
+
+Knouse, L.E., Safren, S.A., 2010. Current status of cognitive behavioral ther-
+ apy for adult attention-deficit hyperactivity disorder. Psychiatric Clinics
+ of North America 33, 497–509. doi:10.1016/j.psc.2010.04.001.
+
+Knouse, L.E., Teller, J., Brooks, M.A., 2017. Meta-analysis of cognitive–
+ behavioral treatments for adult adhd. Journal of Consulting and Clinical
+ Psychology 85, 737–750. doi:10.1037/ccp0000216.
+
+Kofler, M.J., Irwin, L.N., Soto, E.F., Groves, N.B., Harmon, S.L., Sarver,
+  D.E., 2019. Executive functioning heterogeneity in pediatric adhd.
+  Journal of Abnormal Child Psychology 47, 273–286. doi:10.1007/
+  s10802-018-0438-2.
+
+Kooij, J., Bijlenga, D., Salerno, L., Jaeschke, R., Bitter, I., Balázs, J., Thome,
+  J., Dom, G., Kasper, S., Nunes Filipe, C., et al., 2019. Updated european
+  consensus statement on diagnosis and treatment of adult adhd. European
+  Psychiatry 56, 14–34. doi:10.1016/j.eurpsy.2018.11.001.
+
+Kyriacou, T., Hodges, J., Gould, R.L., 2023. Predictors and moderators of
+ treatment outcome in late-life anxiety: A systematic review. Journal of
+ Affective Disorders 339, 454–470. doi:10.1016/j.jad.2023.07.057.
+
+Langer, K., Jentsch, V.L., Wolf, O.T., 2023. Rapid effects of acute stress
+  on cognitive emotion regulation. Psychoneuroendocrinology 151, 106054.
+  doi:10.1016/j.psyneuen.2023.106054.
+
+                                       22
+Langer, K., Wolf, O.T., Jentsch, V.L., 2021. Delayed effects of acute stress
+  on cognitive emotion regulation. Psychoneuroendocrinology 125, 105101.
+  doi:10.1016/j.psyneuen.2020.105101.
+
+Leichsenring, F., Steinert, C., Rabung, S., Ioannidis, J.P., 2022. The eﬀicacy
+  of psychotherapies and pharmacotherapies for mental disorders in adults:
+  an umbrella review and meta‐analytic evaluation of recent meta‐analyses.
+  World Psychiatry 21, 133–145. doi:10.1002/wps.20941.
+
+Liu, Y., Zhu, F., Yu, Y., Song, Y., Luo, H., Xu, B., Lin, S., Ha, Z., Kuang,
+  D., Xie, Y., Chen, Z., Ren, Y., 2026. A meta-analysis of the intervention
+  effect of cognitive behavioral therapy on adult adhd. Journal of Affective
+  Disorders 399, 121107. doi:10.1016/j.jad.2025.121107.
+
+Loerinc, A.G., Meuret, A.E., Twohig, M.P., Rosenfield, D., Bluett, E.J.,
+  Craske, M.G., 2015. Response rates for cbt for anxiety disorders: Need
+  for standardized criteria. Clinical Psychology Review 42, 72–82. doi:10.
+  1016/j.cpr.2015.08.004.
+
+Lopez, P.L., Torrente, F.M., Ciapponi, A., Lischinsky, A.G., Cetkovich-
+  Bakmas, M., Rojas, J.I., Romano, M., Manes, F.F., 2018. Cognitive-
+  behavioural interventions for attention deficit hyperactivity disorder
+  (adhd) in adults. Cochrane Database of Systematic Reviews 2018.
+  doi:10.1002/14651858.CD010840.pub2.
+
+Lorenzo-Luaces, L., German, R.E., DeRubeis, R.J., 2015. It’s complicated:
+  The relation between cognitive change procedures, cognitive change, and
+  symptom change in cognitive therapy for depression. Clinical Psychology
+  Review 41, 3–15. doi:10.1016/j.cpr.2014.12.003.
+
+López-Pinar, C., Martínez-Sanchís, S., Carbonell-Vayá, E., Sánchez-Meca,
+  J., Fenollar-Cortés, J., 2020. Eﬀicacy of nonpharmacological treat-
+  ments on comorbid internalizing symptoms of adults with attention-
+  deficit/hyperactivity disorder: A meta-analytic review. Journal of At-
+  tention Disorders 24, 456–478. doi:10.1177/1087054719855685.
+
+Marsh, C.L., Harmon, S.L., Cho, S., Chan, E.S.M., Gaye, F., DeGeorge,
+ L., Black, K.E., Irwin Harper, L.N., Kofler, M.J., 2024. Does anxiety
+ systematically bias estimates of executive functioning deficits in pediatric
+
+
+                                     23
+  attention-deficit/hyperactivity disorder? Research on Child and Adoles-
+  cent Psychopathology 52, 773–787. doi:10.1007/s10802-023-01152-y.
+Mayo-Wilson, E., Dias, S., Mavranezouli, I., Kew, K., Clark, D.M., Ades,
+ A.E., Pilling, S., 2014. Psychological and pharmacological interven-
+ tions for social anxiety disorder in adults: a systematic review and net-
+ work meta-analysis. The Lancet Psychiatry 1, 368–376. doi:10.1016/
+ S2215-0366(14)70329-3.
+Miyake, A., Friedman, N.P., Emerson, M.J., Witzki, A.H., Howerter, A.,
+ Wager, T.D., 2000. The unity and diversity of executive functions and their
+ contributions to complex “frontal lobe” tasks: A latent variable analysis.
+ Cognitive Psychology 41, 49–100. doi:10.1006/cogp.1999.0734.
+Mohlman, J., Gorman, J.M., 2005. The role of executive functioning in cbt:
+ a pilot study with anxious older adults. Behaviour Research and Therapy
+ 43, 447–465. doi:10.1016/j.brat.2004.03.007.
+de Mooij, B., Fekkes, M., Miers, A.C., van den Akker, A.L., Scholte, R.H.J.,
+  Overbeek, G., 2023. What works in preventing emerging social anxiety:
+  Exposure, cognitive restructuring, or a combination? Journal of Child and
+  Family Studies 32, 498–515. doi:10.1007/s10826-023-02536-w.
+Moran, T.P., 2016. Anxiety and working memory capacity: A meta-analysis
+ and narrative review. Psychological Bulletin 142, 831–864. doi:10.1037/
+ bul0000051.
+National Institute for Health and Care Excellence, 2018. Attention deficit
+  hyperactivity disorder: diagnosis and management (ng87). URL: https:
+  //www.nice.org.uk/guidance/ng87. published 14 March 2018; last up-
+  dated 13 September 2019.
+Nguyen, L., Walters, J., Hutchinson, E., Liu, Y., Li, X., Gudmundsson,
+  C., 2025. Executive functioning in individuals with generalized anxiety
+  disorder: A systematic review and meta-analysis. Journal of Affective
+  Disorders 389, 119683. doi:10.1016/j.jad.2025.119683.
+Norton, P.J., Price, E.C., 2007. A meta-analytic review of adult cognitive-
+  behavioral treatment outcome across the anxiety disorders. Journal of Ner-
+  vous & Mental Disease 195, 521–531. doi:10.1097/01.nmd.0000253843.
+  70149.9a.
+
+                                    24
+Ostinelli, E.G., Schulze, M., Zangani, C., Farhat, L.C., Tomlinson, A.,
+  Del Giovane, C., Chamberlain, S.R., Philipsen, A., Young, S., Cowen,
+  P.J., Bilbow, A., Cipriani, A., Cortese, S., 2025. Comparative eﬀicacy
+  and acceptability of pharmacological, psychological, and neurostimula-
+  tory interventions for adhd in adults: a systematic review and component
+  network meta-analysis. The Lancet Psychiatry 12, 32–43. doi:10.1016/
+  s2215-0366(24)00360-2.
+
+Ougrin, D., 2011. Eﬀicacy of exposure versus cognitive therapy in anxiety
+ disorders: systematic review and meta-analysis. BMC Psychiatry 11, 200.
+ doi:10.1186/1471-244X-11-200.
+
+Papola, D., Miguel, C., Mazzaglia, M., Franco, P., Tedeschi, F., Romero,
+  S.A., Patel, A.R., Ostuzzi, G., Gastaldon, C., Karyotaki, E., Harrer, M.,
+  Purgato, M., Sijbrandij, M., Patel, V., Furukawa, T.A., Cuijpers, P., Bar-
+  bui, C., 2024. Psychotherapies for generalized anxiety disorder in adults.
+  JAMA Psychiatry 81, 250. doi:10.1001/jamapsychiatry.2023.3971.
+
+Philipsen, A., Jans, T., Graf, E., Matthies, S., Borel, P., Colla, M.,
+  Gentschow, L., Langner, D., Jacob, C., Groß-Lesch, S., et al., 2015. Ef-
+  fects of group psychotherapy, individual counseling, methylphenidate, and
+  placebo in the treatment of adult attention-deficit/hyperactivity disorder.
+  JAMA Psychiatry 72, 1199. doi:10.1001/jamapsychiatry.2015.2146.
+
+Pimontel, M.A., Rindskopf, D., Rutherford, B.R., Brown, P.J., Roose, S.P.,
+  Sneed, J.R., 2016. A meta-analysis of executive dysfunction and antide-
+  pressant treatment response in late-life depression. The American Journal
+  of Geriatric Psychiatry 24, 31–41. doi:10.1016/j.jagp.2015.05.010.
+
+Pompoli, A., Furukawa, T.A., Efthimiou, O., Imai, H., Tajika, A., Salanti,
+  G., 2018. Dismantling cognitive-behaviour therapy for panic disorder: a
+  systematic review and component network meta-analysis. Psychological
+  Medicine 48, 1945–1953. doi:10.1017/s0033291717003919.
+
+Raio, C.M., Orederu, T.A., Palazzolo, L., Shurick, A.A., Phelps, E.A.,
+  2013. Cognitive emotion regulation fails the stress test. Proceedings of
+  the National Academy of Sciences 110, 15139–15144. doi:10.1073/pnas.
+  1305706110.
+
+
+
+                                     25
+Raio, C.M., Phelps, E.A., 2015. The influence of acute stress on the regula-
+  tion of conditioned fear. Neurobiology of Stress 1, 134–146. doi:10.1016/
+  j.ynstr.2014.11.004.
+
+Richards, D.A., Ekers, D., McMillan, D., Taylor, R.S., Byford, S., Warren,
+  F.C., Barrett, B., Farrand, P.A., Gilbody, S., Kuyken, W., O’Mahen,
+  H., Watkins, E.R., Wright, K.A., Hollon, S.D., Reed, N., Rhodes, S.,
+  Fletcher, E., Finning, K., 2016. Cost and outcome of behavioural ac-
+  tivation versus cognitive behavioural therapy for depression (cobra): a
+  randomised, controlled, non-inferiority trial. The Lancet 388, 871–880.
+  doi:10.1016/s0140-6736(16)31140-0.
+
+Roy, A., Hoge, E.A., Abrante, P., Druker, S., Liu, T., Brewer, J.A., 2021.
+  Clinical eﬀicacy and psychological mechanisms of an app-based digital
+  therapeutic for generalized anxiety disorder: Randomized controlled trial.
+  Journal of Medical Internet Research 23, e26987. doi:10.2196/26987.
+
+Safren, S.A., Otto, M.W., Sprich, S., Winett, C.L., Wilens, T.E., Biederman,
+  J., 2005. Cognitive-behavioral therapy for adhd in medication-treated
+  adults with continued symptoms. Behaviour Research and Therapy 43,
+  831–842. doi:10.1016/j.brat.2004.07.001.
+
+Safren, S.A., Sprich, S., Mimiaga, M.J., Surman, C., Knouse, L., Groves, M.,
+  Otto, M.W., 2010. Cognitive behavioral therapy vs relaxation with edu-
+  cational support for medication-treated adults with adhd and persistent
+  symptoms. JAMA 304, 875. doi:10.1001/jama.2010.1192.
+
+Sandner, M., Zeier, P., Lois, G., Wessa, M., 2021. Cognitive emotion reg-
+  ulation withstands the stress test: An fmri study on the effect of acute
+  stress on distraction and reappraisal. Neuropsychologia 157, 107876.
+  doi:10.1016/j.neuropsychologia.2021.107876.
+
+Schmeichel, B.J., Volokhov, R.N., Demaree, H.A., 2008. Working memory
+  capacity and the self-regulation of emotional expression and experience.
+  Journal of Personality and Social Psychology 95, 1526–1540. doi:10.1037/
+  a0013345.
+
+Schurr, M.S., Chen, Y.T., Raue, P.J., Areán, P.A., Alexopoulos, G.S., Renn,
+  B.N., 2025. Relation between executive function test performance and
+  treatment outcomes during brief psychotherapies for later-life depression.
+
+                                    26
+  The American Journal of Geriatric Psychiatry: Open Science, Education,
+  and Practice 7, 1–11. doi:10.1016/j.osep.2025.04.002.
+
+Sheppes, G., Meiran, N., 2008. Divergent cognitive costs for online forms of
+  reappraisal and distraction. Emotion 8, 870–874. doi:10.1037/a0013711.
+
+Sheppes, G., Scheibe, S., Suri, G., Gross, J.J., 2011.        Emotion-
+  regulation choice. Psychological Science 22, 1391–1396. doi:10.1177/
+  0956797611418350.
+
+Shermohammed, M., Mehta, P.H., Zhang, J., Brandes, C.M., Chang, L.J.,
+  Somerville, L.H., 2017. Does psychosocial stress impact cognitive reap-
+  praisal? behavioral and neural evidence. Journal of Cognitive Neuroscience
+  29, 1803–1816. doi:10.1162/jocn_a_01157.
+
+Shi, R., Sharpe, L., Abbott, M., 2019. A meta-analysis of the relationship
+  between anxiety and attentional control. Clinical Psychology Review 72,
+  101754. doi:10.1016/j.cpr.2019.101754.
+
+Shields, G.S., Sazma, M.A., Yonelinas, A.P., 2016. The effects of acute
+  stress on core executive functions: A meta-analysis and comparison with
+  cortisol. Neuroscience & Biobehavioral Reviews 68, 651–668. doi:10.1016/
+  j.neubiorev.2016.06.038.
+
+Solanto, M.V., Marks, D.J., Wasserstein, J., Mitchell, K., Abikoff, H., Alvir,
+  J.M.J., Kofman, M.D., 2010. Eﬀicacy of meta-cognitive therapy for adult
+  adhd. American Journal of Psychiatry 167, 958–968. doi:10.1176/appi.
+  ajp.2009.09081123.
+
+Sonuga-Barke, E.J., Brandeis, D., Cortese, S., Daley, D., Ferrin, M., Holt-
+  mann, M., Stevenson, J., Danckaerts, M., van der Oord, S., Döpfner,
+  M., et al., 2013. Nonpharmacological interventions for adhd: Systematic
+  review and meta-analyses of randomized controlled trials of dietary and
+  psychological treatments. American Journal of Psychiatry 170, 275–289.
+  doi:10.1176/appi.ajp.2012.12070991.
+
+Springer, K.S., Levy, H.C., Tolin, D.F., 2018. Remission in cbt for adult
+  anxiety disorders: A meta-analysis. Clinical Psychology Review 61, 1–8.
+  doi:10.1016/j.cpr.2018.03.002.
+
+
+
+                                     27
+Vandborg, S.K., Hartmann, T.B., Bennedsen, B.E., Pedersen, A.D., Thom-
+  sen, P.H., 2016. Can memory and executive functions in patients with
+  obsessive–compulsive disorder predict outcome of cognitive behavioural
+  therapy?    Nordic Journal of Psychiatry 70, 183–189. doi:10.3109/
+  08039488.2015.1074282.
+
+Vittengl, J.R., Clark, L.A., Thase, M.E., Jarrett, R.B., 2014. Are improve-
+  ments in cognitive content and depressive symptoms correlates or me-
+  diators during acute-phase cognitive therapy for recurrent major depres-
+  sive disorder? International Journal of Cognitive Therapy 7, 251–271.
+  doi:10.1521/ijct.2014.7.3.251.
+
+Wang, X., He, H., Lan, J., Guo, Y., Zhang, Y., 2026. Cognitive behavioral
+ therapy for anxiety symptoms in adhd: A systematic review and meta-
+ analysis with dose–response exploration. Psychotherapy Research , 1–
+ 19doi:10.1080/10503307.2026.2658745.
+
+Weiss, M., Murray, C., Wasdell, M., Greenfield, B., Giles, L., Hechtman, L.,
+ 2012. A randomized controlled trial of cbt therapy for adults with adhd
+ with and without medication. BMC Psychiatry 12, 30. doi:10.1186/
+ 1471-244x-12-30.
+
+Willcutt, E.G., Doyle, A.E., Nigg, J.T., Faraone, S.V., Pennington,
+ B.F., 2005. Validity of the executive function theory of attention-
+ deficit/hyperactivity disorder: A meta-analytic review. Biological Psy-
+ chiatry 57, 1336–1346. doi:10.1016/j.biopsych.2005.02.006.
+
+Young, S., Emilsson, B., Sigurdsson, J.F., Khondoker, M., Philipp-
+  Wiegmann, F., Baldursson, G., Olafsdottir, H., Gudjonsson, G., 2017.
+  A randomized controlled trial reporting functional outcomes of cognitive–
+  behavioural therapy in medication-treated adults with adhd and comorbid
+  psychopathology. European Archives of Psychiatry and Clinical Neuro-
+  science 267, 267–276. doi:10.1007/s00406-016-0735-0.
+
+Young, Z., Moghaddam, N., Tickle, A., 2020. The eﬀicacy of cognitive behav-
+  ioral therapy for adults with adhd: A systematic review and meta-analysis
+  of randomized controlled trials. Journal of Attention Disorders 24, 875–
+  888. doi:10.1177/1087054716664413.
+
+
+
+                                    28
+Öst, L.G., 2014. The eﬀicacy of acceptance and commitment therapy: An
+  updated systematic review and meta-analysis. Behaviour Research and
+  Therapy 61, 105–121. doi:10.1016/j.brat.2014.07.018.
+
+Šipka, D., Lopes, R., Krieger, T., Klein, J.P., Berger, T., 2025. Active com-
+  ponents in internet-based cognitive-behavioral therapy for social anxiety
+  disorder: A randomized full factorial trial. Psychotherapy and Psychoso-
+  matics , 1–20doi:10.1159/000542425.
+
+
+
+
+                                     29
+
