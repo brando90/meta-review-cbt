@@ -1,18 +1,22 @@
-# Claim-by-claim evidence map
+# Claim-by-claim evidence map (draft 2)
 
-Status key: **S** supported by sources in the repo, **P** partly supported, **G** gap (needs sources), **C** contested.
+Status key: **S** supported, **P** partly supported, **N** not supported / contradicted, **G** gap (not found). Section numbers refer to `latex/main.tex`.
 
-| # | Claim | Evidence in draft 1 | Status | Needed in draft 2 |
+| # | Claim | Key evidence (see paper) | Status | Section |
 |---|---|---|---|---|
-| 1 | Cognitive restructuring places demands on working memory, inhibition and shifting | Task analysis; Miyake et al. 2000 for the executive model | P | Cognitive-load studies of reappraisal; working memory and reappraisal success |
-| 2 | Acute stress impairs prefrontal executive function | Arnsten 2009, 2015 (mostly animal data) | P | Human meta-analyses of acute stress and executive functions; reappraisal under stress |
-| 3 | Anxiety impairs inhibition and shifting | Eysenck et al. 2007 (Attentional Control Theory) | P | Meta-analyses on anxiety and executive function |
-| 4 | ADHD involves executive weaknesses (not in all cases) | Willcutt et al. 2005 | S | Updated meta-analyses; anxiety-ADHD comorbidity rates |
-| 5 | CBT works on average but about half respond | Carpenter 2018; Loerinc 2015 | S | Effect-size decline over time; bias and control-group effects; umbrella reviews |
-| 6 | The cognitive component is not shown to be the active ingredient | Task analysis only | **G** | Dismantling trials; component meta-analyses; mediation studies |
-| 7 | Exposure and behavioural skills carry the benefit | Argument only | **G** | Exposure vs cognitive therapy comparisons; inhibitory learning; homework studies |
-| 8 | Executive function moderates CBT outcome | Mohlman 2005; Johnco 2014 (older adults, small) | **G** | Any adult, youth, OCD or depression moderator evidence |
-| 9 | CBT for adult ADHD is skills-heavy and medication-dependent | Safren 2010; Lopez 2018 | P | More trials and meta-analyses; combined treatment evidence |
-| 10 | Mindfulness and ACT are at parity with CBT, not superior | Goldberg 2018; A-Tjak 2015; Hoge 2023 | S | Updated meta-analyses, adult ADHD head-to-head |
-| 11 | Medication raises the executive floor in ADHD | Cortese 2018 | P | Adult-specific long-term and combined data |
-| 12 | Popular claims (Brewer) are stronger than the primary literature | Compared qualitatively | P | Primary-literature check of the specific claims |
+| 1 | Reappraisal draws on working memory | Load abolishes reappraisal effect on LPP in two ERP studies; capacity predicts success; late reappraisal costs self-control. Also: works and is trainable when load is low | S (lab) | 3 |
+| 2 | Acute stress impairs prefrontal executive function | Animal work; human meta-analysis: working memory and flexibility impaired, inhibition nuanced | P | 4 |
+| 3 | Stress abolishes reappraisal in humans | One clear positive (Raio 2013); five later studies found no group-level impairment; stressors moderate | **Contested** | 4 |
+| 4 | 'PFC goes off-line' under anxiety (popular claim) | Phrase traces to a hedged 1998 monkey line, used by its author for uncontrollable stress only; popular applications to worry cite non-worry studies | **N (strong form)** | 4 |
+| 5 | Anxiety impairs inhibition and shifting | Group-level meta-analytic support, with qualifiers (older adults null, inhibition not associated in GAD meta-analysis) | P | 4 |
+| 6 | ADHD involves executive weaknesses | Medium effects, heterogeneous; higher prevalence with better measurement | S (with caveat) | 5 |
+| 7 | Anxiety adds executive load in ADHD | One careful child study: trait anxiety did not uniquely predict EF | **N/G** | 5 |
+| 8 | CBT works on average | Moderate vs placebo; larger vs waitlist | S | 6 |
+| 9 | Effects shrink with active controls and bias adjustment | Strong (0.70 to 0.31 in depression; waitlist >0.94 vs CAU 0.22-1.13; 25% publication-bias reduction) | S | 6 |
+| 10 | Effects shrink over time | Disputed; flat, not declining, in anxiety; depression decline called spurious | **N (as stated)** | 6 |
+| 11 | Restructuring is not the active ingredient | Many null component results, but underpowered; some positive (social phobia, one PTSD trial) | P | 7 |
+| 12 | Exposure/behavioural elements carry the benefit | Supported by component work; exposure may act via expectancy change | P | 7 |
+| 13 | EF moderates CBT outcome | Overall outcome mostly null; skill-level signal in older adults; opposite direction in two samples | **P (skill-level only)** | 10 |
+| 14 | ADHD moderates CBT for anxiety in adults | No study found. Child data: no moderation | **G** | 9, 10 |
+| 15 | Mindfulness/ACT at parity with CBT, not better | Several meta-analyses; MBSR noninferior to escitalopram | S | 8 |
+| 16 | Adult ADHD CBT works, mostly as an adjunct, with behavioural active ingredient | Modest; reduced vs active controls and blinded raters; guidelines adjunct; mechanism inferred | P | 9 |

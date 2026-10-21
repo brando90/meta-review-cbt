@@ -2,7 +2,7 @@
 
 A critical review of **cognitive restructuring in CBT for anxiety**, asking whether the "argue with your thoughts" component depends on executive function that anxiety (and, in some people, ADHD) impairs, and what the evidence says about where CBT's active ingredients are.
 
-**Status:** Draft 1 (built from an informal blog post, upgraded and fully cited). Draft 2 (deep literature pass) in progress. Nothing here has been sent to a journal or a reviewer.
+**Status:** Draft 2 (2026-10-21): full 12-section paper (29 pages in `elsarticle` preprint format) built on a deep literature pass of about 300 DOI-verified sources. Draft 1 (blog-based) is in the history of `main`. Nothing here has been sent to a journal or a reviewer.
 
 > Working title: *Reasoning Your Way Out of Anxiety? A Critical Review of Cognitive Restructuring, Executive Function and Adult ADHD*
 

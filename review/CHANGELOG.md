@@ -1,3 +1,4 @@
 # Changelog
 
 - **2026-10-21: Draft 1.** Scaffold, venue pick, LaTeX skeleton (`elsarticle`), 20 DOI-verified references, a full draft rewritten from an informal blog post (blog cited as a precursor), claim-evidence map. Gaps marked `\citegap{...}`.
+- **2026-10-21: Draft 2 (branch `ub9/draft-2-deep-research`).** Paper rebuilt from 10 to 12 sections on about 300 verified sources: new Method section; reappraisal-load and reappraisal-under-stress evidence; check of the 'prefrontal off-line' claim against its sources; efficacy with bias and control-type evidence and a fair read of the 'decline over time' dispute (not supported); component and dismantling evidence for and against; alternatives; CBT in adult ADHD; executive function as moderator (mostly null for overall outcome). All draft-1 `\citegap` marks resolved or turned into stated findings of absence. The abstract's claims were narrowed accordingly.
