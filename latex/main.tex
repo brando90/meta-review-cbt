@@ -3,7 +3,7 @@
 % Build: latexmk -pdf main.tex   (or: tectonic main.tex)
 \documentclass[preprint,12pt,authoryear]{elsarticle}
 \usepackage[utf8]{inputenc}
-\usepackage{amsmath,booktabs}
+\usepackage{amsmath,booktabs,array}
 \usepackage[hidelinks]{hyperref}
 \biboptions{authoryear,round}
 \journal{Clinical Psychology Review}
@@ -13,7 +13,7 @@
 
 \begin{document}
 \begin{frontmatter}
-\title{Reasoning Your Way Out of Anxiety? A Critical Review of Cognitive Restructuring, Executive Function and Adult ADHD}
+\title{Why Does CBT Fail? A Critical Meta-Review of Non-Response, Weak Mechanism Evidence and Delivery Limits, with Executive Function and Adult ADHD as a Test Case}
 
 \author{Brando Miranda\corref{cor1}}
 \ead{brando9@stanford.edu}
@@ -21,27 +21,32 @@
 \address{Stanford University, Stanford, CA, USA}
 
 \begin{abstract}
-Cognitive behavioral therapy (CBT) is the best-studied psychotherapy for anxiety, yet only about half of treated patients respond, and the mechanism usually offered for its cognitive component, that patients change feelings by examining and replacing automatic thoughts, has seldom been tested against the cognitive demands it places on them. We ask whether cognitive restructuring is an executive-function task that anxiety and attention-deficit/hyperactivity disorder (ADHD) make harder, and whether it is the part of CBT that carries the benefit. We specify the executive demands of restructuring, review evidence on stress, anxiety and prefrontal function (including a check of the popular ``prefrontal cortex goes off-line'' claim against its sources), review efficacy, bias and component evidence, review alternatives and CBT in adult ADHD, and assess the sparse direct evidence on executive function as a moderator of outcome. About 300 sources were DOI-verified. The evidence supports a narrow claim and not a broad one. Reappraisal draws on working memory in the laboratory, but evidence that stress abolishes it is contested. CBT is effective on average, though effects shrink with active controls and bias adjustment and have not grown over three decades. Component studies, though underpowered, repeatedly fail to find added benefit from restructuring over exposure or behavioural activation. Executive function predicts uptake of the cognitive skill in older adults more than overall outcome. In adult ADHD, effective CBT protocols look behavioural, and we found no study of ADHD as a moderator of CBT for anxiety. We close with preregistrable predictions and a research agenda. \textbf{Draft 2; for the author's review.}
+Cognitive behavioral therapy (CBT) is the best-studied psychotherapy for anxiety and depression, yet only about half of treated patients respond, and ``CBT does not work'' is used to mean very different things. We map ten reasons given for why CBT fails and grade each against meta-analytic evidence: (R1) the cognitive skill demands executive function that anxiety and attention-deficit/hyperactivity disorder (ADHD) degrade; (R2) cognitive restructuring is not the active ingredient; (R3) headline effects are inflated by waitlists, bias and measurement; (R4--R6) non-response, dropout, relapse and under-recorded harm; (R7--R8) patient and context factors, including neurodivergence, comorbidity, culture and access; (R9) therapist and delivery factors; and (R10) an under-tested theory of change. About 440 sources were DOI-verified. Dropout (about 16\% before and 26\% during CBT), non-response (fewer than half meeting response or remission criteria in 92 psychotherapy studies), relapse (29\% within one year, 54\% within two after cognitive therapy ends), biased and heterogeneously measured trials and under-reported harms are supported, but almost all are shared with other treatments. The cognitive mechanism is under-tested, and component studies repeatedly fail to find added benefit from restructuring, though they are underpowered. The executive-function argument, our deepest case study, survives only in a narrow form: reappraisal draws on working memory in the laboratory, evidence that stress abolishes it is contested, and we found no study of ADHD as a moderator of CBT for anxiety in adults. CBT keeps a moderate average effect under almost every sensitivity analysis; the review locates where and why it falls short and closes with preregistrable predictions. \textbf{Draft 3; for the author's review.}
 \end{abstract}
 
 \begin{keyword}
-cognitive behavioral therapy \sep cognitive restructuring \sep executive function \sep anxiety \sep ADHD \sep mindfulness \sep critical review
+cognitive behavioral therapy \sep cognitive restructuring \sep executive function \sep anxiety \sep ADHD \sep non-response \sep dropout \sep relapse \sep therapist effects \sep critical review
 \end{keyword}
 \end{frontmatter}
 
 
 \input{sections/01-introduction}
 \input{sections/02-method}
-\input{sections/03-demands}
-\input{sections/04-stress}
-\input{sections/05-adhd}
-\input{sections/06-evidence}
-\input{sections/07-ingredients}
-\input{sections/08-alternatives}
-\input{sections/09-adhd-cbt}
-\input{sections/10-moderators}
-\input{sections/11-objections}
-\input{sections/12-agenda}
+\input{sections/03-taxonomy}
+\input{sections/04-demands}
+\input{sections/05-stress}
+\input{sections/06-adhd}
+\input{sections/07-evidence}
+\input{sections/08-ingredients}
+\input{sections/09-alternatives}
+\input{sections/10-adhd-cbt}
+\input{sections/11-moderators}
+\input{sections/12-nonresponse}
+\input{sections/13-patients}
+\input{sections/14-delivery}
+\input{sections/15-mechanism}
+\input{sections/16-objections}
+\input{sections/17-agenda}
 
 \section*{Declarations}
 \textbf{Funding:} none. \textbf{Competing interests:} none declared. \textbf{Author note:} this is a theoretical critical review by a non-clinician; it is not medical advice. \textbf{Data and materials:} the search record, verified bibliography and analysis logs are in the public repository accompanying this paper.
