@@ -24,3 +24,6 @@ At initialization (version 0.1), screening had not started. Version 0.2 broadens
 - Restored the cross-condition critical scope from the author's blog/Google Docs draft; ADHD is one case study.
 - Recorded direct-to-main publication instructions, protocol amendment 0.2, evidence map and preliminary 21-record screen.
 - Preserved original sources and frozen ADHD search receipts; no broad-search completeness claim.
+
+## 10-23-2026
+- Checked open-access status of the five unresolved S03 records (Europe PMC, Unpaywall): all closed. Receipt in `data/s03-fulltext-access-2026-10-23.md`; no screening decision changed; `open-questions.md` row 1 updated.

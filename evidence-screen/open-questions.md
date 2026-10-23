@@ -6,7 +6,7 @@
 
 | Priority | Question / next evidence | Current status |
 | --- | --- | --- |
-| 1 | Are there adult-ADHD trials with an actual baseline executive-function × treatment interaction? Export and screen S03/S04 and citation chains. | Preliminary 21-record screen: 0 confirmed direct tests; 5 candidate full texts unresolved. |
+| 1 | Are there adult-ADHD trials with an actual baseline executive-function × treatment interaction? Export and screen S03/S04 and citation chains. | Preliminary 21-record screen: 0 confirmed direct tests; 5 candidate full texts unresolved. 10-23: none of the 5 is open access (Europe PMC, Unpaywall), so they need library access; see `data/s03-fulltext-access-2026-10-23.md`. |
 | 2 | Which reviews and trials are eligible after deduplication, and how much do reviews overlap? | 21 ADHD records screened provisionally by one agent; cross-condition screening pending. |
 | 3 | Does the concern apply to cognitive restructuring, compensatory skills, or a specific delivery format? | Extract components; package-level results cannot isolate mechanisms. |
 | 4 | Can effects be separated by comparator, medication and outcome rater? | Planned extraction, not yet performed. |
