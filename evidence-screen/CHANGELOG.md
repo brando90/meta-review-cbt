@@ -4,6 +4,10 @@
 
 **TLDR:** Project initialized on branch `init`; the original author material, protocol, measured search receipts and first manuscript are now versioned. This is not a completed systematic review.
 
+## 10-24-2026 — R7 autism targeted search
+
+- Ran four Europe PMC slices (A1-A4) on autism and ADHD with CBT; receipts, raw responses and script in `data/search-runs/r7-autism-2026-10-24/`. Triage note: `data/r7-autism-search-2026-10-24.md`. No direct cognitive or executive-function moderator test in autistic adults; Ng-Cordell 2025 (ADHD not a moderator of CBT for anxiety in autistic children, N = 167) is the closest direct analogue. Manuscript unchanged; three candidates await full-text checks.
+
 ## 10-21-2026 — Initial project, protocol 0.1
 
 - Imported the exact blog Markdown, Google document text export and original 29-page deep-research Draft 2 PDF with extracted text and source hashes.

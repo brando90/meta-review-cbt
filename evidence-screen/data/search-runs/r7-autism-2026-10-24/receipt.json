@@ -1,0 +1,15 @@
+{
+ "queries": {
+  "A1_autism_adult_trials": "(TITLE_ABS:autis* OR TITLE_ABS:\"Asperger*\") AND TITLE_ABS:adult* AND (TITLE_ABS:\"cognitive behavioral therap*\" OR TITLE_ABS:\"cognitive behavioural therap*\" OR TITLE_ABS:\"cognitive behavior therap*\" OR TITLE_ABS:\"cognitive behaviour therap*\" OR TITLE_ABS:CBT) AND (TITLE_ABS:\"randomi*\" OR TITLE_ABS:\"randomly\" OR PUB_TYPE:\"randomized controlled trial\") AND FIRST_PDATE:[1900-01-01 TO 2026-10-24]",
+  "A2_autism_cbt_reviews": "(TITLE_ABS:autis* OR TITLE_ABS:\"Asperger*\") AND (TITLE_ABS:\"cognitive behavioral therap*\" OR TITLE_ABS:\"cognitive behavioural therap*\" OR TITLE_ABS:\"cognitive behavior therap*\" OR TITLE_ABS:\"cognitive behaviour therap*\" OR TITLE_ABS:CBT) AND (TITLE_ABS:\"meta-analysis\" OR TITLE_ABS:\"systematic review\") AND FIRST_PDATE:[1900-01-01 TO 2026-10-24]",
+  "A3_autism_cbt_moderator": "(TITLE_ABS:autis* OR TITLE_ABS:\"Asperger*\") AND (TITLE_ABS:\"cognitive behavioral therap*\" OR TITLE_ABS:\"cognitive behavioural therap*\" OR TITLE_ABS:\"cognitive behavior therap*\" OR TITLE_ABS:\"cognitive behaviour therap*\" OR TITLE_ABS:CBT) AND (TITLE_ABS:moderat* OR TITLE_ABS:predict* OR TITLE_ABS:\"individual participant data\" OR TITLE_ABS:\"treatment response\") AND FIRST_PDATE:[1900-01-01 TO 2026-10-24]",
+  "A4_adhd_anxiety_adult_moderator": "TITLE_ABS:(ADHD OR \"attention deficit\") AND TITLE_ABS:anxiety AND TITLE_ABS:adult* AND (TITLE_ABS:\"cognitive behavioral therap*\" OR TITLE_ABS:\"cognitive behavioural therap*\" OR TITLE_ABS:\"cognitive behavior therap*\" OR TITLE_ABS:\"cognitive behaviour therap*\" OR TITLE_ABS:CBT) AND (TITLE_ABS:moderat* OR TITLE_ABS:predict* OR TITLE_ABS:comorbid*) AND FIRST_PDATE:[1900-01-01 TO 2026-10-24]"
+ },
+ "counts": {
+  "A1_autism_adult_trials": 4,
+  "A2_autism_cbt_reviews": 32,
+  "A3_autism_cbt_moderator": 70,
+  "A4_adhd_anxiety_adult_moderator": 22
+ },
+ "retrieved_utc": "2026-10-24T15:17:01.836565"
+}
