@@ -4,6 +4,10 @@
 
 **TLDR:** Project initialized on branch `init`; the original author material, protocol, measured search receipts and first manuscript are now versioned. This is not a completed systematic review.
 
+## 10-25-2026 — D2 and E1 abstract screen
+
+- Reran slices D2 (27) and E1 (9) with abstracts; counts reproduced. Receipts and raw responses in `data/search-runs/d2-e1-2026-10-25/`, triage in `data/d2-e1-screen-2026-10-25.md`. No study tests baseline executive function as a moderator of CBT; nine review candidates found, not yet added to the manuscript.
+
 ## 10-24-2026 — R7 autism targeted search
 
 - Ran four Europe PMC slices (A1-A4) on autism and ADHD with CBT; receipts, raw responses and script in `data/search-runs/r7-autism-2026-10-24/`. Triage note: `data/r7-autism-search-2026-10-24.md`. No direct cognitive or executive-function moderator test in autistic adults; Ng-Cordell 2025 (ADHD not a moderator of CBT for anxiety in autistic children, N = 167) is the closest direct analogue. Manuscript unchanged; three candidates await full-text checks.

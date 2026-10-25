@@ -1,0 +1,11 @@
+{
+ "queries": {
+  "D2": "(TITLE_ABS:ADHD OR TITLE_ABS:\"attention deficit\") AND (TITLE_ABS:\"cognitive behavioral therapy\" OR TITLE_ABS:\"cognitive behavioural therapy\" OR TITLE_ABS:\"cognitive-behavioral therapy\" OR TITLE_ABS:\"cognitive-behavioural therapy\" OR TITLE_ABS:\"cognitive behavior therapy\" OR TITLE_ABS:CBT) AND (TITLE_ABS:adult*) AND (PUB_TYPE:\"Meta-Analysis\" OR PUB_TYPE:\"Systematic Review\" OR TITLE:\"meta-analysis\" OR TITLE:\"systematic review\" OR TITLE:\"umbrella review\")",
+  "E1": "(TITLE_ABS:ADHD) AND (TITLE_ABS:\"executive function*\") AND (TITLE_ABS:\"cognitive behavioral therapy\" OR TITLE_ABS:\"cognitive behavioural therapy\" OR TITLE_ABS:\"cognitive-behavioral therapy\" OR TITLE_ABS:\"cognitive-behavioural therapy\" OR TITLE_ABS:\"cognitive behavior therapy\" OR TITLE_ABS:CBT) AND (TITLE_ABS:moderator OR TITLE_ABS:predictor OR TITLE_ABS:outcome)"
+ },
+ "counts": {
+  "D2": 27,
+  "E1": 9
+ },
+ "retrieved_utc": "2026-10-25T15:17:03.333993+00:00"
+}
