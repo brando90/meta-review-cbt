@@ -1,8 +1,12 @@
 # meta-review-cbt
 
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/README.md>
+
 **TLDR:** A critical meta-review of why CBT fails (ten graded reasons, with executive function and adult ADHD as the deepest case study), built on about 440 DOI-verified sources. Status: Draft 3 (2026-10-21), a 17-section paper in `latex/`; nothing has been sent to a journal or reviewer yet.
 
 A critical meta-review of **why CBT fails**: ten reasons (executive-function demands and ADHD, a cognitive component that may not be the active ingredient, inflated effects and measurement, non-response, dropout and relapse, under-recorded harm, patient and context factors, therapist and delivery factors, an under-tested theory of change), each graded against meta-analytic evidence. The executive-function/ADHD argument, which started the project as a blog post, is the deepest case study.
+
+Starting blog draft: [Why CBT doesn’t make sense to me](https://github.com/brando90/brandomiranda/blob/main/_drafts/2026-10-19-why-cbt-doesnt-make-sense-to-me.md).
 
 **Status:** Draft 3 (2026-10-21): 17-section paper (`elsarticle` preprint format) with a graded map of ten reasons CBT fails, built on about 440 DOI-verified sources. Draft 1 (blog-based) and Draft 2 (executive-function focus) are in the history of `main`. Nothing here has been sent to a journal or a reviewer.
 
