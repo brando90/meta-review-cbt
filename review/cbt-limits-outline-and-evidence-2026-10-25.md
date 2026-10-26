@@ -1,6 +1,6 @@
 # CBT and its limits: paper outline and evidence search (draft 1, Oct 25 2026)
 
-**Status:** working draft for Brando's review. Public-repo safe: no names of private people, no personal health details. The five points that started this came from an informal personal communication; they are treated as hypotheses, not as evidence, and are never cited. Every citation below was checked to exist (Crossref DOI match on author, year, venue, title; abstract read where noted). Anything I could not verify is listed as dropped. Numbers come from abstracts or full text I read, not from memory.
+**Status:** working draft for Brando's review. Public-repo safe: no names of private people, no personal health details. The six points that started this came from an informal personal communication; they are treated as hypotheses, not as evidence, and are never cited. Every citation below was checked to exist (Crossref DOI match on author, year, venue, title; abstract read where noted). Anything I could not verify is listed as dropped. Numbers come from abstracts or full text I read, not from memory.
 
 **Labels:** Supported / Partly supported / Contested / Not supported / No evidence found. Each source line has a verdict for the specific claim: SUPPORTS / DOES NOT SUPPORT / MIXED.
 
@@ -52,9 +52,16 @@
 - Why: I found no study of the orientation of NICE or APA panel members, editors or funding panels. The assertion comes from psychodynamic-aligned authors (Leichsenring 2018, Shedler) and is rebutted by CBT-aligned authors (David, Cristea & Hofmann 2018): both sides are interested parties. Counter-evidence: CBT's edge over other bona fide therapies is small (g = 0.06 in depression, Cuijpers 2023) and psychodynamic therapy tested equivalent (Steinert 2017), which weakens "crowding out has a cost"
 
 
+**C8. Sleep: insomnia is multifactorial; sleep-hygiene routines are partly a privilege and not enough; trying to control sleep backfires (the "spontaneity trap"); some effective approaches are counterintuitive**
+
+- Label: **Partly supported** (split: C8a multifactorial: supported in general, no verified quantitative split; C8b hygiene alone is not enough: **supported**; C8c hygiene as a privilege: **partly**, disparities documented, the feasibility mechanism untested; C8d control backfires: **partly**, theory plus small trials; C8e counterintuitive methods work: **supported**, but they are CBT-I components)
+- Why: Sleep hygiene education alone helps a little and is clearly inferior to CBT-I (Ruan 2025: 42 RCTs, n = 4,245, pre-post ISI change 3.4 points, 3.8 points worse than CBT-I, 85.7% of trials at high risk of bias; Chung 2018: less efficacious than CBT-I, medium to large effect-size difference; AASM 2021 suggests against sleep hygiene as a single-component therapy). Sleep and its disturbance are socially patterned (Grandner 2016 review; Mezick 2008, n = 187), but I found no study showing that hygiene advice is less feasible for disadvantaged people, and Irish 2015 notes the direct effects of individual hygiene rules are largely untested in the general population. Sleep effort is a measurable, theorised mechanism (Espie 2006, Broomfield and Espie 2005), and paradoxical intention reduced sleep effort and sleep performance anxiety in a randomised trial of 34 (Broomfield and Espie 2003), though with no objective sleep-onset difference. The counterintuitive methods that work (sleep restriction, stimulus control, paradoxical intention) are the standard behavioural core of CBT-I and are guideline-endorsed (Morin 2006; Edinger 2021: strong for multicomponent CBT-I, conditional for stimulus control and sleep restriction as single components). They are not free: acute sleep restriction cut objective sleep by 69 to 91 minutes a night and impaired vigilance in an uncontrolled study of 16 (Kyle 2014).
+- Against or limiting: the point supports CBT-I over hygiene advice, so it cuts against "CBT does not make sense" for insomnia. The listed "hygiene" items in the point include time-in-bed restriction and bed-only-for-sleep, which the guidelines classify as CBT-I components, not hygiene. No controlled trial of strategic therapy for insomnia was found. The claim about the share of cases due to habits versus illness has no verified source here and is not used.
+- Detail and source lines: Appendix F.
+
 **Judson Brewer.** His peer-reviewed evidence is real but narrower than the claim it is being used for: mindfulness-based craving/habit training beat a comparator in two specific trials (smoking vs the Freedom From Smoking programme, n = 88, 31% vs 6% abstinent at week 17; GAD app vs treatment as usual, n = 65), and was null in a larger smoking app trial (n = 325, 9.8% vs 12.1%). None has a CBT arm for anxiety, so none supports "CBT is dominated"; two are developer-authored. His anxiety-as-habit-loop account is a negative-reinforcement version of C3 and is theory, and the prefrontal-cortex-goes-offline claim is not tested in worry. His TED talk and book are talk and popular book, not evidence. Parity, not superiority, is what the wider literature shows for acceptance and mindfulness approaches vs CBT (A-Tjak 2015, p = .140; Khoury 2013, g = -0.07; Hoge 2023, MBSR non-inferior to escitalopram).
 
-**Honest summary for the paper.** The strong versions of the five points mostly do not survive. The weaker versions do, and they are interesting: (1) CBT's headline effect is control-dependent, (2) allegiance is real and CBT's rivals have it too, (3) "stop trying to force it" is supported but is already inside CBT, (4) CBT dominates volume and funding, (5) whether that dominance has cost anyone is untested.
+**Honest summary for the paper.** The strong versions of the six points mostly do not survive. The weaker versions do, and they are interesting: (1) CBT's headline effect is control-dependent, (2) allegiance is real and CBT's rivals have it too, (3) "stop trying to force it" is supported but is already inside CBT, (4) CBT dominates volume and funding, (5) whether that dominance has cost anyone is untested.
 
 ## 2. Proposed paper structure
 
@@ -65,6 +72,7 @@ Working title: *What the evidence for CBT can and cannot show: control condition
 3. **C1 Control conditions and nonspecific factors.** Waitlist vs attention placebo vs active; structural equivalence; dose; disclosure/venting literature.
 4. **C2 Allegiance.** Meta-research; both directions; what it implies for CBT-vs-other claims.
 5. **C3 and C4 Attempted solutions.** Ironic processes, avoidance, safety behaviours, sleep effort, paradoxical intention; what Palo Alto/brief strategic therapy outcome evidence there is and is not. Include the point that CBT already targets these.
+5a. **C8 Sleep as the worked example.** Multifactorial causes; why hygiene alone is not enough; sleep effort and the control paradox; which counterintuitive methods have trial evidence and why they belong to CBT-I. Use it to show the claims can be partly right and still land inside CBT.
 6. **C5 Cognition and emotion.** Intention-behaviour gap, reappraisal, exposure mechanisms, dual-process disputes. Use smoking warnings only as a worked example of why a plausible claim needs data (C5a goes against it).
 7. **Alternatives with evidence.** Mindfulness-based habit training (Brewer's trials), ACT, MBSR, psychodynamic: parity, not dominance, with the small-trial caveats.
 8. **C6 and C7 Concentration of research effort.** Descriptive counts of CBT share (trials, funding, guidelines, training) and, separately and explicitly labelled as hypothesis, the gatekeeping mechanism. Propose a study that would test it (see 3).
@@ -79,7 +87,7 @@ Working title: *What the evidence for CBT can and cannot show: control condition
 
 ## 4. Handling and cautions
 
-- The five starting points are an unattributed personal communication. They are not cited; the paper cites only the literature. Credit in the paper, if any, is decided with the person in conversation.
+- The six starting points are an unattributed personal communication. They are not cited; the paper cites only the literature. Credit in the paper, if any, is decided with the person in conversation.
 - The repo is public. This outline contains no private names and no personal health details.
 - Brewer's research must be described as what the trials show; he is not a witness for "CBT is over."
 - Unverified and dropped items are listed in each appendix. Notably: the MQ 2015 UK funding split and "99% of German psychology chairs are CBT" (only second-hand via Leichsenring 2018), Nardone's centre statistics, a Cochrane review of pictorial warnings (none found), and several guessed DOIs that resolved to unrelated papers.
@@ -387,3 +395,43 @@ Interpretation: "psychology board" is read as guideline panels (NICE, APA), accr
 - The mechanism is the weak link. I found no study analysing the therapy orientation of NICE or APA panel members, of editorial boards, or of funding review panels. The assertion comes from opinion papers by psychodynamic-aligned authors (Leichsenring 2018, Shedler); the rebuttal from CBT-aligned authors (David 2018) is equally interested. Allegiance bias in outcomes is real (Munder 2013, Zimmerman 2024), but that is about researchers' results, not about who sits on panels.
 - Counter-evidence: comparative trials show CBT's advantage over other bona fide therapies is small (g=0.06 in depression, Cuijpers 2023) and psychodynamic therapy is equivalent in a pre-registered adversarial test (Steinert 2017). This favours the "crowding out lacks a clear cost" reading, though it also shows how few psychodynamic RCTs there are. Dominance may reflect manualisability and measurability, but that argument is mostly made informally.
 - Unverified or dropped: the MQ 2015 funding split and the 99% German chairs figure (quoted secondhand); the BACP response document; any Division 12 tally; Cosgrove 2017 numbers (abstract not retrieved); the exact Metapsy-wide CBT share. Weissman 2006 is Arch Gen Psychiatry, not Am J Psychiatry as the brief says.
+
+---
+
+# Appendix F. Sleep: multifactorial, hygiene, privilege, sleep effort, counterintuitive methods (C8)
+
+Every line below was checked in Crossref (author, year, venue, title, DOI) and, where an abstract is quoted, read in the PubMed/Europe PMC abstract. Numbers are from those abstracts.
+
+### Sources (one line each)
+
+- chung2018 | Chung, Lee, Yeung et al. (2018; online 2017) | Family Practice | 10.1093/fampra/cmx122 | systematic review and meta-analysis, 15 studies (12 compared with CBT-I) | SHE improved sleep before to after treatment (small to medium effect) but was significantly less efficacious than CBT-I (medium to large difference); sleep-efficiency gain about 5%, SHE-CBT-I gap about 8%; only subjective measures significant | verdict: SUPPORTS C8b
+- ruan2025 | Ruan, Liu, Chung et al. (2025) | Sleep Medicine Reviews | 10.1016/j.smrv.2025.102109 | meta-analysis, 42 RCTs, n = 4,245 | pre-post ISI improvement MD = 3.4 (95% CI 2.08 to 4.64); inferior to CBT-I (MD = 3.8, CI 2.92 to 4.76); 85.7% of trials at high risk of bias | verdict: SUPPORTS C8b (evidence quality low)
+- irish2015 | Irish, Kline, Gunn, Buysse, Hall (2015) | Sleep Medicine Reviews | 10.1016/j.smrv.2014.10.001 | narrative review | individual hygiene recommendations are associated with sleep in epidemiologic and experimental work, but their direct effects remain "largely untested" in the general population | verdict: MIXED (hygiene rules are plausible; effect as a package is not shown)
+- edinger2021 | Edinger, Arnedt, Bertisch et al. (2021) | Journal of Clinical Sleep Medicine | 10.5664/jcsm.8986 | AASM guideline (GRADE) | strong: multicomponent CBT-I; conditional: brief therapies, stimulus control, sleep restriction, relaxation; conditional recommendation not to use sleep hygiene as a single-component therapy | verdict: SUPPORTS C8b and C8e
+- qaseem2016 | Qaseem, Kansagara, Forciea et al. (2016) | Annals of Internal Medicine | 10.7326/m15-2175 | ACP guideline | CBT-I as initial treatment for chronic insomnia (strong, moderate-quality evidence) | verdict: context; supports CBT-I
+- riemann2023 | Riemann, Espie, Altena et al. (2023; online Nov 2023) | Journal of Sleep Research | 10.1111/jsr.14035 | European guideline | CBT-I first-line for chronic insomnia in adults of any age, including with comorbidities, in person or digital (grade A) | verdict: context; supports CBT-I and shows comorbid insomnia is treated with it
+- morin2006 | Morin, Bootzin, Buysse et al. (2006) | Sleep | 10.1093/sleep/29.11.1398 | AASM review, 37 studies, N = 2,246 | therapies worked in primary insomnia and insomnia with medical or psychiatric disorders; five met criteria for empirically supported treatment: stimulus control, relaxation, paradoxical intention, sleep restriction, CBT | verdict: SUPPORTS C8a (comorbid insomnia is common enough to be studied as a category) and C8e
+- spielman1987 | Spielman, Saskin, Thorpy (1987) | Sleep | 10.1093/sleep/10.1.45 | uncontrolled treatment series, n = 35 | excess time in bed named as one perpetuating factor; restriction then extension improved total sleep time and sleep efficiency; held at about 36 weeks in 23 patients | verdict: SUPPORTS C8a (perpetuating factors) and C8e; weak design
+- kyle2014 | Kyle, Miller, Rogers et al. (2014) | Sleep | 10.5665/sleep.3386 | within-subject, uncontrolled, n = 16 | sleep restriction cut objective total sleep time by 91, 78 and 69 minutes (nights 1, 8, 22) and increased sleepiness and impaired vigilance, while subjective sleep and insomnia severity improved | verdict: LIMITS C8e (counterintuitive methods have a cost)
+- grandner2016 | Grandner, Williams, Knutson, Roberts, Jean-Louis (2016) | Sleep Medicine | 10.1016/j.sleep.2015.01.020 | narrative review | racial/ethnic minorities and the socioeconomically disadvantaged more likely to have sleep patterns linked to adverse health; sleep behaviours are shaped by social and environmental factors | verdict: PARTLY SUPPORTS C8c (disparity, not the hygiene mechanism)
+- mezick2008 | Mezick, Matthews, Hall et al. (2008) | Psychosomatic Medicine | 10.1097/psy.0b013e31816fdf21 | cross-sectional, 9 nights actigraphy + 2 PSG, n = 187 | Black participants had shorter sleep duration and lower efficiency; authors conclude lower-SES groups may be at risk for sleep disturbance | verdict: PARTLY SUPPORTS C8c (race effect clear; SES effect hedged)
+- espie2006aie | Espie, Broomfield, MacMahon et al. (2006) | Sleep Medicine Reviews | 10.1016/j.smrv.2006.03.002 | theoretical review | attention-intention-effort pathway: direct attempts to control sleep may inhibit it | verdict: SUPPORTS C8d as theory (already in Appendix B)
+- broomfield2005 | Broomfield and Espie (2005) | Journal of Sleep Research 14:401-407 | 10.1111/j.1365-2869.2005.00481.x | scale development | Glasgow Sleep Effort Scale; states, does not test, that control attempts perpetuate insomnia | verdict: MIXED (already in Appendix B)
+- broomfield2003 | Broomfield and Espie (2003) | Behavioural and Cognitive Psychotherapy 31:313-324 | 10.1017/s1352465803003060 | RCT, 34 sleep-onset insomniacs, 14 nights PI vs no PI | PI cut sleep effort and sleep performance anxiety; no objective sleep-onset difference; subjective trend only | verdict: PARTLY SUPPORTS C8d (mechanism moved, sleep did not on the objective measure)
+- turner1979 and jansson2022pi | see Appendix B | PI equals stimulus control and relaxation; about 10 trials, none recent | verdict: SUPPORTS C8e, thin
+
+### Exists, findings not read (not used for any claim)
+
+- Ascher and Efran (1978), J Consult Clin Psychol 46:547-550, 10.1037/0022-006x.46.3.547 (title and venue verified; no abstract available through Crossref).
+- Harvey (2003), Cognitive Therapy and Research 27:593-602, 10.1023/a:1026322310019, "The attempted suppression of presleep cognitive activity in insomnia" (title and venue verified; abstract not retrieved).
+
+### Not found, dropped
+
+- A verified figure for the share of insomnia due to habits versus illness (the personal communication gives about 90% in garbled form): not used.
+- Any study that tests whether sleep-hygiene advice is less feasible for lower-income or shift-working people: none found. This is a gap worth a small study (C8c).
+- Any controlled trial of strategic therapy for insomnia: none found (see Appendix B, section 1).
+
+### C8 synthesis
+
+The sleep point is the strongest of the six at the level of clinical sleep medicine, and it is already mainstream: hygiene advice alone underperforms, and the effective behavioural methods are counterintuitive (get less time in bed, get out of bed, stop trying). But those methods came from behavioural and cognitive-behavioural research and are components of CBT-I, the first-line treatment in the ACP, AASM and European guidelines. So the sleep example supports a narrower claim than the one it was raised for: "hygiene advice and effort are not enough", not "CBT is the wrong frame". The privilege claim rests on sleep-disparity data and needs its own test. The spontaneity trap has a measured construct and small trials, with the objective-outcome result for paradoxical intention null in the one randomised study read here.
+
