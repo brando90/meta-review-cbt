@@ -12,4 +12,4 @@
    - Test against: intention-behaviour gap, fear-appeal and warning-label studies, exposure versus cognitive-only treatment.
 4. **Personal experience of over-control.** Trying to optimise and control one's own health backfired; the person dropped it. Anecdote only, kept at this level on purpose.
 
-The evidence search for points 1 to 3 and the CBT-dominance claim is in `review/cbt-limits-outline-and-evidence-2026-10-25.md` (same branch).
+The evidence search for these points and the CBT-dominance claim is on branch `ub9/cbt-limits-outline-oct25`, file `review/cbt-limits-outline-and-evidence-2026-10-25.md`.
