@@ -6,17 +6,51 @@
 
 ## 1. Bottom line (read this first)
 
-| # | Claim, stated as testable | Label | One-line reason |
-|---|---|---|---|
-| C1 | A large share of CBT's measured effect against waitlist or no treatment comes from attention, time, contact and expectancy, not from the cognitive technique | **Partly supported** | Psychological-placebo arms beat waitlist by about half an SD (Faltinsen 2022, SMD -0.49); structurally equal placebos erase the specific advantage (Baskin 2003). But CBT still beats placebo (Carpenter g = 0.56). Contact time and session number do not predict effect size (Cuijpers 2013). Expressive writing and venting effects are tiny (r .075, d .19), so "venting" alone cannot explain CBT effects |
-| C2 | Researcher allegiance inflates the CBT-versus-other comparisons | **Supported in general; weak for CBT specifically** | Allegiance and outcome correlate (Munder 2013, r = .262, 30 meta-analyses; Dragioti 2015, ROR 1.31). But Dragioti found no significant allegiance effect for CBT, and Tolin 2010's CBT advantage survived adjustment. Allegiance cuts both ways |
-| C3 | Attempted solutions (forcing sleep, suppression, avoidance, safety behaviours) perpetuate problems | **Partly supported** | Mechanism is real but modest: suppression rebound small to moderate (Abramowitz 2001) and not larger in clinical groups (Magee 2012); reducing safety behaviours d = 0.43, increasing them d = 0.65 (Goodson 2026). It is also a core CBT formulation (Salkovskis; Harvey 2002), so it argues for a CBT component, not against CBT |
-| C4 | Therapy that interrupts the attempted solution (strategic / Palo Alto therapy, paradoxical intention) resolves problems at least as well as CBT, faster | **Contested / thin** | Paradoxical intention works for insomnia but equals stimulus control and relaxation (Turner & Ascher 1979; Jansson-Frojmark 2022, about 10 trials, none recent). Pure strategic therapy: uncontrolled in-house case series, one small RCT vs CBT (Jackson 2018, n = 60, advocate-run). No independent trial found. Nardone's 80 to 95 percent success figures are in-house and not used |
-| C5 | Reason does not change behaviour; emotion does | **Contested** (strong form: Not supported) | Experimental meta-analyses show changing intentions and attitudes changes behaviour (Webb & Sheeran 2006; Sheeran 2016, d about 0.36 to 0.66) and reappraisal changes emotion (Webb 2012). The reason-versus-emotion primacy is a standing theoretical dispute (Zajonc vs Lazarus). No independent evidence for a four-emotion taxonomy (horror, pleasure, fear, rage) |
-| C5a | Smoking: pleasure-driven; graphic warning images (fear) did not stop smoking | **Not supported** | Pictorial packs raised quit attempts (40% vs 34%) and 7-day abstinence (5.7% vs 3.8%) in a 4-week RCT of 2,149 smokers (Noel Brewer et al. 2016, a different author from Judson Brewer); Canada's labels were followed by a 12 to 20 percent relative fall in smoking (Huang 2014, observational). Effects are modest and real-world results mixed. Fear works mainly with efficacy beliefs. Smoking is better framed as escape from negative affect than pleasure. **This is the claim to drop or reword** |
-| C5b | Phobia: knowing the plane rarely crashes does not remove the fear | **Partly supported** | Plausible, and exposure is the best-supported phobia treatment. But cognitive therapy roughly matches exposure in several anxiety disorders (Norton 2007; Ougrin 2011), and exposure itself seems to work partly by changing expectancies (Hofmann 2008; Craske 2014). Nobody tested the flight-statistics example directly |
-| C6 | CBT is over-represented in research, funding, guidelines and training | **Partly supported** | Trials and funding: supported (two thirds of psychotherapy RCT arms 2010 to 2019, Rief 2022; about half of long-term depression comparisons, Cuijpers 2026; NIMH CBT share of psychotherapy dollars 44%, Galves 2025; IAPT about 68% CBT-based). Training: contested (CBT is the most-taught evidence-based therapy, but evidence-based training overall is thin, not displaced; Weissman 2006) |
-| C7 | The bodies that decide what counts as evidence-based (guideline panels, accreditation bodies, editorial boards, funding panels) are staffed by CBT-aligned people, which crowds out other therapies | **No evidence found** (opinion only) | I found no study of the orientation of NICE or APA panel members, editors or funding panels. The assertion comes from psychodynamic-aligned authors (Leichsenring 2018, Shedler) and is rebutted by CBT-aligned authors (David, Cristea & Hofmann 2018): both sides are interested parties. Counter-evidence: CBT's edge over other bona fide therapies is small (g = 0.06 in depression, Cuijpers 2023) and psychodynamic therapy tested equivalent (Steinert 2017), which weakens "crowding out has a cost" |
+**C1. A large share of CBT's measured effect against waitlist or no treatment comes from attention, time, contact and expectancy, not from the cognitive technique**
+
+- Label: **Partly supported**
+- Why: Psychological-placebo arms beat waitlist by about half an SD (Faltinsen 2022, SMD -0.49); structurally equal placebos erase the specific advantage (Baskin 2003). But CBT still beats placebo (Carpenter g = 0.56). Contact time and session number do not predict effect size (Cuijpers 2013). Expressive writing and venting effects are tiny (r .075, d .19), so "venting" alone cannot explain CBT effects
+
+**C2. Researcher allegiance inflates the CBT-versus-other comparisons**
+
+- Label: **Supported in general; weak for CBT specifically**
+- Why: Allegiance and outcome correlate (Munder 2013, r = .262, 30 meta-analyses; Dragioti 2015, ROR 1.31). But Dragioti found no significant allegiance effect for CBT, and Tolin 2010's CBT advantage survived adjustment. Allegiance cuts both ways
+
+**C3. Attempted solutions (forcing sleep, suppression, avoidance, safety behaviours) perpetuate problems**
+
+- Label: **Partly supported**
+- Why: Mechanism is real but modest: suppression rebound small to moderate (Abramowitz 2001) and not larger in clinical groups (Magee 2012); reducing safety behaviours d = 0.43, increasing them d = 0.65 (Goodson 2026). It is also a core CBT formulation (Salkovskis; Harvey 2002), so it argues for a CBT component, not against CBT
+
+**C4. Therapy that interrupts the attempted solution (strategic / Palo Alto therapy, paradoxical intention) resolves problems at least as well as CBT, faster**
+
+- Label: **Contested / thin**
+- Why: Paradoxical intention works for insomnia but equals stimulus control and relaxation (Turner & Ascher 1979; Jansson-Frojmark 2022, about 10 trials, none recent). Pure strategic therapy: uncontrolled in-house case series, one small RCT vs CBT (Jackson 2018, n = 60, advocate-run). No independent trial found. Nardone's 80 to 95 percent success figures are in-house and not used
+
+**C5. Reason does not change behaviour; emotion does**
+
+- Label: **Contested** (strong form: Not supported)
+- Why: Experimental meta-analyses show changing intentions and attitudes changes behaviour (Webb & Sheeran 2006; Sheeran 2016, d about 0.36 to 0.66) and reappraisal changes emotion (Webb 2012). The reason-versus-emotion primacy is a standing theoretical dispute (Zajonc vs Lazarus). No independent evidence for a four-emotion taxonomy (horror, pleasure, fear, rage)
+
+**C5a. Smoking: pleasure-driven; graphic warning images (fear) did not stop smoking**
+
+- Label: **Not supported**
+- Why: Pictorial packs raised quit attempts (40% vs 34%) and 7-day abstinence (5.7% vs 3.8%) in a 4-week RCT of 2,149 smokers (Noel Brewer et al. 2016, a different author from Judson Brewer); Canada's labels were followed by a 12 to 20 percent relative fall in smoking (Huang 2014, observational). Effects are modest and real-world results mixed. Fear works mainly with efficacy beliefs. Smoking is better framed as escape from negative affect than pleasure. **This is the claim to drop or reword**
+
+**C5b. Phobia: knowing the plane rarely crashes does not remove the fear**
+
+- Label: **Partly supported**
+- Why: Plausible, and exposure is the best-supported phobia treatment. But cognitive therapy roughly matches exposure in several anxiety disorders (Norton 2007; Ougrin 2011), and exposure itself seems to work partly by changing expectancies (Hofmann 2008; Craske 2014). Nobody tested the flight-statistics example directly
+
+**C6. CBT is over-represented in research, funding, guidelines and training**
+
+- Label: **Partly supported**
+- Why: Trials and funding: supported (two thirds of psychotherapy RCT arms 2010 to 2019, Rief 2022; about half of long-term depression comparisons, Cuijpers 2026; NIMH CBT share of psychotherapy dollars 44%, Galves 2025; IAPT about 68% CBT-based). Training: contested (CBT is the most-taught evidence-based therapy, but evidence-based training overall is thin, not displaced; Weissman 2006)
+
+**C7. The bodies that decide what counts as evidence-based (guideline panels, accreditation bodies, editorial boards, funding panels) are staffed by CBT-aligned people, which crowds out other therapies**
+
+- Label: **No evidence found** (opinion only)
+- Why: I found no study of the orientation of NICE or APA panel members, editors or funding panels. The assertion comes from psychodynamic-aligned authors (Leichsenring 2018, Shedler) and is rebutted by CBT-aligned authors (David, Cristea & Hofmann 2018): both sides are interested parties. Counter-evidence: CBT's edge over other bona fide therapies is small (g = 0.06 in depression, Cuijpers 2023) and psychodynamic therapy tested equivalent (Steinert 2017), which weakens "crowding out has a cost"
+
 
 **Judson Brewer.** His peer-reviewed evidence is real but narrower than the claim it is being used for: mindfulness-based craving/habit training beat a comparator in two specific trials (smoking vs the Freedom From Smoking programme, n = 88, 31% vs 6% abstinent at week 17; GAD app vs treatment as usual, n = 65), and was null in a larger smoking app trial (n = 325, 9.8% vs 12.1%). None has a CBT arm for anxiety, so none supports "CBT is dominated"; two are developer-authored. His anxiety-as-habit-loop account is a negative-reinforcement version of C3 and is theory, and the prefrontal-cortex-goes-offline claim is not tested in worry. His TED talk and book are talk and popular book, not evidence. Parity, not superiority, is what the wider literature shows for acceptance and mindfulness approaches vs CBT (A-Tjak 2015, p = .140; Khoury 2013, g = -0.07; Hoge 2023, MBSR non-inferior to escitalopram).
 
