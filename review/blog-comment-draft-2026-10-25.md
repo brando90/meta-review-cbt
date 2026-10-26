@@ -7,7 +7,7 @@ section: life
 
 *Brando Miranda — October 2026 · ~5 min read · Draft, not reviewed*
 
-After I wrote [Why CBT Doesn't Make Sense to Me]({{ site.baseurl }}/2026/10/19/why-cbt-doesnt-make-sense-to-me.html), I got a long comment from the strategic-therapy side of the field. It made five points. I am posting them roughly as they came, because they push on my argument from a direction I had not considered, and then I say what I plan to check.
+After I wrote *Why CBT Doesn't Make Sense to Me*, I got a long comment from the strategic-therapy side of the field. It made five points. I am posting them roughly as they came, because they push on my argument from a direction I had not considered, and then I say what I plan to check.
 
 ## 1. The studies are full of confounds
 
@@ -23,7 +23,7 @@ We live in what could be called the perversion of reason: we are reasoned over a
 
 ## 4. Over-control backfires
 
-More control, which was the attempted solution, made things worse. Taking care of every detail meant losing the big things. Dropping the control helped. This one is an anecdote, not a study, but it is the same pattern as point 2.
+The comment added a personal note: trying to optimize and control one's own health, which was the attempted solution, made things worse, and taking care of every detail meant losing the big things. Dropping the control helped. This one is an anecdote, not a study, but it is the same pattern as point 2.
 
 ## 5. There is more, and it is easy to misread
 
