@@ -23,6 +23,6 @@ The PDF describes itself as a critical theoretical review, **not a completed sys
 
 The PDF's journal-style “Preprint submitted to” footer is part of the imported artifact, not evidence of submission. No journal submission is made by this initialization. No unrelated clinical records or correspondence are included.
 
-## Connection to the Andrea discussion
+## Connection to the collaborator discussion
 
 On 10-21-2026, the author’s sent email of 10-19-2026 was checked: it attached a blog PDF and described the anxiety/stress/executive-control argument, alternatives, and counterarguments. The message offered Google Docs access; it did not establish that a Google Doc link had already been sent or that the collaborator endorsed the argument. No private correspondence is reproduced here. The archived Google Docs draft matches the broader themes.
