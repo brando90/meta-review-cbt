@@ -4,7 +4,7 @@
 
 **TLDR:** Draft 4.1 (11-08-2026) incorporates clinical feedback into the critical review of ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and adult attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. It distinguishes intellectual understanding, emotional responding and everyday behaviour without claiming a universal therapeutic sequence, systematic completeness or submission readiness.
 
-**Paper:** [Draft 4.1 PDF](latex/main.pdf) · [clinical-feedback changes](experiments/03_clinical_goals_engagement_and_timing/clinical_feedback_revision.md) · [earlier Draft 4 review record](review/LIGHT_QA_DRAFT4.md) · [claim–evidence map](review/claim_evidence_map.md) · [source-verification log](deep-research/VERIFICATION.md)
+**Paper:** [Draft 4.1 PDF](latex/main.pdf) · [clinical-feedback changes](experiments/03_clinical_goals_engagement_and_timing/clinical_feedback_revision.md) · [clinician-note gap fix](experiments/03_clinical_goals_engagement_and_timing/clinical_notes_gap_fix.md) · [earlier Draft 4 review record](review/LIGHT_QA_DRAFT4.md) · [claim–evidence map](review/claim_evidence_map.md) · [source-verification log](deep-research/VERIFICATION.md)
 
 > *Why Does CBT Fail? A Critical Review of Ten Proposed Explanations, with Executive Function and Adult ADHD as a Test Case*
 
