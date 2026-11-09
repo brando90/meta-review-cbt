@@ -1,10 +1,10 @@
-# Claim-by-claim evidence map (Draft 4)
+# Claim-by-claim evidence map (Draft 4.1)
 
 **Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/review/claim_evidence_map.md>
 
-**TLDR:** The review retains all ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. The new evolutionary, evidence-selection and clinical-formulation claims have separate evidence grades and explicit limits below.
+**TLDR:** The review retains all ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. The evolutionary, evidence-selection, clinical-formulation and clinical-feedback claims have separate evidence grades and explicit limits below.
 
-Status key: **S** supported, **P** partly supported, **N** not supported / contradicted, **G** gap in the sources searched, **Contested** credible evidence on both sides. A gap is not proof of absence. Section numbers refer to the current `latex/main.tex` input order. The first two tables retain earlier source checks; the Draft 4 table records the current targeted extension, not a fresh verification of the entire bibliography.
+Status key: **S** supported, **P** partly supported, **N** not supported / contradicted, **G** gap in the sources searched, **Contested** credible evidence on both sides. A gap is not proof of absence. Section numbers refer to the current `latex/main.tex` input order. The first two tables retain earlier source checks; the Draft 4 and Draft 4.1 tables record targeted extensions, not a fresh verification of the entire bibliography.
 
 | # | Claim | Key evidence (see paper) | Status | Section |
 |---|---|---|---|---|
@@ -59,6 +59,19 @@ The effect-size symbols below retain the sources' conventions: `g` is Hedges' st
 | 37 | Four patient types and their prevalence are established | Readiness (76 studies/25,917 patients) and reactance (13 controlled studies/1,208 patients) are relevant but do not validate the informal split or prevalence claims | **G (typology); P (related constructs)** | `13-patients.tex` |
 | 38 | Alliance and rupture repair matter | Alliance `r=.278 [.256,.299]` across 295 studies; reciprocal early alliance/symptom relations in 17 studies/5,350 participants; one 331-patient/80-therapist study locates the association at therapist level. Repair `r=.29 [.10,.47]` in 11 studies; training/supervision `r=.11 [-.09,.30]` in six comparisons does not establish benefit | **S (association), unresolved causal magnitude** | `14-delivery.tex` |
 | 39 | Feedback/timing make any therapeutic probe effective | A feedback trial with 2,233 patients supports a specific structured intervention for not-on-track patients. Neither this nor alliance evidence directly tests early reframing conditional on alliance readiness | **P (specific feedback), G (broad timing mechanism)** | `14-delivery.tex`, `17-agenda.tex` |
+
+## Draft 4.1: clinical-feedback refinements
+
+| # | Claim or question | Checked evidence and boundary | Status | Current placement |
+|---|---|---|---|---|
+| 40 | Intellectual understanding and emotional/behavioural change should be distinguished | Informal clinical formulation motivates separate measures of intellectual understanding, reported threat, avoidance and functioning; no prevalence or unique neural-system claim | Formulation and measurement proposal, not an estimated treatment effect | `13-patients.tex`, `17-agenda.tex` |
+| 41 | A verbal or action-based format identifies the mechanism | Johnco's behavioural experiments changed expectancies; the clinical proposal also permits verbal reframing to enable a different experience. Format alone identifies neither a causal mechanism nor brief strategic therapy's efficacy | **N (inference)** | `15-mechanism.tex` |
+| 42 | A corrective experience must erase earlier threat learning | Craske's inhibitory-learning framework allows new associations to compete with retained threat learning; emotional intensity is not itself an outcome measure | **N (necessity claim), S (description of the model)** | `15-mechanism.tex`, `17-agenda.tex` |
+| 43 | Suppression rebound establishes a harm of cognitive restructuring | Abramowitz's controlled-study meta-analysis reports small-to-moderate rebound after suppression, with few clinical samples. Suppression is a different procedure | **S (suppression finding), N (extrapolation to restructuring)** | `15-mechanism.tex` |
+| 44 | Cognitive consolidation belongs at the end of every therapy | The clinical proposal allows earlier reframing; final-phase consolidation and consolidation after an individual exposure are different timing questions. Johnco/Krause do not establish a universal end-of-therapy rule | **G (proposed final-phase sequence), N (universal inference)** | `14-delivery.tex`, `17-agenda.tex` |
+| 45 | Manualisation is generally superior | Truijens: none of six direct comparisons supported superiority; three of eight indirect meta-analyses did. Mixed evidence does not establish a general-superiority or equivalence claim | **Contested; general superiority not established** | `14-delivery.tex` |
+
+See the [clinical-feedback change record](../experiments/03_clinical_goals_engagement_and_timing/clinical_feedback_revision.md) for disposition of the remaining comments and source-access limits.
 
 ### Source records
 

@@ -196,5 +196,35 @@
         "sha256": "94322379d752827daa825c7e9ff88d97098cbb7839af9b2427dc368b1714e87b"
       }
     ]
+  },
+  {
+    "key": "abramowitz2001suppression",
+    "doi": "10.1016/s0272-7358(00)00057-x",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/abramowitz2001suppression.abstract.txt",
+        "sha256": "a7cb3dacc3e3411de4c38f88b9ffa1b94e7eae0a7523067ceb5b415c4d52b2a3"
+      }
+    ]
+  },
+  {
+    "key": "truijens2019manual",
+    "doi": "10.1002/jclp.22712",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/truijens2019manual.abstract.txt",
+        "sha256": "f04150c05312f95b4fc9fd2087ad8e8ac105a654100272d569d68e171b0acdcb"
+      }
+    ]
   }
 ]

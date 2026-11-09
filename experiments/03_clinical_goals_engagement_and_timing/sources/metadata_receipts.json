@@ -928,5 +928,112 @@
     "pmid": "34293223",
     "pmcid": null,
     "europepmc_title": "Efficacy of temporally intensified exposure for anxiety disorders: A multicenter randomized clinical trial."
+  },
+  {
+    "key": "abramowitz2001suppression",
+    "doi": "10.1016/s0272-7358(00)00057-x",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fs0272-7358%2800%2900057-x",
+    "crossref_sha256": "efac911c241fa97bc8e96ed8b854e9e26007ff35437ff37bd6754e9dd4033d4b",
+    "title": [
+      "Paradoxical effects of thought suppression: a meta-analysis of controlled studies"
+    ],
+    "authors": [
+      {
+        "given": "Jonathan S",
+        "family": "Abramowitz"
+      },
+      {
+        "given": "David F",
+        "family": "Tolin"
+      },
+      {
+        "given": "Gordon P",
+        "family": "Street"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology Review"
+    ],
+    "published": [
+      [
+        2001,
+        7
+      ]
+    ],
+    "published_print": [
+      [
+        2001,
+        7
+      ]
+    ],
+    "published_online": null,
+    "volume": "21",
+    "issue": "5",
+    "pages": "683-703",
+    "crossref_retrieved_at_utc": "2026-11-09T03:40:59.157960+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fs0272-7358%2800%2900057-x%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "1bd3e71c215c6ea71ea03f8c40377b8a159f07e3fdf34153306bf36f765dafc3",
+    "europepmc_matches": 1,
+    "pmid": "11434226",
+    "pmcid": null,
+    "europepmc_title": "Paradoxical effects of thought suppression: a meta-analysis of controlled studies."
+  },
+  {
+    "key": "truijens2019manual",
+    "doi": "10.1002/jclp.22712",
+    "crossref_url": "https://api.crossref.org/works/10.1002%2Fjclp.22712",
+    "crossref_sha256": "0242443a6501ef3e0bff3f90902f44cc82ebf9757ffede000b086a57a1396d59",
+    "title": [
+      "To manualize, or not to manualize: Is that still the question? A systematic review of empirical evidence for manual superiority in psychological treatment"
+    ],
+    "authors": [
+      {
+        "given": "Femke",
+        "family": "Truijens"
+      },
+      {
+        "given": "Levin",
+        "family": "Zühlke‐van Hulzen"
+      },
+      {
+        "given": "Stijn",
+        "family": "Vanheule"
+      }
+    ],
+    "journal": [
+      "Journal of Clinical Psychology"
+    ],
+    "published": [
+      [
+        2018,
+        10,
+        28
+      ]
+    ],
+    "published_print": [
+      [
+        2019,
+        3
+      ]
+    ],
+    "published_online": [
+      [
+        2018,
+        10,
+        28
+      ]
+    ],
+    "volume": "75",
+    "issue": "3",
+    "pages": "329-343",
+    "crossref_retrieved_at_utc": "2026-11-09T03:41:04.411351+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1002%2Fjclp.22712%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "d8143df3b9cb3f63c6cf2e2d7d15401c7ea09676f199abaf6218a10442cfacca",
+    "europepmc_matches": 1,
+    "pmid": "30368808",
+    "pmcid": null,
+    "europepmc_title": "To manualize, or not to manualize: Is that still the question? A systematic review of empirical evidence for manual superiority in psychological treatment."
   }
 ]

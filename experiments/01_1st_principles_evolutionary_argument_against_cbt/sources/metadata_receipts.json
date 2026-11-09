@@ -839,7 +839,13 @@
     "pmcid": "PMC4114726",
     "europepmc_title": "Maximizing exposure therapy: an inhibitory learning approach.",
     "fulltext_xml_error": "HTTP Error 500: ",
-    "fulltext_html_error": "No article body in public HTML response"
+    "fulltext_html_error": "No article body in public HTML response",
+    "fulltext_url": "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_json/PMC4114726/unicode",
+    "fulltext_sha256": "8be17c6ace267418a1f92b258df36577f081da4e5c6ead36a172cd6ce7e6aa6b",
+    "fulltext_format": "NCBI BioC JSON; author manuscript",
+    "fulltext_retrieved_at_utc": "2026-11-09T03:41:51.222139+00:00",
+    "fulltext_extraction": "Nonempty text from documents[0].passages in source order, separated by two newlines, with one final newline",
+    "fulltext_version_note": "BioC title metadata reports year 2015; Crossref identifies journal publication in July 2014. This is an author-manuscript reading copy, not a checked final publisher PDF."
   },
   {
     "key": "johnco2025restructuring",

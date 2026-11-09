@@ -6,6 +6,8 @@
 
 Date: 11-08-2026. Fixed review base: `2f3ad20`.
 
+**Historical scope:** this record describes Draft 4, published in `28a0b20`, including its 63-page PDF and 43-candidate final inventory. The later Draft 4.1 clinical-feedback changes and their current artifact counts are documented separately in the [clinical-feedback revision record](../experiments/03_clinical_goals_engagement_and_timing/clinical_feedback_revision.md); the original verdict and coverage below remain unchanged.
+
 ## Review contract and coverage
 
 - **Builder/coordinator:** Pi using the exposed `gpt-6-astra` model; builder reasoning effort was not exposed.

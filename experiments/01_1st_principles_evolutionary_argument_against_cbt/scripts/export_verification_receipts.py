@@ -25,19 +25,20 @@ FULL_PASSAGES = {
     "leichsenring2018plurality": "Abstract and relevant main-text argument",
     "hayes2006act": "Author-manuscript definitions of acceptance, defusion, values and committed action",
     "fluckiger2018alliance": "Abstract and full-text definition/causality passages",
+    "craske2014maximizing": "Author-manuscript inhibitory-learning model, response-system divergence, expectancy-violation and consolidation passages",
 }
 EXCLUDED = {"mahoney1977prejudices": "Metadata only; no abstract; publisher routes returned challenge pages"}
 ABSTRACT_ONLY = {
-    "Delgadillo2018Feedback", "baldwin2007alliance", "berridge2016liking",
+    "Delgadillo2018Feedback", "abramowitz2001suppression", "baldwin2007alliance", "berridge2016liking",
     "beutler2018reactance", "brembs2002operant", "burlingame2016group",
-    "carlbring2018icbt", "craske2014maximizing", "cuijpers2010publicationbias",
+    "carlbring2018icbt", "cuijpers2010publicationbias",
     "cuijpers2017components", "dewit2018failures", "doll2009instruction",
     "emerson2010peerreview", "eubanks2018rupture", "fluckiger2020reciprocal",
     "grillner2016basal", "hofmann2008extinction", "jacobson1996component",
     "johnco2025restructuring", "krebs2018readiness", "li2011instructed",
     "longmore2007challenge", "ludwig2020selfregulation", "munder2013allegiance",
     "pittig2021intensified", "schultz1997reward", "stockton2019mediation",
-    "tolin2010cbt", "wood2016habit", "yin2004lesions", "yin2006habits",
+    "tolin2010cbt", "truijens2019manual", "wood2016habit", "yin2004lesions", "yin2006habits",
     "zimmerman2024allegiance",
 }
 RECORDED_KEYS = set(FULL_PASSAGES) | ABSTRACT_ONLY | set(EXCLUDED)

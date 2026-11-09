@@ -1,6 +1,6 @@
 .PHONY: paper screen test clean
 
-# Draft 4 feedback manuscript (latex/)
+# Draft 4.1 feedback manuscript (latex/)
 paper:
 	cd latex && latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
 

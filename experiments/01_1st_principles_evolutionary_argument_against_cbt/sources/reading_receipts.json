@@ -232,12 +232,16 @@
     "identity_checked": "Crossref title, authors and publication year checked against intended citation",
     "reading_date": "2026-11-08",
     "manuscript_cited": true,
-    "status": "ABSTRACT_READ",
-    "passages": "Abstract",
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Author-manuscript inhibitory-learning model, response-system divergence, expectancy-violation and consolidation passages",
     "files": [
       {
         "path": "_build/sources/craske2014maximizing.abstract.txt",
         "sha256": "0c3a648e494f2cb995f1bd993f9206fac3865332b79fc9979bb00dc60810f825"
+      },
+      {
+        "path": "_build/sources/craske2014maximizing.fulltext.txt",
+        "sha256": "550597d0fdaf79f80930a1783a6b886c586006d6706ce4e6feb6cd5056532f84"
       }
     ]
   },

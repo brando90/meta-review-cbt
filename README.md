@@ -2,9 +2,9 @@
 
 **Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/README.md>
 
-**TLDR:** Draft 4 (11-08-2026) is a critical theoretical review of ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and adult attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. The evolutionary-learning, evidence-selection and clinical-perspective revisions have had one independent model-review round followed by coordinator fixes. This is a feedback draft, not a completed systematic review or a journal submission.
+**TLDR:** Draft 4.1 (11-08-2026) incorporates clinical feedback into the critical review of ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and adult attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. It distinguishes intellectual understanding, emotional responding and everyday behaviour without claiming a universal therapeutic sequence, systematic completeness or submission readiness.
 
-**Paper:** [Draft 4 PDF](latex/main.pdf) · [revision and review record](review/LIGHT_QA_DRAFT4.md) · [claim–evidence map](review/claim_evidence_map.md) · [source-verification log](deep-research/VERIFICATION.md)
+**Paper:** [Draft 4.1 PDF](latex/main.pdf) · [clinical-feedback changes](experiments/03_clinical_goals_engagement_and_timing/clinical_feedback_revision.md) · [earlier Draft 4 review record](review/LIGHT_QA_DRAFT4.md) · [claim–evidence map](review/claim_evidence_map.md) · [source-verification log](deep-research/VERIFICATION.md)
 
 > *Why Does CBT Fail? A Critical Review of Ten Proposed Explanations, with Executive Function and Adult ADHD as a Test Case*
 
@@ -26,7 +26,7 @@ The [current blog post](https://github.com/brando90/brandomiranda/blob/55b7edf3c
 - [Evidence volume, allegiance and reviewer selection](experiments/02_cbt_are_the_reviewers_so_of_course_it_has_the_most_evidence_most_accepted/changes_cbt_reviewer_bias.md)
 - [Clinical goals, engagement and timing](experiments/03_clinical_goals_engagement_and_timing/changes_clinical_perspective.md), plus a [source-linked blog paragraph](experiments/03_clinical_goals_engagement_and_timing/blog_paragraph.md)
 
-The final source inventory contains 43 candidate identities: the initial 39 plus four existing citations rechecked during fixes. Abstracts were read for 42; ten also had relevant full-text passages read. One metadata-only candidate is excluded. These checks are **not** a fresh content verification of all 458 bibliography entries. Identifier resolution, retrieval, reading and consistency tests are different activities.
+The current source inventory contains 45 candidate identities: the initial 39, four existing citations rechecked during Draft 4 fixes, and two existing references checked for the clinical-feedback follow-up. Abstracts were read for 44; eleven also had relevant full-text passages read, including the newly inspected Craske author-manuscript passages. One metadata-only candidate is excluded. These checks are **not** a fresh content verification of all 458 bibliography entries. Identifier resolution, retrieval, reading and consistency tests are different activities.
 
 ## Repository map
 
@@ -68,4 +68,4 @@ The companion preserves protocol 0.2, ten Europe PMC search receipts, a 21-recor
 - [Imported-source record](evidence-screen/sources/README.md), [prior 29-page review](evidence-screen/sources/deep-research-draft-2.pdf), [companion changelog](evidence-screen/CHANGELOG.md)
 - The broader historical search-count log lives separately in [`deep-research/search/`](deep-research/search/).
 
-**TLDR-end:** [meta-review-cbt: Draft 4] Read the canonical PDF alongside its source and review records. The revision preserves counterevidence and clinical limits; it is for feedback, not a claim of systematic completeness or journal readiness.
+**TLDR-end:** [meta-review-cbt: clinical-feedback revision] Draft 4.1 incorporates the clinical refinements with explicit source and interpretation limits. Read the current PDF alongside its change record; the earlier Draft 4 review remains a separate historical record.
