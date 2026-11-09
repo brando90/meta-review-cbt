@@ -1,6 +1,6 @@
 .PHONY: paper screen test clean
 
-# Draft 3 manuscript (latex/)
+# Draft 4 feedback manuscript (latex/)
 paper:
 	cd latex && latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
 
@@ -10,6 +10,8 @@ screen:
 
 test:
 	$(MAKE) -C evidence-screen test
+	python3 experiments/01_1st_principles_evolutionary_argument_against_cbt/scripts/test_verification_receipts.py
+	python3 experiments/01_1st_principles_evolutionary_argument_against_cbt/scripts/check_revision.py
 
 clean:
 	cd latex && latexmk -C main.tex

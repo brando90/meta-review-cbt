@@ -1,0 +1,125 @@
+[
+  {
+    "key": "munder2013allegiance",
+    "doi": "10.1016/j.cpr.2013.02.002",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/munder2013allegiance.abstract.txt",
+        "sha256": "e72bf6a59393b3d8914fbb1a8ee1def14f0973063a0d7fa841625549fd1a3133"
+      }
+    ]
+  },
+  {
+    "key": "driessen2015publicationbias",
+    "doi": "10.1371/journal.pone.0137864",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Methods, Table 2, results, reasons for non-publication, discussion",
+    "files": [
+      {
+        "path": "_build/sources/driessen2015publicationbias.abstract.txt",
+        "sha256": "130282b6b667f483954b241e826848973126e6a711be016da2b179e23a0cc904"
+      },
+      {
+        "path": "_build/sources/driessen2015publicationbias.fulltext.txt",
+        "sha256": "a413abe24a1c00a99bcb00444878e92718841696e14a7d76abf4292644934270"
+      }
+    ]
+  },
+  {
+    "key": "tolin2010cbt",
+    "doi": "10.1016/j.cpr.2010.05.003",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/tolin2010cbt.abstract.txt",
+        "sha256": "4201ff8d6ccba927d27d6e0fd4097a59b9c724848afe7c5164fb3cd6f9bd72a7"
+      }
+    ]
+  },
+  {
+    "key": "leichsenring2018plurality",
+    "doi": "10.3389/fpsyt.2018.00159",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Abstract and relevant main-text argument",
+    "files": [
+      {
+        "path": "_build/sources/leichsenring2018plurality.abstract.txt",
+        "sha256": "3fef1454ca6c6a9fc07d99b145321374fbb39b630bbc84aa5a64da13c77fee66"
+      },
+      {
+        "path": "_build/sources/leichsenring2018plurality.fulltext.txt",
+        "sha256": "3d09ceb2452249c9b174be13884692c6aa6e0acfb68d486c1e80978864d2c263"
+      }
+    ]
+  },
+  {
+    "key": "mahoney1977prejudices",
+    "doi": "10.1007/bf01173636",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "METADATA_ONLY_EXCLUDED",
+    "passages": "Metadata only; no abstract; publisher routes returned challenge pages",
+    "files": []
+  },
+  {
+    "key": "cuijpers2010publicationbias",
+    "doi": "10.1192/bjp.bp.109.066001",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/cuijpers2010publicationbias.abstract.txt",
+        "sha256": "292f2e04d8ec7b6287f40ab7f9d7414eb714626f934666b8a02f127bb520f996"
+      }
+    ]
+  },
+  {
+    "key": "zimmerman2024allegiance",
+    "doi": "10.1002/cpp.2974",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/zimmerman2024allegiance.abstract.txt",
+        "sha256": "f5078a9c90653180141c8b59a4d7cebb9b2251d72f8a25e2b13529ee7c801681"
+      }
+    ]
+  },
+  {
+    "key": "emerson2010peerreview",
+    "doi": "10.1001/archinternmed.2010.406",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/emerson2010peerreview.abstract.txt",
+        "sha256": "148229f5f3f2e37f7996517050c08c2f1463323d2ecdcb4d38f1aad3a8975746"
+      }
+    ]
+  }
+]

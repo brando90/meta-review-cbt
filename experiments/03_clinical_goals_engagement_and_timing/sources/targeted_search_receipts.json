@@ -1,0 +1,32 @@
+[
+  {
+    "query": "TITLE_ABS:(psychotherapy AND \"patient types\" AND (four OR resistance))",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28psychotherapy+AND+%22patient+types%22+AND+%28four+OR+resistance%29%29&format=json&resultType=core&pageSize=20",
+    "retrieved_at_utc": "2026-11-09T00:34:29.826272+00:00",
+    "hit_count": 0,
+    "response_sha256": "ff995e5d51348ad4c6b1ff6a02c05661d2747ae5980f7a148a139f14d8cdc72c",
+    "screened_records": []
+  },
+  {
+    "query": "TITLE_ABS:(psychotherapy AND (reactance OR \"readiness to change\") AND typology)",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28psychotherapy+AND+%28reactance+OR+%22readiness+to+change%22%29+AND+typology%29&format=json&resultType=core&pageSize=20",
+    "retrieved_at_utc": "2026-11-09T00:34:32.463786+00:00",
+    "hit_count": 0,
+    "response_sha256": "7fa5c1498b6d9dea605407791366cc619e556697d29f14ddde494d81b6fbd93a",
+    "screened_records": []
+  },
+  {
+    "query": "TITLE_ABS:(\"cognitive restructuring\" AND (timing OR \"therapeutic alliance\") AND resistance)",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28%22cognitive+restructuring%22+AND+%28timing+OR+%22therapeutic+alliance%22%29+AND+resistance%29&format=json&resultType=core&pageSize=20",
+    "retrieved_at_utc": "2026-11-09T00:34:35.141017+00:00",
+    "hit_count": 1,
+    "response_sha256": "ba52637cca4a3b67e07d4d4a30c3278e0c190da098d045d79ba0ca8a9a0f96c4",
+    "screened_records": [
+      {
+        "title": "[Psychological-behavioral-social adaptation mechanisms among HIV-positive men who have sex with men from the perspective of the social ecological model].",
+        "doi": "10.3760/cma.j.cn112150-20251120-01101",
+        "year": "2026"
+      }
+    ]
+  }
+]

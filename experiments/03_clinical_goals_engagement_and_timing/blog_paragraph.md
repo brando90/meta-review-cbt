@@ -1,0 +1,15 @@
+# Blog-ready paragraph: change need not mean eliminating a feeling
+
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/experiments/03_clinical_goals_engagement_and_timing/blog_paragraph.md>
+
+**TLDR:** The matching blog paragraph distinguishes changing a feeling from changing one's response to it, without turning clinical observations into patient categories or an argument that cognition is useless. This is a source-linked insertion draft, not a website publication.
+
+Date: 11-08-2026. Companion: [`changes_clinical_perspective.md`](changes_clinical_perspective.md). The separate blog work has its own owner. Its committed post already includes “The goal, the patient, and the timing”; this source-linked alternative is retained without duplicating or overwriting that section. The checked blog revision is [`55b7edf`](https://github.com/brando90/brandomiranda/blob/55b7edf3c920e658998e41fd6b8408acd054a6c9/_posts/2026-11-08-why-cbt-doesnt-make-sense-to-me.md).
+
+## What a practicing clinician adds: the goal, the patient, the timing
+
+A practicing clinician's perspective sharpened the question for me: does change require getting rid of a feeling, or learning to act differently while it is there? [Acceptance and commitment therapy](https://doi.org/10.1016/j.brat.2005.06.006) explicitly makes room for the second goal, although [mediation research](https://doi.org/10.1017/S1352465818000553) does not yet establish a unique causal mechanism. I find it more useful to ask whether someone needs clearer instructions, feels blocked by fear, or experiences the intervention as controlling than to divide people into four fixed types; I haven't verified that classification or its claimed prevalence. There is research behind some related questions: [alliance predicts outcomes](https://doi.org/10.1037/pst0000172), and [high-reactance patients do better with less directive treatment](https://doi.org/10.1002/jclp.22682), but neither finding proves that an early reframe causes resistance. That timing concern remains a clinical hypothesis, not a universal rule: in [one public-speaking-anxiety trial](https://doi.org/10.1037/ccp0000953), restructuring before exposure helped more than exposure without explicit expectancy processing, while behavioural experiments had a small, non-significant anxiety advantage over restructuring first, greater expectancy change and a shorter session. My takeaway is narrower than “cognition doesn't work”: a technique's usefulness may depend on the goal, the person, and how it is delivered.
+
+## Evidence boundary
+
+This paragraph carries no personal health history, clinician identity, raw quotation or diagnostic inference. The alliance finding is correlational, the reactance finding concerns matching directiveness rather than timing, and the public-speaking trial used a single session and one-week follow-up. Source reading levels and limitations are in [`deep-research/sources/clinical-engagement.md`](../../deep-research/sources/clinical-engagement.md) and [`deep-research/sources/evolutionary-learning.md`](../../deep-research/sources/evolutionary-learning.md).

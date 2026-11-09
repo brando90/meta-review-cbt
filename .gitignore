@@ -240,6 +240,10 @@ latex/*.out
 latex/*.fls
 latex/*.fdb_latexmk
 latex/*.synctex.gz
+latex/*.spl
 latex/*.xdv
 latex/*.pdf
 !latex/main.pdf
+
+# Preserve the original local prompt without publishing personal filesystem paths.
+experiments/02_cbt_are_the_reviewers_so_of_course_it_has_the_most_evidence_most_accepted/context_cbt_reviewer_bias.md

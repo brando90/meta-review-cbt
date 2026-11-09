@@ -1,0 +1,200 @@
+[
+  {
+    "key": "fluckiger2018alliance",
+    "doi": "10.1037/pst0000172",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Abstract and full-text definition/causality passages",
+    "files": [
+      {
+        "path": "_build/sources/fluckiger2018alliance.abstract.txt",
+        "sha256": "e0f36edcbfeff528e344a24119dc5e78ca6eb3cb741a28fd6bd1d63b5f86d676"
+      },
+      {
+        "path": "_build/sources/fluckiger2018alliance.fulltext.txt",
+        "sha256": "6d341ef7e93e113120729eba373c5e376fe095c418d7019d3497e6aca96fc1c0"
+      }
+    ],
+    "additional_reading_source": {
+      "url": "https://societyforpsychotherapy.org/wp-content/uploads/2018/10/Fluckiger-et-al-2018-Alliance-MA-Online.pdf",
+      "retrieved_at_utc": "2026-11-09T00:34:38.026804+00:00",
+      "sha256": "3a956ca3534091b8ace4708aa017763980058d8bef6ca79348cab6d3e3bf8085"
+    }
+  },
+  {
+    "key": "eubanks2018rupture",
+    "doi": "10.1037/pst0000185",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/eubanks2018rupture.abstract.txt",
+        "sha256": "4ccfc053e9b92a46c459d67b71fad58800abac58b88abe87b1886164eb62f80b"
+      }
+    ]
+  },
+  {
+    "key": "beutler2018reactance",
+    "doi": "10.1002/jclp.22682",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/beutler2018reactance.abstract.txt",
+        "sha256": "6bff70e02e8542947b4d2e5529374cc532bafc0257ce25d6e1a4d94c6b64a9cc"
+      }
+    ]
+  },
+  {
+    "key": "krebs2018readiness",
+    "doi": "10.1002/jclp.22683",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/krebs2018readiness.abstract.txt",
+        "sha256": "732de2ea639d308ec230b36349a1bedee861046f7990969e609aecbc2c31c520"
+      }
+    ]
+  },
+  {
+    "key": "hayes2006act",
+    "doi": "10.1016/j.brat.2005.06.006",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Author-manuscript definitions of acceptance, defusion, values and committed action",
+    "files": [
+      {
+        "path": "_build/sources/hayes2006act.abstract.txt",
+        "sha256": "40fddaec060bb8f8dd2a40d67a6a26013db92398834afe838a5d75bc5f2b881d"
+      },
+      {
+        "path": "_build/sources/hayes2006act.fulltext.txt",
+        "sha256": "ec8bb2d18f1a4f136fe1ca5666257d84d3daad56ed462c4b8cae15aeebbb818a"
+      }
+    ],
+    "additional_reading_source": {
+      "url": "https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf",
+      "retrieved_at_utc": "2026-11-09T00:34:37.289117+00:00",
+      "sha256": "092b59edad40275408b9fd696809a55e01cd4f78469114495bd7b3867c9c639d"
+    }
+  },
+  {
+    "key": "stockton2019mediation",
+    "doi": "10.1017/s1352465818000553",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/stockton2019mediation.abstract.txt",
+        "sha256": "3799f1edf7b4a8be816f5aff8d237b366df56587dbaa2ea6d52ca215cce86a06"
+      }
+    ]
+  },
+  {
+    "key": "fluckiger2020reciprocal",
+    "doi": "10.1037/ccp0000594",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/fluckiger2020reciprocal.abstract.txt",
+        "sha256": "1b6923550621a9eb0a9a2b7d025f834792c0e1c58a623e9ec13c2172f4f71eb4"
+      }
+    ]
+  },
+  {
+    "key": "Delgadillo2018Feedback",
+    "doi": "10.1016/s2215-0366(18)30162-7",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/Delgadillo2018Feedback.abstract.txt",
+        "sha256": "51404b2d25146a48909959bcee3a6cd59dcb765e53cb2f7e022fbf728312b8f2"
+      }
+    ]
+  },
+  {
+    "key": "baldwin2007alliance",
+    "doi": "10.1037/0022-006x.75.6.842",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/baldwin2007alliance.abstract.txt",
+        "sha256": "4c5316eb843ff36591e2aaf6fed61da1fe62930674342966cf66ba33182228b6"
+      }
+    ]
+  },
+  {
+    "key": "carlbring2018icbt",
+    "doi": "10.1080/16506073.2017.1401115",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/carlbring2018icbt.abstract.txt",
+        "sha256": "feec8aa06742ad1bb971685b4e278f15affd3d288abeb9c516ba4519fb3d633a"
+      }
+    ]
+  },
+  {
+    "key": "burlingame2016group",
+    "doi": "10.1037/pst0000090",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/burlingame2016group.abstract.txt",
+        "sha256": "a7fc093071a74c4a8d9c8cd00e9689c4e92d08f34965f27a2ea11df90801eeca"
+      }
+    ]
+  },
+  {
+    "key": "pittig2021intensified",
+    "doi": "10.1002/da.23204",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/pittig2021intensified.abstract.txt",
+        "sha256": "94322379d752827daa825c7e9ff88d97098cbb7839af9b2427dc368b1714e87b"
+      }
+    ]
+  }
+]

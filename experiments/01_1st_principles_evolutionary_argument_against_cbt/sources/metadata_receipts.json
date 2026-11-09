@@ -1,0 +1,1357 @@
+[
+  {
+    "key": "brembs2002operant",
+    "doi": "10.1126/science.1069434",
+    "crossref_url": "https://api.crossref.org/works/10.1126%2Fscience.1069434",
+    "crossref_sha256": "aabb1719971db329288bd47fdea9ac535778460e32084a4840d93b20d44f4c5b",
+    "title": [
+      "Operant Reward Learning in\n                    <i>Aplysia</i>\n                    : Neuronal Correlates and Mechanisms"
+    ],
+    "authors": [
+      {
+        "given": "Björn",
+        "family": "Brembs"
+      },
+      {
+        "given": "Fred D.",
+        "family": "Lorenzetti"
+      },
+      {
+        "given": "Fredy D.",
+        "family": "Reyes"
+      },
+      {
+        "given": "Douglas A.",
+        "family": "Baxter"
+      },
+      {
+        "given": "John H.",
+        "family": "Byrne"
+      }
+    ],
+    "journal": [
+      "Science"
+    ],
+    "published": [
+      [
+        2002,
+        5,
+        31
+      ]
+    ],
+    "published_print": [
+      [
+        2002,
+        5,
+        31
+      ]
+    ],
+    "published_online": null,
+    "volume": "296",
+    "issue": "5573",
+    "pages": "1706-1709",
+    "retrieved_at_utc": "2026-11-09T00:16:32.862755+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1126%2Fscience.1069434%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "36f28dbb07206d6868b9f398f8b788b09b59f7f2b4318655ea60436ef4698235",
+    "europepmc_matches": 1,
+    "pmid": "12040200",
+    "pmcid": null,
+    "europepmc_title": "Operant reward learning in Aplysia: neuronal correlates and mechanisms."
+  },
+  {
+    "key": "grillner2016basal",
+    "doi": "10.1016/j.cub.2016.06.041",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.cub.2016.06.041",
+    "crossref_sha256": "c70afe2b2bf462a1eeb2e1c88a5a5520902400113a1b6ac94c3632010f1fac37",
+    "title": [
+      "The Basal Ganglia Over 500 Million Years"
+    ],
+    "authors": [
+      {
+        "given": "Sten",
+        "family": "Grillner"
+      },
+      {
+        "given": "Brita",
+        "family": "Robertson"
+      }
+    ],
+    "journal": [
+      "Current Biology"
+    ],
+    "published": [
+      [
+        2016,
+        10
+      ]
+    ],
+    "published_print": [
+      [
+        2016,
+        10
+      ]
+    ],
+    "published_online": null,
+    "volume": "26",
+    "issue": "20",
+    "pages": "R1088-R1100",
+    "retrieved_at_utc": "2026-11-09T00:16:33.868228+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cub.2016.06.041%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "e6cb1ed3677d979193a5f041bcba53993904f86a5ba38874a5a9a51d55fc4739",
+    "europepmc_matches": 1,
+    "pmid": "27780050",
+    "pmcid": null,
+    "europepmc_title": "The Basal Ganglia Over 500 Million Years."
+  },
+  {
+    "key": "preuss2022evolution",
+    "doi": "10.1038/s41386-021-01076-5",
+    "crossref_url": "https://api.crossref.org/works/10.1038%2Fs41386-021-01076-5",
+    "crossref_sha256": "9dae125ecae3ef22d73ebc4347b3ddf7df702e673525b882e010a6e76c698075",
+    "title": [
+      "Evolution of prefrontal cortex"
+    ],
+    "authors": [
+      {
+        "given": "Todd M.",
+        "family": "Preuss"
+      },
+      {
+        "given": "Steven P.",
+        "family": "Wise"
+      }
+    ],
+    "journal": [
+      "Neuropsychopharmacology"
+    ],
+    "published": [
+      [
+        2021,
+        8,
+        6
+      ]
+    ],
+    "published_print": [
+      [
+        2022,
+        1
+      ]
+    ],
+    "published_online": [
+      [
+        2021,
+        8,
+        6
+      ]
+    ],
+    "volume": "47",
+    "issue": "1",
+    "pages": "3-19",
+    "retrieved_at_utc": "2026-11-09T00:16:34.872360+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41386-021-01076-5%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "5e82421878167d00a5a0490204679685d4806794d8057fbbe522273b1b6abe5d",
+    "europepmc_matches": 1,
+    "pmid": "34363014",
+    "pmcid": "PMC8617185",
+    "europepmc_title": "Evolution of prefrontal cortex.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_html_error": "No article body in public HTML response"
+  },
+  {
+    "key": "yin2006habits",
+    "doi": "10.1038/nrn1919",
+    "crossref_url": "https://api.crossref.org/works/10.1038%2Fnrn1919",
+    "crossref_sha256": "e1ea7a3311c0c412a41e2b80bc48a28243c7972a79725e5023b1c911d53cf589",
+    "title": [
+      "The role of the basal ganglia in habit formation"
+    ],
+    "authors": [
+      {
+        "given": "Henry H.",
+        "family": "Yin"
+      },
+      {
+        "given": "Barbara J.",
+        "family": "Knowlton"
+      }
+    ],
+    "journal": [
+      "Nature Reviews Neuroscience"
+    ],
+    "published": [
+      [
+        2006,
+        6
+      ]
+    ],
+    "published_print": [
+      [
+        2006,
+        6
+      ]
+    ],
+    "published_online": null,
+    "volume": "7",
+    "issue": "6",
+    "pages": "464-476",
+    "retrieved_at_utc": "2026-11-09T00:16:47.113268+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fnrn1919%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "bbb817f353a5b0b6e60e1abeba118cfefda57d617a880dc8d2c75c40f88e0e92",
+    "europepmc_matches": 1,
+    "pmid": "16715055",
+    "pmcid": null,
+    "europepmc_title": "The role of the basal ganglia in habit formation."
+  },
+  {
+    "key": "yin2004lesions",
+    "doi": "10.1111/j.1460-9568.2004.03095.x",
+    "crossref_url": "https://api.crossref.org/works/10.1111%2Fj.1460-9568.2004.03095.x",
+    "crossref_sha256": "5ee64c574101f98760d84ff22e59ad6f6c12f92a8e05f0de0c4f5a2b1e02e5dd",
+    "title": [
+      "Lesions of dorsolateral striatum preserve outcome expectancy but disrupt habit formation in instrumental learning"
+    ],
+    "authors": [
+      {
+        "given": "Henry H.",
+        "family": "Yin"
+      },
+      {
+        "given": "Barbara J.",
+        "family": "Knowlton"
+      },
+      {
+        "given": "Bernard W.",
+        "family": "Balleine"
+      }
+    ],
+    "journal": [
+      "European Journal of Neuroscience"
+    ],
+    "published": [
+      [
+        2004,
+        1
+      ]
+    ],
+    "published_print": [
+      [
+        2004,
+        1
+      ]
+    ],
+    "published_online": [
+      [
+        2004,
+        1,
+        6
+      ]
+    ],
+    "volume": "19",
+    "issue": "1",
+    "pages": "181-189",
+    "retrieved_at_utc": "2026-11-09T00:16:48.128239+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1111%2Fj.1460-9568.2004.03095.x%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "ba86cfb521774d9edd2304abcdfbbad6f9dab721cbb5bf25fe65a1d50a4867f9",
+    "europepmc_matches": 1,
+    "pmid": "14750976",
+    "pmcid": null,
+    "europepmc_title": "Lesions of dorsolateral striatum preserve outcome expectancy but disrupt habit formation in instrumental learning."
+  },
+  {
+    "key": "wood2016habit",
+    "doi": "10.1146/annurev-psych-122414-033417",
+    "crossref_url": "https://api.crossref.org/works/10.1146%2Fannurev-psych-122414-033417",
+    "crossref_sha256": "43f3ec6451b91073d394d30ed3ec13b04bb4882ea0e15d51ab8ee4c0effb6fdc",
+    "title": [
+      "Psychology of Habit"
+    ],
+    "authors": [
+      {
+        "given": "Wendy",
+        "family": "Wood"
+      },
+      {
+        "given": "Dennis",
+        "family": "Rünger"
+      }
+    ],
+    "journal": [
+      "Annual Review of Psychology"
+    ],
+    "published": [
+      [
+        2016,
+        1,
+        4
+      ]
+    ],
+    "published_print": [
+      [
+        2016,
+        1,
+        4
+      ]
+    ],
+    "published_online": null,
+    "volume": "67",
+    "issue": "1",
+    "pages": "289-314",
+    "retrieved_at_utc": "2026-11-09T00:16:49.146129+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1146%2Fannurev-psych-122414-033417%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "d13f653c707f51fc5a7732e13489f7163a1b7a7e8fc6fdea572dc10a21bc870d",
+    "europepmc_matches": 1,
+    "pmid": "26361052",
+    "pmcid": null,
+    "europepmc_title": "Psychology of Habit."
+  },
+  {
+    "key": "dewit2018failures",
+    "doi": "10.1037/xge0000402",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fxge0000402",
+    "crossref_sha256": "926d5d59bfb4b64164c37f1e88fc2b9bbe499693c6464af451cd925233f23092",
+    "title": [
+      "Shifting the balance between goals and habits: Five failures in experimental habit induction."
+    ],
+    "authors": [
+      {
+        "given": "Sanne",
+        "family": "de Wit"
+      },
+      {
+        "given": "Merel",
+        "family": "Kindt"
+      },
+      {
+        "given": "Sarah L.",
+        "family": "Knot"
+      },
+      {
+        "given": "Aukje A. C.",
+        "family": "Verhoeven"
+      },
+      {
+        "given": "Trevor W.",
+        "family": "Robbins"
+      },
+      {
+        "given": "Julia",
+        "family": "Gasull-Camos"
+      },
+      {
+        "given": "Michael",
+        "family": "Evans"
+      },
+      {
+        "given": "Hira",
+        "family": "Mirza"
+      },
+      {
+        "given": "Claire M.",
+        "family": "Gillan"
+      }
+    ],
+    "journal": [
+      "Journal of Experimental Psychology: General"
+    ],
+    "published": [
+      [
+        2018,
+        7
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2018,
+        7
+      ]
+    ],
+    "volume": "147",
+    "issue": "7",
+    "pages": "1043-1065",
+    "retrieved_at_utc": "2026-11-09T00:16:50.152567+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fxge0000402%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "52013ed575248bec5d505101cf035d832d04d5338ed344a1902a256424750304",
+    "europepmc_matches": 1,
+    "pmid": "29975092",
+    "pmcid": "PMC6033090",
+    "europepmc_title": "Shifting the balance between goals and habits: Five failures in experimental habit induction.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_html_error": "No article body in public HTML response"
+  },
+  {
+    "key": "dolan2013goals",
+    "doi": "10.1016/j.neuron.2013.09.007",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.neuron.2013.09.007",
+    "crossref_sha256": "2da8e58f9ba5f7392a952b6db3e4500878c343d212acc84f306251546527a7d9",
+    "title": [
+      "Goals and Habits in the Brain"
+    ],
+    "authors": [
+      {
+        "given": "Ray J.",
+        "family": "Dolan"
+      },
+      {
+        "given": "Peter",
+        "family": "Dayan"
+      }
+    ],
+    "journal": [
+      "Neuron"
+    ],
+    "published": [
+      [
+        2013,
+        10
+      ]
+    ],
+    "published_print": [
+      [
+        2013,
+        10
+      ]
+    ],
+    "published_online": null,
+    "volume": "80",
+    "issue": "2",
+    "pages": "312-325",
+    "retrieved_at_utc": "2026-11-09T00:17:03.118075+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.neuron.2013.09.007%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "87524f22cd9a3b5c5e7f05f05b851a634ed032dc61e7e9a8f7d7f0cbd1b159f8",
+    "europepmc_matches": 1,
+    "pmid": "24139036",
+    "pmcid": "PMC3807793",
+    "europepmc_title": "Goals and habits in the brain.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3807793/",
+    "fulltext_sha256": "8bdeced4d7afd8852fb8909cdeb40e2ea707859a68e7486b0944cb8c45764226",
+    "fulltext_format": "public PMC HTML"
+  },
+  {
+    "key": "schultz1997reward",
+    "doi": "10.1126/science.275.5306.1593",
+    "crossref_url": "https://api.crossref.org/works/10.1126%2Fscience.275.5306.1593",
+    "crossref_sha256": "fa51b5cebe4acdbdedda3afeac213e4dbf317dad34d380e879542aeae1b364bb",
+    "title": [
+      "A Neural Substrate of Prediction and Reward"
+    ],
+    "authors": [
+      {
+        "given": "Wolfram",
+        "family": "Schultz"
+      },
+      {
+        "given": "Peter",
+        "family": "Dayan"
+      },
+      {
+        "given": "P. Read",
+        "family": "Montague"
+      }
+    ],
+    "journal": [
+      "Science"
+    ],
+    "published": [
+      [
+        1997,
+        3,
+        14
+      ]
+    ],
+    "published_print": [
+      [
+        1997,
+        3,
+        14
+      ]
+    ],
+    "published_online": null,
+    "volume": "275",
+    "issue": "5306",
+    "pages": "1593-1599",
+    "retrieved_at_utc": "2026-11-09T00:17:22.886279+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1126%2Fscience.275.5306.1593%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "2bc60f3337ca8c4f51b2b56384f22d90625470e1291e4e80e87dcf379e36674b",
+    "europepmc_matches": 1,
+    "pmid": "9054347",
+    "pmcid": null,
+    "europepmc_title": "A neural substrate of prediction and reward."
+  },
+  {
+    "key": "berridge2016liking",
+    "doi": "10.1037/amp0000059",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Famp0000059",
+    "crossref_sha256": "935984469fd1fe4c3e5fded06c1541f4e999fa53b48f99b9393bb8f099f24473",
+    "title": [
+      "Liking, wanting, and the incentive-sensitization theory of addiction."
+    ],
+    "authors": [
+      {
+        "given": "Kent C.",
+        "family": "Berridge"
+      },
+      {
+        "given": "Terry E.",
+        "family": "Robinson"
+      }
+    ],
+    "journal": [
+      "American Psychologist"
+    ],
+    "published": [
+      [
+        2016,
+        11
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2016,
+        11
+      ]
+    ],
+    "volume": "71",
+    "issue": "8",
+    "pages": "670-679",
+    "retrieved_at_utc": "2026-11-09T00:17:23.892226+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Famp0000059%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "c6a710be1e719c12539e8c23748b6f9a012e2b61c95c2758f9342ae93b15c8d2",
+    "europepmc_matches": 1,
+    "pmid": "27977239",
+    "pmcid": "PMC5171207",
+    "europepmc_title": "Liking, wanting, and the incentive-sensitization theory of addiction.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5171207/",
+    "fulltext_sha256": "68daf984b3f6db7c697232253a1bb00c07090e1f8837d4460df737d86f96c5f6",
+    "fulltext_format": "public PMC HTML"
+  },
+  {
+    "key": "li2011instructed",
+    "doi": "10.1073/pnas.1014938108",
+    "crossref_url": "https://api.crossref.org/works/10.1073%2Fpnas.1014938108",
+    "crossref_sha256": "35c1a82d16cf7161134e7de5db148457984f8764c88bc76e9065745121034a74",
+    "title": [
+      "How instructed knowledge modulates the neural systems of reward learning"
+    ],
+    "authors": [
+      {
+        "given": "Jian",
+        "family": "Li"
+      },
+      {
+        "given": "Mauricio R.",
+        "family": "Delgado"
+      },
+      {
+        "given": "Elizabeth A.",
+        "family": "Phelps"
+      }
+    ],
+    "journal": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "published": [
+      [
+        2010,
+        12,
+        20
+      ]
+    ],
+    "published_print": [
+      [
+        2011,
+        1,
+        4
+      ]
+    ],
+    "published_online": [
+      [
+        2010,
+        12,
+        20
+      ]
+    ],
+    "volume": "108",
+    "issue": "1",
+    "pages": "55-60",
+    "retrieved_at_utc": "2026-11-09T00:18:20.397182+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1073%2Fpnas.1014938108%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "79ea00f0beab13f426ef6a64d09e5b1d2d0366107c660e6dbd81bfcf7991cb6f",
+    "europepmc_matches": 1,
+    "pmid": "21173266",
+    "pmcid": "PMC3017128",
+    "europepmc_title": "How instructed knowledge modulates the neural systems of reward learning.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_html_error": "No article body in public HTML response"
+  },
+  {
+    "key": "doll2009instruction",
+    "doi": "10.1016/j.brainres.2009.07.007",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.brainres.2009.07.007",
+    "crossref_sha256": "fd09f4cb9d88f98f6993fddc2c4ae983a97dd529b6bc0beaf4febdba863ff858",
+    "title": [
+      "Instructional control of reinforcement learning: A behavioral and neurocomputational investigation"
+    ],
+    "authors": [
+      {
+        "given": "Bradley B.",
+        "family": "Doll"
+      },
+      {
+        "given": "W. Jake",
+        "family": "Jacobs"
+      },
+      {
+        "given": "Alan G.",
+        "family": "Sanfey"
+      },
+      {
+        "given": "Michael J.",
+        "family": "Frank"
+      }
+    ],
+    "journal": [
+      "Brain Research"
+    ],
+    "published": [
+      [
+        2009,
+        11
+      ]
+    ],
+    "published_print": [
+      [
+        2009,
+        11
+      ]
+    ],
+    "published_online": null,
+    "volume": "1299",
+    "issue": null,
+    "pages": "74-94",
+    "retrieved_at_utc": "2026-11-09T00:18:32.634491+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.brainres.2009.07.007%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "ddd13e7628bc9b28db855649730fc1240bf50c6f32d9538ba9cd5f19598450d0",
+    "europepmc_matches": 1,
+    "pmid": "19595993",
+    "pmcid": "PMC3050481",
+    "europepmc_title": "Instructional control of reinforcement learning: a behavioral and neurocomputational investigation.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_html_error": "No article body in public HTML response"
+  },
+  {
+    "key": "ludwig2020selfregulation",
+    "doi": "10.1177/1745691620931460",
+    "crossref_url": "https://api.crossref.org/works/10.1177%2F1745691620931460",
+    "crossref_sha256": "b627f0d069f65746dc790b923a353adef579de8fef7fc2ada339d2591fb8b690",
+    "title": [
+      "Self-Regulation Without Force: Can Awareness Leverage Reward to Drive Behavior Change?"
+    ],
+    "authors": [
+      {
+        "given": "Vera U.",
+        "family": "Ludwig"
+      },
+      {
+        "given": "Kirk Warren",
+        "family": "Brown"
+      },
+      {
+        "given": "Judson A.",
+        "family": "Brewer"
+      }
+    ],
+    "journal": [
+      "Perspectives on Psychological Science"
+    ],
+    "published": [
+      [
+        2020,
+        8,
+        28
+      ]
+    ],
+    "published_print": [
+      [
+        2020,
+        11
+      ]
+    ],
+    "published_online": [
+      [
+        2020,
+        8,
+        28
+      ]
+    ],
+    "volume": "15",
+    "issue": "6",
+    "pages": "1382-1399",
+    "retrieved_at_utc": "2026-11-09T00:18:44.848069+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1177%2F1745691620931460%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "4dccd7075feaef8fccc1f75dd5af425448b8715902739d6a5762ed4cee522141",
+    "europepmc_matches": 1,
+    "pmid": "32857672",
+    "pmcid": null,
+    "europepmc_title": "Self-Regulation Without Force: Can Awareness Leverage Reward to Drive Behavior Change?"
+  },
+  {
+    "key": "taylor2021awareness",
+    "doi": "10.1556/2006.2021.00020",
+    "crossref_url": "https://api.crossref.org/works/10.1556%2F2006.2021.00020",
+    "crossref_sha256": "94b3543c0a712dda096d2e359fb86e6d66992364c9ce3570f02ed7a85fb1669b",
+    "title": [
+      "Awareness drives changes in reward value which predict eating behavior change: Probing reinforcement learning using experience sampling from mobile mindfulness training for maladaptive eating"
+    ],
+    "authors": [
+      {
+        "given": "Véronique A.",
+        "family": "Taylor"
+      },
+      {
+        "given": "Isabelle",
+        "family": "Moseley"
+      },
+      {
+        "given": "Shufang",
+        "family": "Sun"
+      },
+      {
+        "given": "Ryan",
+        "family": "Smith"
+      },
+      {
+        "given": "Alexandra",
+        "family": "Roy"
+      },
+      {
+        "given": "Vera U.",
+        "family": "Ludwig"
+      },
+      {
+        "given": "Judson A.",
+        "family": "Brewer"
+      }
+    ],
+    "journal": [
+      "Journal of Behavioral Addictions"
+    ],
+    "published": [
+      [
+        2021,
+        10,
+        5
+      ]
+    ],
+    "published_print": [
+      [
+        2021,
+        10,
+        5
+      ]
+    ],
+    "published_online": null,
+    "volume": "10",
+    "issue": "3",
+    "pages": "482-497",
+    "retrieved_at_utc": "2026-11-09T00:18:45.853883+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1556%2F2006.2021.00020%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "fad77c681867f97d67b1ffeb0d234967dc208bc1b207462af817cc3ab987c7da",
+    "europepmc_matches": 1,
+    "pmid": "34264854",
+    "pmcid": "PMC8997232",
+    "europepmc_title": "Awareness drives changes in reward value which predict eating behavior change: Probing reinforcement learning using experience sampling from mobile mindfulness training for maladaptive eating.",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8997232/fullTextXML",
+    "fulltext_sha256": "c7204b180d276fa0261950e8aa5d16040f860f018dedc4b23ba772076b39767c"
+  },
+  {
+    "key": "craske2014maximizing",
+    "doi": "10.1016/j.brat.2014.04.006",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.brat.2014.04.006",
+    "crossref_sha256": "9fd7e25b0ad8b51632b1a3bfcc2ebc543bd88c927325284817e9689b570442cd",
+    "title": [
+      "Maximizing exposure therapy: An inhibitory learning approach"
+    ],
+    "authors": [
+      {
+        "given": "Michelle G.",
+        "family": "Craske"
+      },
+      {
+        "given": "Michael",
+        "family": "Treanor"
+      },
+      {
+        "given": "Christopher C.",
+        "family": "Conway"
+      },
+      {
+        "given": "Tomislav",
+        "family": "Zbozinek"
+      },
+      {
+        "given": "Bram",
+        "family": "Vervliet"
+      }
+    ],
+    "journal": [
+      "Behaviour Research and Therapy"
+    ],
+    "published": [
+      [
+        2014,
+        7
+      ]
+    ],
+    "published_print": [
+      [
+        2014,
+        7
+      ]
+    ],
+    "published_online": null,
+    "volume": "58",
+    "issue": null,
+    "pages": "10-23",
+    "retrieved_at_utc": "2026-11-09T00:18:48.757283+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.brat.2014.04.006%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "45e28d283db471fd0fc8105735d488d9d178a6848d470762f573e6b5e8a199a2",
+    "europepmc_matches": 1,
+    "pmid": "24864005",
+    "pmcid": "PMC4114726",
+    "europepmc_title": "Maximizing exposure therapy: an inhibitory learning approach.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_html_error": "No article body in public HTML response"
+  },
+  {
+    "key": "johnco2025restructuring",
+    "doi": "10.1037/ccp0000953",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fccp0000953",
+    "crossref_sha256": "e50e9c1783b5ec15809ec6bd0e5101ca9ef8f476ec1f0f38807217009729c66f",
+    "title": [
+      "Cognitive restructuring before exposure therapy or behavioral experiments? How the timing of expectancy violation and magnitude of expectancy change influence exposure therapy outcomes."
+    ],
+    "authors": [
+      {
+        "given": "Carly J.",
+        "family": "Johnco"
+      },
+      {
+        "given": "Melissa",
+        "family": "Norberg"
+      },
+      {
+        "given": "Viviana M.",
+        "family": "Wuthrich"
+      },
+      {
+        "given": "Ronald M.",
+        "family": "Rapee"
+      }
+    ],
+    "journal": [
+      "Journal of Consulting and Clinical Psychology"
+    ],
+    "published": [
+      [
+        2025,
+        5
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2025,
+        5
+      ]
+    ],
+    "volume": "93",
+    "issue": "5",
+    "pages": "369-381",
+    "retrieved_at_utc": "2026-11-09T00:19:04.575941+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fccp0000953%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "d67d565f6818c4561c14a7f64601cc6d4641fca3818fab3dd05f5a9af152171a",
+    "europepmc_matches": 1,
+    "pmid": "40354272",
+    "pmcid": null,
+    "europepmc_title": "Cognitive restructuring before exposure therapy or behavioral experiments? How the timing of expectancy violation and magnitude of expectancy change influence exposure therapy outcomes."
+  },
+  {
+    "key": "krause2022claustrophobia",
+    "doi": "10.1177/01454455221075754",
+    "crossref_url": "https://api.crossref.org/works/10.1177%2F01454455221075754",
+    "crossref_sha256": "e04a8adb597034a3b0383638c3c9fef703476bd676d0e4cf7232dd9e712c7881",
+    "title": [
+      "Cognitive Restructuring Before Versus After Exposure: Effect on Expectancy and Outcome in Individuals With Claustrophobia"
+    ],
+    "authors": [
+      {
+        "given": "Kirstyn L.",
+        "family": "Krause"
+      },
+      {
+        "given": "Naomi",
+        "family": "Koerner"
+      },
+      {
+        "given": "Martin M.",
+        "family": "Antony"
+      }
+    ],
+    "journal": [
+      "Behavior Modification"
+    ],
+    "published": [
+      [
+        2022,
+        2,
+        12
+      ]
+    ],
+    "published_print": [
+      [
+        2022,
+        11
+      ]
+    ],
+    "published_online": [
+      [
+        2022,
+        2,
+        12
+      ]
+    ],
+    "volume": "46",
+    "issue": "6",
+    "pages": "1432-1459",
+    "retrieved_at_utc": "2026-11-09T00:19:05.581697+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1177%2F01454455221075754%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "a2d663d987000738f6c40d8e25a73b376788d4f09b60023c32590f1a078257f1",
+    "europepmc_matches": 1,
+    "pmid": "35156404",
+    "pmcid": "PMC9523819",
+    "europepmc_title": "Cognitive Restructuring Before Versus After Exposure: Effect on Expectancy and Outcome in Individuals With Claustrophobia.",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9523819/fullTextXML",
+    "fulltext_sha256": "d92ae26e88cdd938c160eed1cc86d2081969612f94f5cc1f966814ea2a014900"
+  },
+  {
+    "key": "richards2016cobra",
+    "doi": "10.1016/s0140-6736(16)31140-0",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2FS0140-6736%2816%2931140-0",
+    "crossref_sha256": "d445aecb95e0372cd0ae48c0d013677ecf7077f778b36b4462490050738ad240",
+    "title": [
+      "Cost and Outcome of Behavioural Activation versus Cognitive Behavioural Therapy for Depression (COBRA): a randomised, controlled, non-inferiority trial"
+    ],
+    "authors": [
+      {
+        "given": "David A",
+        "family": "Richards"
+      },
+      {
+        "given": "David",
+        "family": "Ekers"
+      },
+      {
+        "given": "Dean",
+        "family": "McMillan"
+      },
+      {
+        "given": "Rod S",
+        "family": "Taylor"
+      },
+      {
+        "given": "Sarah",
+        "family": "Byford"
+      },
+      {
+        "given": "Fiona C",
+        "family": "Warren"
+      },
+      {
+        "given": "Barbara",
+        "family": "Barrett"
+      },
+      {
+        "given": "Paul A",
+        "family": "Farrand"
+      },
+      {
+        "given": "Simon",
+        "family": "Gilbody"
+      },
+      {
+        "given": "Willem",
+        "family": "Kuyken"
+      },
+      {
+        "given": "Heather",
+        "family": "O'Mahen"
+      },
+      {
+        "given": "Ed R",
+        "family": "Watkins"
+      },
+      {
+        "given": "Kim A",
+        "family": "Wright"
+      },
+      {
+        "given": "Steven D",
+        "family": "Hollon"
+      },
+      {
+        "given": "Nigel",
+        "family": "Reed"
+      },
+      {
+        "given": "Shelley",
+        "family": "Rhodes"
+      },
+      {
+        "given": "Emily",
+        "family": "Fletcher"
+      },
+      {
+        "given": "Katie",
+        "family": "Finning"
+      }
+    ],
+    "journal": [
+      "The Lancet"
+    ],
+    "published": [
+      [
+        2016,
+        8
+      ]
+    ],
+    "published_print": [
+      [
+        2016,
+        8
+      ]
+    ],
+    "published_online": null,
+    "volume": "388",
+    "issue": "10047",
+    "pages": "871-880",
+    "retrieved_at_utc": "2026-11-09T00:19:21.508889+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2FS0140-6736%2816%2931140-0%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "50135a81c0354f40b2d0245f74db73e598bf50feec3892ea8308ecc12f365de5",
+    "europepmc_matches": 1,
+    "pmid": "27461440",
+    "pmcid": "PMC5007415",
+    "europepmc_title": "Cost and Outcome of Behavioural Activation versus Cognitive Behavioural Therapy for Depression (COBRA): a randomised, controlled, non-inferiority trial.",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5007415/fullTextXML",
+    "fulltext_sha256": "37b61cfacf3c68427549d9349f64f523efbcb0552635589fb6a69112bf8f176c"
+  },
+  {
+    "key": "jacobson1996component",
+    "doi": "10.1037/0022-006x.64.2.295",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2F0022-006X.64.2.295",
+    "crossref_sha256": "b9975f906635d6dedc19d7970f11e54d6e9943b309da766ff84fdaf5087e3627",
+    "title": [
+      "A component analysis of cognitive-behavioral treatment for depression."
+    ],
+    "authors": [
+      {
+        "given": "Neil S.",
+        "family": "Jacobson"
+      },
+      {
+        "given": "Keith S.",
+        "family": "Dobson"
+      },
+      {
+        "given": "Paula A.",
+        "family": "Truax"
+      },
+      {
+        "given": "Michael E.",
+        "family": "Addis"
+      },
+      {
+        "given": "Kelly",
+        "family": "Koerner"
+      },
+      {
+        "given": "Jackie K.",
+        "family": "Gollan"
+      },
+      {
+        "given": "Eric",
+        "family": "Gortner"
+      },
+      {
+        "given": "Stacey E.",
+        "family": "Prince"
+      }
+    ],
+    "journal": [
+      "Journal of Consulting and Clinical Psychology"
+    ],
+    "published": [
+      [
+        1996
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        1996
+      ]
+    ],
+    "volume": "64",
+    "issue": "2",
+    "pages": "295-304",
+    "retrieved_at_utc": "2026-11-09T00:19:22.523547+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A8871414+AND+SRC%3AMED&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "e44606ba82113342ced3756908f8c755af19c68e7c9c968d82a8f6f982de0d6b",
+    "europepmc_matches": 1,
+    "pmid": "8871414",
+    "pmcid": null,
+    "europepmc_title": "A component analysis of cognitive-behavioral treatment for depression."
+  },
+  {
+    "key": "longmore2007challenge",
+    "doi": "10.1016/j.cpr.2006.08.001",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.cpr.2006.08.001",
+    "crossref_sha256": "0e7ce1661e31c20e67f9bee3ef9de538a83498e865842587c1405fed784d2d7c",
+    "title": [
+      "Do we need to challenge thoughts in cognitive behavior therapy?"
+    ],
+    "authors": [
+      {
+        "given": "Richard J.",
+        "family": "Longmore"
+      },
+      {
+        "given": "Michael",
+        "family": "Worrell"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology Review"
+    ],
+    "published": [
+      [
+        2007,
+        3
+      ]
+    ],
+    "published_print": [
+      [
+        2007,
+        3
+      ]
+    ],
+    "published_online": null,
+    "volume": "27",
+    "issue": "2",
+    "pages": "173-187",
+    "retrieved_at_utc": "2026-11-09T00:19:23.532458+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cpr.2006.08.001%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "b915f242488b78517b3ae599498cd399aca3b4faa1319917333681a6131b5c3f",
+    "europepmc_matches": 1,
+    "pmid": "17157970",
+    "pmcid": null,
+    "europepmc_title": "Do we need to challenge thoughts in cognitive behavior therapy?"
+  },
+  {
+    "key": "cuijpers2017components",
+    "doi": "10.1080/10503307.2017.1395922",
+    "crossref_url": "https://api.crossref.org/works/10.1080%2F10503307.2017.1395922",
+    "crossref_sha256": "c3dfdb60ddfcdbed7e29d076c0518b6b45a61ca8e64dcddc88395de37740ed3f",
+    "title": [
+      "Component studies of psychological treatments of adult depression: A systematic review and meta-analysis"
+    ],
+    "authors": [
+      {
+        "given": "Pim",
+        "family": "Cuijpers"
+      },
+      {
+        "given": "Ioana A.",
+        "family": "Cristea"
+      },
+      {
+        "given": "Eirini",
+        "family": "Karyotaki"
+      },
+      {
+        "given": "Mirjam",
+        "family": "Reijnders"
+      },
+      {
+        "given": "Steven D.",
+        "family": "Hollon"
+      }
+    ],
+    "journal": [
+      "Psychotherapy Research"
+    ],
+    "published": [
+      [
+        2017,
+        11,
+        7
+      ]
+    ],
+    "published_print": [
+      [
+        2019,
+        1,
+        2
+      ]
+    ],
+    "published_online": [
+      [
+        2017,
+        11,
+        7
+      ]
+    ],
+    "volume": "29",
+    "issue": "1",
+    "pages": "15-29",
+    "retrieved_at_utc": "2026-11-09T00:19:24.538665+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1080%2F10503307.2017.1395922%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "4f08bb3e5afdb84a18f869320da5d3953d599b2defc4fc2b297aa64a9197e6be",
+    "europepmc_matches": 1,
+    "pmid": "29115185",
+    "pmcid": null,
+    "europepmc_title": "Component studies of psychological treatments of adult depression: A systematic review and meta-analysis."
+  },
+  {
+    "key": "hofmann2008extinction",
+    "doi": "10.1016/j.cpr.2007.04.009",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.cpr.2007.04.009",
+    "crossref_sha256": "e8ce653f3430143b361cc40cbf1b8d91a18c09f09f100f1e5053459c92ed3418",
+    "title": [
+      "Cognitive processes during fear acquisition and extinction in animals and humans: Implications for exposure therapy of anxiety disorders"
+    ],
+    "authors": [
+      {
+        "given": "Stefan G.",
+        "family": "Hofmann"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology Review"
+    ],
+    "published": [
+      [
+        2008,
+        2
+      ]
+    ],
+    "published_print": [
+      [
+        2008,
+        2
+      ]
+    ],
+    "published_online": null,
+    "volume": "28",
+    "issue": "2",
+    "pages": "199-210",
+    "retrieved_at_utc": "2026-11-09T00:19:25.546820+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cpr.2007.04.009%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "76afe86ee4475191a028d7f8813d0d83cc595a5a8754738aece553ea358cd76f",
+    "europepmc_matches": 1,
+    "pmid": "17532105",
+    "pmcid": "PMC2268629",
+    "europepmc_title": "Cognitive processes during fear acquisition and extinction in animals and humans: implications for exposure therapy of anxiety disorders.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2268629/",
+    "fulltext_sha256": "c547187b592eb9b3eafb84d2306db4dd65a3acbcc1fc894e43e29adc3386d587",
+    "fulltext_format": "public PMC HTML"
+  },
+  {
+    "key": "sipka2025factorial",
+    "doi": "10.1159/000542425",
+    "crossref_url": "https://api.crossref.org/works/10.1159%2F000542425",
+    "crossref_sha256": "171530c7c48d9bcdea0ae225305f1620aad2d7c97ac8d1b174eae10b2766bb28",
+    "title": [
+      "Active Components in Internet-Based Cognitive-Behavioral Therapy for Social Anxiety Disorder: A Randomized Full Factorial Trial"
+    ],
+    "authors": [
+      {
+        "given": "Dajana",
+        "family": "Šipka"
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Lopes"
+      },
+      {
+        "given": "Tobias",
+        "family": "Krieger"
+      },
+      {
+        "given": "Jan Philipp",
+        "family": "Klein"
+      },
+      {
+        "given": "Thomas",
+        "family": "Berger"
+      }
+    ],
+    "journal": [
+      "Psychotherapy and Psychosomatics"
+    ],
+    "published": [
+      [
+        2025,
+        1,
+        10
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2025,
+        1,
+        10
+      ]
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": "1-20",
+    "retrieved_at_utc": "2026-11-09T00:19:43.326599+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1159%2F000542425%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "5a577475f1e8bf1afca7515fcb29009daae5f6c1c61437ee3402b2067c96f0f7",
+    "europepmc_matches": 1,
+    "pmid": "39799943",
+    "pmcid": "PMC11797955",
+    "europepmc_title": "Active Components in Internet-Based Cognitive-Behavioral Therapy for Social Anxiety Disorder: A Randomized Full Factorial Trial.",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11797955/fullTextXML",
+    "fulltext_sha256": "b3f56dfd8736f66cc53ece42284d33ae6e1f9e9309ea38ba10246328442a2552"
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "key": "fluckiger2018alliance",
+    "doi": "10.1037/pst0000172",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fpst0000172",
+    "crossref_sha256": "ddde0f2b872a7a177378c9ae15abe6be62f194c5554126c720f64f2769e1878b",
+    "title": [
+      "The alliance in adult psychotherapy: A meta-analytic synthesis."
+    ],
+    "authors": [
+      {
+        "given": "Christoph",
+        "family": "Flückiger"
+      },
+      {
+        "given": "A. C.",
+        "family": "Del Re"
+      },
+      {
+        "given": "Bruce E.",
+        "family": "Wampold"
+      },
+      {
+        "given": "Adam O.",
+        "family": "Horvath"
+      }
+    ],
+    "journal": [
+      "Psychotherapy"
+    ],
+    "published": [
+      [
+        2018,
+        12
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2018,
+        12
+      ]
+    ],
+    "volume": "55",
+    "issue": "4",
+    "pages": "316-340",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:07.885058+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fpst0000172%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "9d64cdce8cda3f7c4c85b9b8074ce5151628146ce81811b8540483a3617e6d1e",
+    "europepmc_matches": 1,
+    "pmid": "29792475",
+    "pmcid": null,
+    "europepmc_title": "The alliance in adult psychotherapy: A meta-analytic synthesis."
+  },
+  {
+    "key": "eubanks2018rupture",
+    "doi": "10.1037/pst0000185",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fpst0000185",
+    "crossref_sha256": "51bd69d4c401c64c59ae9f5d54cf783b6f5877ce37846b394a6ea0e1dd802743",
+    "title": [
+      "Alliance rupture repair: A meta-analysis."
+    ],
+    "authors": [
+      {
+        "given": "Catherine F.",
+        "family": "Eubanks"
+      },
+      {
+        "given": "J. Christopher",
+        "family": "Muran"
+      },
+      {
+        "given": "Jeremy D.",
+        "family": "Safran"
+      }
+    ],
+    "journal": [
+      "Psychotherapy"
+    ],
+    "published": [
+      [
+        2018,
+        12
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2018,
+        12
+      ]
+    ],
+    "volume": "55",
+    "issue": "4",
+    "pages": "508-519",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:09.789373+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fpst0000185%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "23502d2ba3e45ffcd1afa160d2ff25705754673d53571236f9ab89502a425911",
+    "europepmc_matches": 1,
+    "pmid": "30335462",
+    "pmcid": null,
+    "europepmc_title": "Alliance rupture repair: A meta-analysis."
+  },
+  {
+    "key": "beutler2018reactance",
+    "doi": "10.1002/jclp.22682",
+    "crossref_url": "https://api.crossref.org/works/10.1002%2Fjclp.22682",
+    "crossref_sha256": "a1c23fce57954fa04548d643baf4e602f040cb9e25d96542996515d453f4ff4b",
+    "title": [
+      "Adapting psychotherapy to patient reactance level: A meta‐analytic review"
+    ],
+    "authors": [
+      {
+        "given": "Larry E.",
+        "family": "Beutler"
+      },
+      {
+        "given": "Christopher",
+        "family": "Edwards"
+      },
+      {
+        "given": "Kathleen",
+        "family": "Someah"
+      }
+    ],
+    "journal": [
+      "Journal of Clinical Psychology"
+    ],
+    "published": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "published_print": [
+      [
+        2018,
+        11
+      ]
+    ],
+    "published_online": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "volume": "74",
+    "issue": "11",
+    "pages": "1952-1963",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:11.704924+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1002%2Fjclp.22682%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "d6da9b29bc1e35f4f34b2331a89dc405c26593980968921f7d5eab517f5d9213",
+    "europepmc_matches": 1,
+    "pmid": "30334254",
+    "pmcid": null,
+    "europepmc_title": "Adapting psychotherapy to patient reactance level: A meta-analytic review."
+  },
+  {
+    "key": "krebs2018readiness",
+    "doi": "10.1002/jclp.22683",
+    "crossref_url": "https://api.crossref.org/works/10.1002%2Fjclp.22683",
+    "crossref_sha256": "b3c557d577434ed551f6f593c80977c4faa6081d9ecffd140d981d478651f695",
+    "title": [
+      "Stages of change and psychotherapy outcomes: A review and meta‐analysis"
+    ],
+    "authors": [
+      {
+        "given": "Paul",
+        "family": "Krebs"
+      },
+      {
+        "given": "John C.",
+        "family": "Norcross"
+      },
+      {
+        "given": "Joseph M.",
+        "family": "Nicholson"
+      },
+      {
+        "given": "James O.",
+        "family": "Prochaska"
+      }
+    ],
+    "journal": [
+      "Journal of Clinical Psychology"
+    ],
+    "published": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "published_print": [
+      [
+        2018,
+        11
+      ]
+    ],
+    "published_online": [
+      [
+        2018,
+        10,
+        18
+      ]
+    ],
+    "volume": "74",
+    "issue": "11",
+    "pages": "1964-1979",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:13.647087+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1002%2Fjclp.22683%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "ff08fd0a0e14fe3e5ba92721ab7b719b846d1529e84fcc8bf60ad62fc7b95866",
+    "europepmc_matches": 1,
+    "pmid": "30335193",
+    "pmcid": null,
+    "europepmc_title": "Stages of change and psychotherapy outcomes: A review and meta-analysis."
+  },
+  {
+    "key": "hayes2006act",
+    "doi": "10.1016/j.brat.2005.06.006",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.brat.2005.06.006",
+    "crossref_sha256": "a6f003ee2fd1de65d3fbf0373696af40d899fac87d19cf155ab531fa7738e848",
+    "title": [
+      "Acceptance and Commitment Therapy: Model, processes and outcomes"
+    ],
+    "authors": [
+      {
+        "given": "Steven C.",
+        "family": "Hayes"
+      },
+      {
+        "given": "Jason B.",
+        "family": "Luoma"
+      },
+      {
+        "given": "Frank W.",
+        "family": "Bond"
+      },
+      {
+        "given": "Akihiko",
+        "family": "Masuda"
+      },
+      {
+        "given": "Jason",
+        "family": "Lillis"
+      }
+    ],
+    "journal": [
+      "Behaviour Research and Therapy"
+    ],
+    "published": [
+      [
+        2006,
+        1
+      ]
+    ],
+    "published_print": [
+      [
+        2006,
+        1
+      ]
+    ],
+    "published_online": null,
+    "volume": "44",
+    "issue": "1",
+    "pages": "1-25",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:15.776723+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.brat.2005.06.006%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "8ea7d6dc6206e2b89be579cd44b35abd79f33ce4b284aa1e36fab6caeaf3e8f9",
+    "europepmc_matches": 1,
+    "pmid": "16300724",
+    "pmcid": null,
+    "europepmc_title": "Acceptance and commitment therapy: model, processes and outcomes."
+  },
+  {
+    "key": "stockton2019mediation",
+    "doi": "10.1017/s1352465818000553",
+    "crossref_url": "https://api.crossref.org/works/10.1017%2FS1352465818000553",
+    "crossref_sha256": "3397bc5d3a72498b9cf8fafb98426fbe100f3d031807604179f5c1b19ee0cfdb",
+    "title": [
+      "Identifying the Underlying Mechanisms of Change During Acceptance and Commitment Therapy (ACT): A Systematic Review of Contemporary Mediation Studies"
+    ],
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Stockton"
+      },
+      {
+        "given": "Stephen",
+        "family": "Kellett"
+      },
+      {
+        "given": "Raul",
+        "family": "Berrios"
+      },
+      {
+        "given": "Fuschia",
+        "family": "Sirois"
+      },
+      {
+        "given": "Nicolas",
+        "family": "Wilkinson"
+      },
+      {
+        "given": "Georgina",
+        "family": "Miles"
+      }
+    ],
+    "journal": [
+      "Behavioural and Cognitive Psychotherapy"
+    ],
+    "published": [
+      [
+        2018,
+        10,
+        4
+      ]
+    ],
+    "published_print": [
+      [
+        2019,
+        5
+      ]
+    ],
+    "published_online": [
+      [
+        2018,
+        10,
+        4
+      ]
+    ],
+    "volume": "47",
+    "issue": "3",
+    "pages": "332-362",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:17.634135+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1017%2FS1352465818000553%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "d6bb6a682a7ac6c072738ade541950e223fbca1eaff4e488905978d84027d8e9",
+    "europepmc_matches": 1,
+    "pmid": "30284528",
+    "pmcid": null,
+    "europepmc_title": "Identifying the Underlying Mechanisms of Change During Acceptance and Commitment Therapy (ACT): A Systematic Review of Contemporary Mediation Studies."
+  },
+  {
+    "key": "fluckiger2020reciprocal",
+    "doi": "10.1037/ccp0000594",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fccp0000594",
+    "crossref_sha256": "869c6a40d9ebe12a106a85fe2b10bca10f620422ed9aa5ae07dff8c6a61abb67",
+    "title": [
+      "The reciprocal relationship between alliance and early treatment symptoms: A two-stage individual participant data meta-analysis."
+    ],
+    "authors": [
+      {
+        "given": "Christoph",
+        "family": "Flückiger"
+      },
+      {
+        "given": "Julian",
+        "family": "Rubel"
+      },
+      {
+        "given": "A. C.",
+        "family": "Del Re"
+      },
+      {
+        "given": "Adam O.",
+        "family": "Horvath"
+      },
+      {
+        "given": "Bruce E.",
+        "family": "Wampold"
+      },
+      {
+        "given": "Paul",
+        "family": "Crits-Christoph"
+      },
+      {
+        "given": "Dana",
+        "family": "Atzil-Slonim"
+      },
+      {
+        "given": "Angelo",
+        "family": "Compare"
+      },
+      {
+        "given": "Fredrik",
+        "family": "Falkenström"
+      },
+      {
+        "given": "Annika",
+        "family": "Ekeblad"
+      },
+      {
+        "given": "Paula",
+        "family": "Errázuriz"
+      },
+      {
+        "given": "Hadar",
+        "family": "Fisher"
+      },
+      {
+        "given": "Asle",
+        "family": "Hoffart"
+      },
+      {
+        "given": "Jonathan D.",
+        "family": "Huppert"
+      },
+      {
+        "given": "Yogev",
+        "family": "Kivity"
+      },
+      {
+        "given": "Manasi",
+        "family": "Kumar"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Lutz"
+      },
+      {
+        "given": "John Christopher",
+        "family": "Muran"
+      },
+      {
+        "given": "Daniel R.",
+        "family": "Strunk"
+      },
+      {
+        "given": "Giorgio A.",
+        "family": "Tasca"
+      },
+      {
+        "given": "Andreea",
+        "family": "Vîslă"
+      },
+      {
+        "given": "Ulrich",
+        "family": "Voderholzer"
+      },
+      {
+        "given": "Christian A.",
+        "family": "Webb"
+      },
+      {
+        "given": "Hui",
+        "family": "Xu"
+      },
+      {
+        "given": "Sigal",
+        "family": "Zilcha-Mano"
+      },
+      {
+        "given": "Jacques P.",
+        "family": "Barber"
+      }
+    ],
+    "journal": [
+      "Journal of Consulting and Clinical Psychology"
+    ],
+    "published": [
+      [
+        2020,
+        9
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2020,
+        9
+      ]
+    ],
+    "volume": "88",
+    "issue": "9",
+    "pages": "829-843",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:19.696373+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fccp0000594%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "ed559d9eb0d42da6bd75cebe8a1f1796b8341c3eb9177b6d0fc0c9cef18dcc8f",
+    "europepmc_matches": 1,
+    "pmid": "32757587",
+    "pmcid": null,
+    "europepmc_title": "The reciprocal relationship between alliance and early treatment symptoms: A two-stage individual participant data meta-analysis."
+  },
+  {
+    "key": "Delgadillo2018Feedback",
+    "doi": "10.1016/s2215-0366(18)30162-7",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2FS2215-0366%2818%2930162-7",
+    "crossref_sha256": "5fbb9eb09f9548f1c19c957d85280934091eaa705b072eb1218439acbb94e57b",
+    "title": [
+      "Feedback-informed treatment versus usual psychological treatment for depression and anxiety: a multisite, open-label, cluster randomised controlled trial"
+    ],
+    "authors": [
+      {
+        "given": "Jaime",
+        "family": "Delgadillo"
+      },
+      {
+        "given": "Kim",
+        "family": "de Jong"
+      },
+      {
+        "given": "Mike",
+        "family": "Lucock"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Lutz"
+      },
+      {
+        "given": "Julian",
+        "family": "Rubel"
+      },
+      {
+        "given": "Simon",
+        "family": "Gilbody"
+      },
+      {
+        "given": "Shehzad",
+        "family": "Ali"
+      },
+      {
+        "given": "Elisa",
+        "family": "Aguirre"
+      },
+      {
+        "given": "Mark",
+        "family": "Appleton"
+      },
+      {
+        "given": "Jacqueline",
+        "family": "Nevin"
+      },
+      {
+        "given": "Harry",
+        "family": "O'Hayon"
+      },
+      {
+        "given": "Ushma",
+        "family": "Patel"
+      },
+      {
+        "given": "Andrew",
+        "family": "Sainty"
+      },
+      {
+        "given": "Peter",
+        "family": "Spencer"
+      },
+      {
+        "given": "Dean",
+        "family": "McMillan"
+      }
+    ],
+    "journal": [
+      "The Lancet Psychiatry"
+    ],
+    "published": [
+      [
+        2018,
+        7
+      ]
+    ],
+    "published_print": [
+      [
+        2018,
+        7
+      ]
+    ],
+    "published_online": null,
+    "volume": "5",
+    "issue": "7",
+    "pages": "564-572",
+    "crossref_retrieved_at_utc": "2026-11-09T00:33:21.685342+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2FS2215-0366%2818%2930162-7%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "58da763f68fc00a7a078563fe1f873cdc9abea219da3d2b801edb807024208db",
+    "europepmc_matches": 1,
+    "pmid": "29937396",
+    "pmcid": null,
+    "europepmc_title": "Feedback-informed treatment versus usual psychological treatment for depression and anxiety: a multisite, open-label, cluster randomised controlled trial."
+  },
+  {
+    "key": "baldwin2007alliance",
+    "doi": "10.1037/0022-006x.75.6.842",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2F0022-006X.75.6.842",
+    "crossref_sha256": "c7f1bb0044975b5f04923ac219c15e6cabad0dcd5a9e2b5fd80be3f988d9fa3c",
+    "title": [
+      "Untangling the alliance-outcome correlation: Exploring the relative importance of therapist and patient variability in the alliance."
+    ],
+    "authors": [
+      {
+        "given": "Scott A.",
+        "family": "Baldwin"
+      },
+      {
+        "given": "Bruce E.",
+        "family": "Wampold"
+      },
+      {
+        "given": "Zac E.",
+        "family": "Imel"
+      }
+    ],
+    "journal": [
+      "Journal of Consulting and Clinical Psychology"
+    ],
+    "published": [
+      [
+        2007
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2007
+      ]
+    ],
+    "volume": "75",
+    "issue": "6",
+    "pages": "842-852",
+    "crossref_retrieved_at_utc": "2026-11-09T01:23:48.162657+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2F0022-006X.75.6.842%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "09d605350ae75852aceeb4eabb4ee5f1300608cc0fbd9359e7679239dbceca14",
+    "europepmc_matches": 1,
+    "pmid": "18085902",
+    "pmcid": null,
+    "europepmc_title": "Untangling the alliance-outcome correlation: exploring the relative importance of therapist and patient variability in the alliance."
+  },
+  {
+    "key": "carlbring2018icbt",
+    "doi": "10.1080/16506073.2017.1401115",
+    "crossref_url": "https://api.crossref.org/works/10.1080%2F16506073.2017.1401115",
+    "crossref_sha256": "71ea24a0883fb2a05eeeb997f373fdd641c4c063cc583e237b0df90f96858290",
+    "title": [
+      "Internet-based vs. face-to-face cognitive behavior therapy for psychiatric and somatic disorders: an updated systematic review and meta-analysis"
+    ],
+    "authors": [
+      {
+        "given": "Per",
+        "family": "Carlbring"
+      },
+      {
+        "given": "Gerhard",
+        "family": "Andersson"
+      },
+      {
+        "given": "Pim",
+        "family": "Cuijpers"
+      },
+      {
+        "given": "Heleen",
+        "family": "Riper"
+      },
+      {
+        "given": "Erik",
+        "family": "Hedman-Lagerlöf"
+      }
+    ],
+    "journal": [
+      "Cognitive Behaviour Therapy"
+    ],
+    "published": [
+      [
+        2017,
+        12,
+        7
+      ]
+    ],
+    "published_print": [
+      [
+        2018,
+        1,
+        2
+      ]
+    ],
+    "published_online": [
+      [
+        2017,
+        12,
+        7
+      ]
+    ],
+    "volume": "47",
+    "issue": "1",
+    "pages": "1-18",
+    "crossref_retrieved_at_utc": "2026-11-09T01:23:48.161021+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1080%2F16506073.2017.1401115%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "377eac7a35a08d39481b51edd022dc65b47192d88e3be61d14c1ee7065f3a2e0",
+    "europepmc_matches": 1,
+    "pmid": "29215315",
+    "pmcid": null,
+    "europepmc_title": "Internet-based vs. face-to-face cognitive behavior therapy for psychiatric and somatic disorders: an updated systematic review and meta-analysis."
+  },
+  {
+    "key": "burlingame2016group",
+    "doi": "10.1037/pst0000090",
+    "crossref_url": "https://api.crossref.org/works/10.1037%2Fpst0000090",
+    "crossref_sha256": "9f97e86b65df5f099d0fe85a60864d3a0d981155d66f598ef70168d912f91da4",
+    "title": [
+      "Outcome differences between individual and group formats when identical and nonidentical treatments, patients, and doses are compared: A 25-year meta-analytic perspective."
+    ],
+    "authors": [
+      {
+        "given": "Gary M.",
+        "family": "Burlingame"
+      },
+      {
+        "given": "Jyssica D.",
+        "family": "Seebeck"
+      },
+      {
+        "given": "Rebecca A.",
+        "family": "Janis"
+      },
+      {
+        "given": "Kaitlyn E.",
+        "family": "Whitcomb"
+      },
+      {
+        "given": "Sarah",
+        "family": "Barkowski"
+      },
+      {
+        "given": "Jenny",
+        "family": "Rosendahl"
+      },
+      {
+        "given": "Bernhard",
+        "family": "Strauss"
+      }
+    ],
+    "journal": [
+      "Psychotherapy"
+    ],
+    "published": [
+      [
+        2016,
+        12
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2016,
+        12
+      ]
+    ],
+    "volume": "53",
+    "issue": "4",
+    "pages": "446-461",
+    "crossref_retrieved_at_utc": "2026-11-09T01:23:48.166761+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1037%2Fpst0000090%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "08a692e51a141068e5e4ba34f780362f95707cccbea21c352f07b832e338eee0",
+    "europepmc_matches": 1,
+    "pmid": "27918191",
+    "pmcid": null,
+    "europepmc_title": "Outcome differences between individual and group formats when identical and nonidentical treatments, patients, and doses are compared: A 25-year meta-analytic perspective."
+  },
+  {
+    "key": "pittig2021intensified",
+    "doi": "10.1002/da.23204",
+    "crossref_url": "https://api.crossref.org/works/10.1002%2Fda.23204",
+    "crossref_sha256": "6a126897d61ef920ce753e762d0e045fcef75efc09921bec72efae7f53f54daa",
+    "title": [
+      "Efficacy of temporally intensified exposure for anxiety disorders: A multicenter randomized clinical trial"
+    ],
+    "authors": [
+      {
+        "given": "Andre",
+        "family": "Pittig"
+      },
+      {
+        "given": "Ingmar",
+        "family": "Heinig"
+      },
+      {
+        "given": "Stephan",
+        "family": "Goerigk"
+      },
+      {
+        "given": "Freya",
+        "family": "Thiel"
+      },
+      {
+        "given": "Katrin",
+        "family": "Hummel"
+      },
+      {
+        "given": "Lucie",
+        "family": "Scholl"
+      },
+      {
+        "given": "Jürgen",
+        "family": "Deckert"
+      },
+      {
+        "given": "Paul",
+        "family": "Pauli"
+      },
+      {
+        "given": "Katharina",
+        "family": "Domschke"
+      },
+      {
+        "given": "Ulrike",
+        "family": "Lueken"
+      },
+      {
+        "given": "Thomas",
+        "family": "Fydrich"
+      },
+      {
+        "given": "Lydia",
+        "family": "Fehm"
+      },
+      {
+        "given": "Jens",
+        "family": "Plag"
+      },
+      {
+        "given": "Andreas",
+        "family": "Ströhle"
+      },
+      {
+        "given": "Tilo",
+        "family": "Kircher"
+      },
+      {
+        "given": "Benjamin",
+        "family": "Straube"
+      },
+      {
+        "given": "Winfried",
+        "family": "Rief"
+      },
+      {
+        "given": "Katja",
+        "family": "Koelkebeck"
+      },
+      {
+        "given": "Volker",
+        "family": "Arolt"
+      },
+      {
+        "given": "Udo",
+        "family": "Dannlowski"
+      },
+      {
+        "given": "Jürgen",
+        "family": "Margraf"
+      },
+      {
+        "given": "Christina",
+        "family": "Totzeck"
+      },
+      {
+        "given": "Silvia",
+        "family": "Schneider"
+      },
+      {
+        "given": "Peter",
+        "family": "Neudeck"
+      },
+      {
+        "given": "Michelle G.",
+        "family": "Craske"
+      },
+      {
+        "given": "Maike",
+        "family": "Hollandt"
+      },
+      {
+        "given": "Jan",
+        "family": "Richter"
+      },
+      {
+        "given": "Alfons",
+        "family": "Hamm"
+      },
+      {
+        "given": "Hans‐Ulrich",
+        "family": "Wittchen"
+      }
+    ],
+    "journal": [
+      "Depression and Anxiety"
+    ],
+    "published": [
+      [
+        2021,
+        7,
+        22
+      ]
+    ],
+    "published_print": [
+      [
+        2021,
+        11
+      ]
+    ],
+    "published_online": [
+      [
+        2021,
+        7,
+        22
+      ]
+    ],
+    "volume": "38",
+    "issue": "11",
+    "pages": "1169-1181",
+    "crossref_retrieved_at_utc": "2026-11-09T01:23:48.227948+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1002%2Fda.23204%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "288788998fbe61e00796f6d60c29c49c7e7999abffd9f9f4f1efd3f7310185d1",
+    "europepmc_matches": 1,
+    "pmid": "34293223",
+    "pmcid": null,
+    "europepmc_title": "Efficacy of temporally intensified exposure for anxiety disorders: A multicenter randomized clinical trial."
+  }
+]

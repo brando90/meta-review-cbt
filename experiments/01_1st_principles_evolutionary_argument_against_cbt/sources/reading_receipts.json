@@ -1,0 +1,376 @@
+[
+  {
+    "key": "brembs2002operant",
+    "doi": "10.1126/science.1069434",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/brembs2002operant.abstract.txt",
+        "sha256": "68c42ae83875f148e37ab763cf9c1c33fc421090e4f2decbee10ba471e7c079c"
+      }
+    ]
+  },
+  {
+    "key": "grillner2016basal",
+    "doi": "10.1016/j.cub.2016.06.041",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/grillner2016basal.abstract.txt",
+        "sha256": "03907cdc3ec8b3e493d55e05853e1563004150d62ee1b67c1893aba466e4e557"
+      }
+    ]
+  },
+  {
+    "key": "preuss2022evolution",
+    "doi": "10.1038/s41386-021-01076-5",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Abstract, evolutionary fundamentals, cortical organization",
+    "files": [
+      {
+        "path": "_build/sources/preuss2022evolution.abstract.txt",
+        "sha256": "02b7319887e8798d91c8f4ecca2924f24310f7df866d6b2ad10a287be2e0d463"
+      },
+      {
+        "path": "_build/sources/preuss2022evolution.fulltext.txt",
+        "sha256": "7c2a585f4a4ab4b76cd19788e66cbca1f5304accbab02e47dd6e82e058feeba4"
+      }
+    ],
+    "additional_reading_source": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8617185/",
+      "sha256": "34320c931c446fe0cf716a27bcef57689d408bdb25490ad1b45a60069c048788",
+      "note": "Reading text recovered from the earlier successful public HTML response; later routes returned challenge pages"
+    }
+  },
+  {
+    "key": "yin2006habits",
+    "doi": "10.1038/nrn1919",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/yin2006habits.abstract.txt",
+        "sha256": "81fcbb0c986f623bb23895702d0371c4610aaa5a9c272552a8e42dc24518b512"
+      }
+    ]
+  },
+  {
+    "key": "yin2004lesions",
+    "doi": "10.1111/j.1460-9568.2004.03095.x",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/yin2004lesions.abstract.txt",
+        "sha256": "ee360a90fb20ce2b4ca8443a05d8d829fe00f9b611ff8fb81176a47c181774e8"
+      }
+    ]
+  },
+  {
+    "key": "wood2016habit",
+    "doi": "10.1146/annurev-psych-122414-033417",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/wood2016habit.abstract.txt",
+        "sha256": "f0064e033bad48330171ada33c61948178dc3544d6f424f4596d28e47df20e1e"
+      }
+    ]
+  },
+  {
+    "key": "dewit2018failures",
+    "doi": "10.1037/xge0000402",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/dewit2018failures.abstract.txt",
+        "sha256": "8a551c8e1f2afe9d01870ff24b9ab82174cb58ceaf4ca6507022c66e7c316d21"
+      }
+    ]
+  },
+  {
+    "key": "dolan2013goals",
+    "doi": "10.1016/j.neuron.2013.09.007",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Instrumental/habit definitions, neural interactions, computational and Pavlovian sections",
+    "files": [
+      {
+        "path": "_build/sources/dolan2013goals.abstract.txt",
+        "sha256": "53bf4704c661253c7e4aa95f578ace5f7209492c650548c595b684d32c2b032c"
+      },
+      {
+        "path": "_build/sources/dolan2013goals.fulltext.txt",
+        "sha256": "aa9a61e9c06bb0953223ea26e02a84291baaf4df5d9c8c91ef1ad4ff3f8ab950"
+      }
+    ]
+  },
+  {
+    "key": "schultz1997reward",
+    "doi": "10.1126/science.275.5306.1593",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/schultz1997reward.abstract.txt",
+        "sha256": "7cf13e522afffa20003dfe5025bbcba644dadcfe495cd286a55ae7964e143a3e"
+      }
+    ]
+  },
+  {
+    "key": "berridge2016liking",
+    "doi": "10.1037/amp0000059",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/berridge2016liking.abstract.txt",
+        "sha256": "a6e173212e339448b972da9ea0d9fe68fd3fcfa5ace294ae1325899b40621f3e"
+      }
+    ]
+  },
+  {
+    "key": "li2011instructed",
+    "doi": "10.1073/pnas.1014938108",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/li2011instructed.abstract.txt",
+        "sha256": "08e20553a1017edb38e3c30a07e13f31d39c2116df02bb0d43f9ec57807d4cb5"
+      }
+    ]
+  },
+  {
+    "key": "doll2009instruction",
+    "doi": "10.1016/j.brainres.2009.07.007",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/doll2009instruction.abstract.txt",
+        "sha256": "e7f423bfe6d60b76733aa5b237bc0782a3730871540d90309b2794a6ef4c1f2c"
+      }
+    ]
+  },
+  {
+    "key": "ludwig2020selfregulation",
+    "doi": "10.1177/1745691620931460",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/ludwig2020selfregulation.abstract.txt",
+        "sha256": "21185bd8d7fb9c23c08cac91dcf91ff31bbe94709ad851b16b923bae250a351f"
+      }
+    ]
+  },
+  {
+    "key": "taylor2021awareness",
+    "doi": "10.1556/2006.2021.00020",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Methods, results, discussion, limitations, competing interests",
+    "files": [
+      {
+        "path": "_build/sources/taylor2021awareness.abstract.txt",
+        "sha256": "a90636f48c335ae1b3108275039192159ee53dfa35050854718f9420d6b8d044"
+      },
+      {
+        "path": "_build/sources/taylor2021awareness.fulltext.txt",
+        "sha256": "0d2ce8f818cb5d89058130a113cebdeb9634f6ca6a97690a77d513e579d3a2ef"
+      }
+    ]
+  },
+  {
+    "key": "craske2014maximizing",
+    "doi": "10.1016/j.brat.2014.04.006",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/craske2014maximizing.abstract.txt",
+        "sha256": "0c3a648e494f2cb995f1bd993f9206fac3865332b79fc9979bb00dc60810f825"
+      }
+    ]
+  },
+  {
+    "key": "johnco2025restructuring",
+    "doi": "10.1037/ccp0000953",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/johnco2025restructuring.abstract.txt",
+        "sha256": "a69dbe6022249e22f7e2c104e11c8d22fc3de19103b6f11d631840938d12ded1"
+      }
+    ]
+  },
+  {
+    "key": "krause2022claustrophobia",
+    "doi": "10.1177/01454455221075754",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Methods, results, discussion passages",
+    "files": [
+      {
+        "path": "_build/sources/krause2022claustrophobia.abstract.txt",
+        "sha256": "bfad303e7da9c71abb1cb02b32d0cc11590b2954bb5c81b1ca2337c0b2f03042"
+      },
+      {
+        "path": "_build/sources/krause2022claustrophobia.fulltext.txt",
+        "sha256": "6a93e4f3ae14aaccd55929611a9f2b4dc321e7bb3f543a82a711125be6d2ec9c"
+      }
+    ]
+  },
+  {
+    "key": "richards2016cobra",
+    "doi": "10.1016/s0140-6736(16)31140-0",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Methods and primary outcome results",
+    "files": [
+      {
+        "path": "_build/sources/richards2016cobra.abstract.txt",
+        "sha256": "01ee39284936ce0a39924a2da32d04f3560e5103d4d6475e3344e8c8714b2750"
+      },
+      {
+        "path": "_build/sources/richards2016cobra.fulltext.txt",
+        "sha256": "3f782e2616a2e8b1107e1fde26d1edfcf2d176916814b00d10327cf61f7acd2e"
+      }
+    ]
+  },
+  {
+    "key": "jacobson1996component",
+    "doi": "10.1037/0022-006x.64.2.295",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/jacobson1996component.abstract.txt",
+        "sha256": "044d992693d27d9b287dd20cfe16280d75709159bd22a1e2590a7e0df0725aa9"
+      }
+    ]
+  },
+  {
+    "key": "longmore2007challenge",
+    "doi": "10.1016/j.cpr.2006.08.001",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": false,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/longmore2007challenge.abstract.txt",
+        "sha256": "fb9ee8dfcbcf552929b3d50ce384ff48f6b215545a7f2280b6024dd1c6db6ad7"
+      }
+    ]
+  },
+  {
+    "key": "cuijpers2017components",
+    "doi": "10.1080/10503307.2017.1395922",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/cuijpers2017components.abstract.txt",
+        "sha256": "d5470f114ca731c2439273a8aacdb0c11dcfb4a69b295d91747c761235b527bb"
+      }
+    ]
+  },
+  {
+    "key": "hofmann2008extinction",
+    "doi": "10.1016/j.cpr.2007.04.009",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_READ",
+    "passages": "Abstract",
+    "files": [
+      {
+        "path": "_build/sources/hofmann2008extinction.abstract.txt",
+        "sha256": "810fdca16142bde76bf4eef48f1fbd06774677cd4c65e044bf830104fc206a38"
+      }
+    ]
+  },
+  {
+    "key": "sipka2025factorial",
+    "doi": "10.1159/000542425",
+    "identity_checked": "Crossref title, authors and publication year checked against intended citation",
+    "reading_date": "2026-11-08",
+    "manuscript_cited": true,
+    "status": "ABSTRACT_AND_RELEVANT_FULLTEXT_PASSAGES_READ",
+    "passages": "Design, component descriptions and outcome passages",
+    "files": [
+      {
+        "path": "_build/sources/sipka2025factorial.abstract.txt",
+        "sha256": "c696cd62f3db574955153c18aa5b9227e6dddb76ddec5b6b13c41430434e701d"
+      },
+      {
+        "path": "_build/sources/sipka2025factorial.fulltext.txt",
+        "sha256": "45368d574fbbf1a5cd2e7d923005772a2eb446b2e248cef7716bb4c488769e60"
+      }
+    ]
+  }
+]

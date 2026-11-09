@@ -1,0 +1,455 @@
+[
+  {
+    "key": "munder2013allegiance",
+    "doi": "10.1016/j.cpr.2013.02.002",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.cpr.2013.02.002",
+    "crossref_sha256": "80f9707bdbbe8bb291845635b5b80ef49d7ad1475e469219e744201908ea19b7",
+    "title": [
+      "Researcher allegiance in psychotherapy outcome research: An overview of reviews"
+    ],
+    "authors": [
+      {
+        "given": "Thomas",
+        "family": "Munder"
+      },
+      {
+        "given": "Oliver",
+        "family": "Brütsch"
+      },
+      {
+        "given": "Rainer",
+        "family": "Leonhart"
+      },
+      {
+        "given": "Heike",
+        "family": "Gerger"
+      },
+      {
+        "given": "Jürgen",
+        "family": "Barth"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology Review"
+    ],
+    "published": [
+      [
+        2013,
+        6
+      ]
+    ],
+    "published_print": [
+      [
+        2013,
+        6
+      ]
+    ],
+    "published_online": null,
+    "volume": "33",
+    "issue": "4",
+    "pages": "501-511",
+    "crossref_retrieved_at_utc": "2026-11-09T00:23:18.156029+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cpr.2013.02.002%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "54eb0d6e9a56394ffb3f58d87f065cc953636fd311c137869a6f105c49b082a0",
+    "europepmc_matches": 1,
+    "pmid": "23500154",
+    "pmcid": null,
+    "europepmc_title": "Researcher allegiance in psychotherapy outcome research: an overview of reviews."
+  },
+  {
+    "key": "driessen2015publicationbias",
+    "doi": "10.1371/journal.pone.0137864",
+    "crossref_url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0137864",
+    "crossref_sha256": "cbd338b1bfbd0f467c41b44e3a835c13f26a3f19d98b448faee0f91fd168171d",
+    "title": [
+      "Does Publication Bias Inflate the Apparent Efficacy of Psychological Treatment for Major Depressive Disorder? A Systematic Review and Meta-Analysis of US National Institutes of Health-Funded Trials"
+    ],
+    "authors": [
+      {
+        "given": "Ellen",
+        "family": "Driessen"
+      },
+      {
+        "given": "Steven D.",
+        "family": "Hollon"
+      },
+      {
+        "given": "Claudi L. H.",
+        "family": "Bockting"
+      },
+      {
+        "given": "Pim",
+        "family": "Cuijpers"
+      },
+      {
+        "given": "Erick H.",
+        "family": "Turner"
+      }
+    ],
+    "journal": [
+      "PLOS ONE"
+    ],
+    "published": [
+      [
+        2015,
+        9,
+        30
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2015,
+        9,
+        30
+      ]
+    ],
+    "volume": "10",
+    "issue": "9",
+    "pages": "e0137864",
+    "crossref_retrieved_at_utc": "2026-11-09T00:23:20.096087+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1371%2Fjournal.pone.0137864%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "9f2d612352e22e9bda6786e72e89ba8fb001a547db533fadbe8dcdabde2e8d7d",
+    "europepmc_matches": 1,
+    "pmid": "26422604",
+    "pmcid": "PMC4589340",
+    "europepmc_title": "Does Publication Bias Inflate the Apparent Efficacy of Psychological Treatment for Major Depressive Disorder? A Systematic Review and Meta-Analysis of US National Institutes of Health-Funded Trials.",
+    "fulltext_xml_error": "HTTP Error 500: ",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4589340/",
+    "fulltext_sha256": "b1c1303e36eb9837c22820bf179b408c09d2d199103933540d447793d574ad6e",
+    "fulltext_format": "public PMC HTML"
+  },
+  {
+    "key": "tolin2010cbt",
+    "doi": "10.1016/j.cpr.2010.05.003",
+    "crossref_url": "https://api.crossref.org/works/10.1016%2Fj.cpr.2010.05.003",
+    "crossref_sha256": "5b3edfdece92b518ee33a2dac95141fcce06a59762f944d32c759a3b02a40cd2",
+    "title": [
+      "Is cognitive–behavioral therapy more effective than other therapies?"
+    ],
+    "authors": [
+      {
+        "given": "David F.",
+        "family": "Tolin"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology Review"
+    ],
+    "published": [
+      [
+        2010,
+        8
+      ]
+    ],
+    "published_print": [
+      [
+        2010,
+        8
+      ]
+    ],
+    "published_online": null,
+    "volume": "30",
+    "issue": "6",
+    "pages": "710-720",
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:05.789387+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1016%2Fj.cpr.2010.05.003%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "ff30aa06e58372798fc3e87f2b9dc514b2b5b02d7a05d9b12bc57493a8ab2e99",
+    "europepmc_matches": 1,
+    "pmid": "20547435",
+    "pmcid": null,
+    "europepmc_title": "Is cognitive-behavioral therapy more effective than other therapies? A meta-analytic review."
+  },
+  {
+    "key": "leichsenring2018plurality",
+    "doi": "10.3389/fpsyt.2018.00159",
+    "crossref_url": "https://api.crossref.org/works/10.3389%2Ffpsyt.2018.00159",
+    "crossref_sha256": "ab62c52ac75fabd2abbeccea41f1580afb04dbb23bf5935d6310a590042ff1e5",
+    "title": [
+      "“Gold Standards,” Plurality and Monocultures: The Need for Diversity in Psychotherapy"
+    ],
+    "authors": [
+      {
+        "given": "Falk",
+        "family": "Leichsenring"
+      },
+      {
+        "given": "Allan",
+        "family": "Abbass"
+      },
+      {
+        "given": "Mark J.",
+        "family": "Hilsenroth"
+      },
+      {
+        "given": "Patrick",
+        "family": "Luyten"
+      },
+      {
+        "given": "Thomas",
+        "family": "Munder"
+      },
+      {
+        "given": "Sven",
+        "family": "Rabung"
+      },
+      {
+        "given": "Christiane",
+        "family": "Steinert"
+      }
+    ],
+    "journal": [
+      "Frontiers in Psychiatry"
+    ],
+    "published": [
+      [
+        2018,
+        4,
+        24
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2018,
+        4,
+        24
+      ]
+    ],
+    "volume": "9",
+    "issue": null,
+    "pages": null,
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:08.460209+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3389%2Ffpsyt.2018.00159%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "1feee4e99615eb382852476d72db61797afc2724024656d7cf0a03df51f4f8fc",
+    "europepmc_matches": 1,
+    "pmid": "29740361",
+    "pmcid": "PMC5928423",
+    "europepmc_title": "\"Gold Standards,\" Plurality and Monocultures: The Need for Diversity in Psychotherapy.",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5928423/fullTextXML",
+    "fulltext_sha256": "220b4ca4dc3650fa74c3a98c10383d2557b6652724996f559ff25b85606725f3"
+  },
+  {
+    "key": "mahoney1977prejudices",
+    "doi": "10.1007/bf01173636",
+    "crossref_url": "https://api.crossref.org/works/10.1007%2FBF01173636",
+    "crossref_sha256": "34b6f2bfcadcf869c9fa9a9b6b8636e0376f8d4cde08e1558d7e2f1ade19e910",
+    "title": [
+      "Publication prejudices: An experimental study of confirmatory bias in the peer review system"
+    ],
+    "authors": [
+      {
+        "given": "Michael J.",
+        "family": "Mahoney"
+      }
+    ],
+    "journal": [
+      "Cognitive Therapy and Research"
+    ],
+    "published": [
+      [
+        1977,
+        6
+      ]
+    ],
+    "published_print": [
+      [
+        1977,
+        6
+      ]
+    ],
+    "published_online": null,
+    "volume": "1",
+    "issue": "2",
+    "pages": "161-175",
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:15.905636+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1007%2FBF01173636%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "9d5f466fae114bcfb148af0e5f870ba37e92c1d4d7e747065abd5fe067b217d2",
+    "europepmc_matches": 0
+  },
+  {
+    "key": "cuijpers2010publicationbias",
+    "doi": "10.1192/bjp.bp.109.066001",
+    "crossref_url": "https://api.crossref.org/works/10.1192%2Fbjp.bp.109.066001",
+    "crossref_sha256": "4094e51fb4016c4bee2efb2d6184cfbe9a1951989ab3679963416e2fd0449b4f",
+    "title": [
+      "Efficacy of cognitive–behavioural therapy and other psychological treatments for adult depression: meta-analytic study of publication bias"
+    ],
+    "authors": [
+      {
+        "given": "Pim",
+        "family": "Cuijpers"
+      },
+      {
+        "given": "Filip",
+        "family": "Smit"
+      },
+      {
+        "given": "Ernst",
+        "family": "Bohlmeijer"
+      },
+      {
+        "given": "Steven D.",
+        "family": "Hollon"
+      },
+      {
+        "given": "Gerhard",
+        "family": "Andersson"
+      }
+    ],
+    "journal": [
+      "British Journal of Psychiatry"
+    ],
+    "published": [
+      [
+        2010,
+        3
+      ]
+    ],
+    "published_print": [
+      [
+        2010,
+        3
+      ]
+    ],
+    "published_online": [
+      [
+        2018,
+        1,
+        2
+      ]
+    ],
+    "volume": "196",
+    "issue": "3",
+    "pages": "173-178",
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:17.776092+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1192%2Fbjp.bp.109.066001%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "c49375e47b9b0823da5cd3d92afde62b739bd70fb47d5f27f3678eb4e16b8789",
+    "europepmc_matches": 1,
+    "pmid": "20194536",
+    "pmcid": null,
+    "europepmc_title": "Efficacy of cognitive-behavioural therapy and other psychological treatments for adult depression: meta-analytic study of publication bias."
+  },
+  {
+    "key": "zimmerman2024allegiance",
+    "doi": "10.1002/cpp.2974",
+    "crossref_url": "https://api.crossref.org/works/10.1002%2Fcpp.2974",
+    "crossref_sha256": "26d7e940961930748c5a3a27c93e73a3c37d85385d548e5273d0ae8e750e3bdb",
+    "title": [
+      "Does Researcher Allegiance Bias Outcomes in Psychotherapy Research? A Quasi‐Experimental Secondary Analysis"
+    ],
+    "authors": [
+      {
+        "given": "Jacob A.",
+        "family": "Zimmerman"
+      },
+      {
+        "given": "David K.",
+        "family": "Marcus"
+      }
+    ],
+    "journal": [
+      "Clinical Psychology &amp; Psychotherapy"
+    ],
+    "published": [
+      [
+        2024,
+        3
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        3
+      ]
+    ],
+    "published_online": [
+      [
+        2024,
+        4,
+        15
+      ]
+    ],
+    "volume": "31",
+    "issue": "2",
+    "pages": null,
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:19.647631+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1002%2Fcpp.2974%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "e5b0e3b528a359798751299daac734952b314c629082bf3569e3359b7773d7b5",
+    "europepmc_matches": 1,
+    "pmid": "38616708",
+    "pmcid": null,
+    "europepmc_title": "Does Researcher Allegiance Bias Outcomes in Psychotherapy Research? A Quasi-Experimental Secondary Analysis."
+  },
+  {
+    "key": "emerson2010peerreview",
+    "doi": "10.1001/archinternmed.2010.406",
+    "crossref_url": "https://api.crossref.org/works/10.1001%2Farchinternmed.2010.406",
+    "crossref_sha256": "8a120701a9652a534e8c14bb283235003e230055e9be37ad20f04c56bfc52dfe",
+    "title": [
+      "Testing for the Presence of Positive-Outcome Bias in Peer Review"
+    ],
+    "authors": [
+      {
+        "given": "Gwendolyn B.",
+        "family": "Emerson"
+      },
+      {
+        "given": "Winston J.",
+        "family": "Warme"
+      },
+      {
+        "given": "Fredric M.",
+        "family": "Wolf"
+      },
+      {
+        "given": "James D.",
+        "family": "Heckman"
+      },
+      {
+        "given": "Richard A.",
+        "family": "Brand"
+      },
+      {
+        "given": "Seth S.",
+        "family": "Leopold"
+      }
+    ],
+    "journal": [
+      "Archives of Internal Medicine"
+    ],
+    "published": [
+      [
+        2010,
+        11,
+        22
+      ]
+    ],
+    "published_print": [
+      [
+        2010,
+        11,
+        22
+      ]
+    ],
+    "published_online": null,
+    "volume": "170",
+    "issue": "21",
+    "pages": null,
+    "crossref_retrieved_at_utc": "2026-11-09T00:24:21.519252+00:00",
+    "content_read_status": "NOT_ESTABLISHED_BY_RETRIEVAL",
+    "europepmc_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1001%2Farchinternmed.2010.406%22&format=json&resultType=core&pageSize=5",
+    "europepmc_sha256": "8e4c5ab9afcef978b9814a31bea93951327a802dab7633d267925f061ce6f3a2",
+    "europepmc_matches": 1,
+    "pmid": "21098355",
+    "pmcid": null,
+    "europepmc_title": "Testing for the presence of positive-outcome bias in peer review: a randomized controlled trial."
+  }
+]

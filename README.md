@@ -2,59 +2,70 @@
 
 **Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/README.md>
 
-**TLDR:** A critical meta-review of why CBT fails (ten graded reasons, with executive function and adult ADHD as the deepest case study), built on about 440 DOI-verified sources. Status: Draft 3 (2026-10-21), a 17-section paper in `latex/`; nothing has been sent to a journal or reviewer yet.
+**TLDR:** Draft 4 (11-08-2026) is a critical theoretical review of ten proposed reasons cognitive behavioral therapy (CBT) may fail, with executive function and adult attention-deficit/hyperactivity disorder (ADHD) as the deepest case study. The evolutionary-learning, evidence-selection and clinical-perspective revisions have had one independent model-review round followed by coordinator fixes. This is a feedback draft, not a completed systematic review or a journal submission.
 
-A critical meta-review of **why CBT fails**: ten reasons (executive-function demands and ADHD, a cognitive component that may not be the active ingredient, inflated effects and measurement, non-response, dropout and relapse, under-recorded harm, patient and context factors, therapist and delivery factors, an under-tested theory of change), each graded against meta-analytic evidence. The executive-function/ADHD argument, which started the project as a blog post, is the deepest case study.
+**Paper:** [Draft 4 PDF](latex/main.pdf) · [revision and review record](review/LIGHT_QA_DRAFT4.md) · [claim–evidence map](review/claim_evidence_map.md) · [source-verification log](deep-research/VERIFICATION.md)
 
-Starting blog draft: [Why CBT doesn’t make sense to me](https://github.com/brando90/brandomiranda/blob/main/_drafts/2026-10-19-why-cbt-doesnt-make-sense-to-me.md).
+> *Why Does CBT Fail? A Critical Review of Ten Proposed Explanations, with Executive Function and Adult ADHD as a Test Case*
 
-**Status:** Draft 3 (2026-10-21): 17-section paper (`elsarticle` preprint format) with a graded map of ten reasons CBT fails, built on about 440 DOI-verified sources. Draft 1 (blog-based) and Draft 2 (executive-function focus) are in the history of `main`. Nothing here has been sent to a journal or a reviewer.
+## Scope and conclusions
 
-> Working title: *Why Does CBT Fail? A Critical Meta-Review of Non-Response, Weak Mechanism Evidence and Delivery Limits, with Executive Function and Adult ADHD as a Test Case*
+The review retains ten reasons: executive demands, uncertain cognitive-component contributions, biased effect estimates, non-response and dropout, relapse, harms, patient factors, context, delivery, and under-tested mechanisms. The executive-function argument is one case study, not the entire review.
 
-## Thesis in five lines
-1. CBT works on average (moderate effects), but fewer than half of patients respond in several analyses, about 16% drop out before and 26% during treatment, and 29% relapse within a year after cognitive therapy ends.
-2. Headline effects shrink with active controls, bias adjustment and quality; outcome measures are heterogeneous and harms are rarely recorded.
-3. Most documented limits (dropout, comorbidity, relapse, therapist variability) are shared with other treatments; the CBT-specific gaps are mostly missing studies (autism, ADHD plus anxiety, minority groups, causal tests of competence).
-4. The cognitive mechanism is under-tested; the best-supported active ingredients look behavioural (exposure, skills, practice).
-5. Deepest case study: cognitive restructuring is an executive-function task, anxiety impairs the prefrontal systems behind it and ADHD often starts with executive weaknesses, but no adequately powered study tests executive function as a moderator in working-age adults with ADHD and anxiety.
+1. CBT works on average, while non-response, relapse and delivery/access limitations remain important; many limitations are shared with other therapies.
+2. Package efficacy does not identify a causal component. Component findings are mixed, often underpowered and sensitive to disorder, comparator and follow-up.
+3. Evolutionarily conserved learning motivates a hypothesis about practice and action, not a ranking of treatments. Instructions and cognitive processing can help before experience.
+4. Researcher allegiance and publication selection warrant scrutiny. The sources checked do not establish that CBT-oriented reviewers suppress alternatives or that all therapies are equivalent.
+5. Acceptance, alliance, reactance and structured feedback connect clinical goals and engagement to research. They do not validate the informal four-type classification, its prevalence claims or the exact early-reframing hypothesis.
 
-## Repo map
-| Folder | What is in it |
+The [current blog post](https://github.com/brando90/brandomiranda/blob/55b7edf3c920e658998e41fd6b8408acd054a6c9/_posts/2026-11-08-why-cbt-doesnt-make-sense-to-me.md) is a separate, independently maintained artifact. The [original imported blog draft](evidence-screen/sources/blog-original.md) remains unchanged.
+
+## Revision plans
+
+- [Evolutionary learning: defensible claims and counterevidence](experiments/01_1st_principles_evolutionary_argument_against_cbt/changes_to_paper_based_on_my_evolutionary_argument.md)
+- [Evidence volume, allegiance and reviewer selection](experiments/02_cbt_are_the_reviewers_so_of_course_it_has_the_most_evidence_most_accepted/changes_cbt_reviewer_bias.md)
+- [Clinical goals, engagement and timing](experiments/03_clinical_goals_engagement_and_timing/changes_clinical_perspective.md), plus a [source-linked blog paragraph](experiments/03_clinical_goals_engagement_and_timing/blog_paragraph.md)
+
+The final source inventory contains 43 candidate identities: the initial 39 plus four existing citations rechecked during fixes. Abstracts were read for 42; ten also had relevant full-text passages read. One metadata-only candidate is excluded. These checks are **not** a fresh content verification of all 458 bibliography entries. Identifier resolution, retrieval, reading and consistency tests are different activities.
+
+## Repository map
+
+| Folder | Role |
 |---|---|
-| `latex/` | The paper (`main.tex`, one file per section in `sections/`, 17 sections), Elsevier `elsarticle` format for *Clinical Psychology Review*. |
-| `deep-research/` | Search protocol, per-topic source notes (eight slices), the **verified** bibliography (`references.bib`) and the verification log. |
-| `experiments/` | Any re-analysis of published meta-analytic data (effect-size trends, moderator meta-regression). Every analysis is logged. |
-| `review/` | The detailed review: venue recommendation, claim-by-claim evidence map, open questions and the draft changelog. |
-| `evidence-screen/` | Companion audit trail: protocol 0.2, Europe PMC search receipts, the 21-record executive-function screen, its short paper, scripts and tests (own `Makefile`). |
-| `AGENTS.md`, `CLAUDE.md` | Rules for AI coding agents working in this repo (citations must be verified; no personal data). |
+| `latex/` | Canonical manuscript, section files and committed PDF; `elsarticle` format. |
+| `deep-research/` | Search protocol, topic notes, bibliography and historical/current verification records. |
+| `experiments/` | Revision plans, candidate manifests, public metadata/reading receipts and reproducible checks; no new participant experiment or pooled treatment estimate. |
+| `review/` | Review/fix record, venue notes, claim–evidence map and changelog. |
+| `evidence-screen/` | Companion audit trail for the ADHD case study: protocol, search receipts, 21-record screen, scripts and tests; **not a second submission manuscript**. |
+| `AGENTS.md`, `CLAUDE.md` | Shared project instructions for coding agents. |
 
-## Build the paper
+## Build and check
+
+From the repository root:
+
 ```bash
-cd latex
-latexmk -pdf main.tex      # or: tectonic main.tex
+make paper   # Build latex/main.pdf.
+make screen  # Build the evidence-screen companion.
+make test    # Six companion tests, seven revision tests, and consistency checks.
 ```
-`latex/main.pdf` is committed for convenience. The bibliography is `deep-research/references.bib`. From the repo root, `make paper` builds the Draft 3 paper, `make screen` and `make test` build and check the evidence-screen companion.
 
-## Ground rules
-- Commit and push straight to `main` (owner's standing instruction).
-- Every reference must resolve (DOI through Crossref) and match the claim it supports. Unsourced claims are marked `\citegap{...}` and shown in red.
-- Numbers come from the abstract or full text, never from memory.
-- This repo is public. No personal health information about any person, ever.
+The canonical bibliography is `deep-research/references.bib`. The revision checks validate citations, labels, source-record consistency and available cached-file hashes; they do not establish scientific truth or prove that a source was read. Copyrighted reading copies and private contact/mail receipts remain in ignored `_build/` directories.
+
+## Ground rules and readiness
+
+- Commit and push directly to `main`, following the owner's standing instruction; inspect changes and preserve concurrent work.
+- Resolve bibliographic identities and check source content before making claims. Missing support remains explicit rather than fabricated.
+- Quote numbers from inspected abstracts or full-text passages, with their denominators, uncertainty and scope.
+- Keep personal health information, clinician identities, private correspondence and raw transcripts out of the public manuscript artifacts.
 - This is a theoretical review by a non-clinician, not medical advice.
+- Feedback readiness is distinct from submission readiness. No journal submission has been made. The provisional target is *Clinical Psychology Review*; official venue requirements and submission preparation remain to be confirmed separately ([venue notes](review/venue.md)).
 
-## Venue
-Primary target: *Clinical Psychology Review*. Fallbacks: *Perspectives on Psychological Science*, *Psychological Medicine*. See `review/venue.md`.
+## Evidence-screen companion
 
----
+The companion preserves protocol 0.2, ten Europe PMC search receipts, a 21-record executive-function screen and a short developing report. Its narrow screen does not cover all CBT evidence.
 
-## Evidence-screen companion (`evidence-screen/`)
+- [Companion PDF](evidence-screen/main.pdf), [protocol](evidence-screen/protocol.md), [evidence and gaps](evidence-screen/evidence-map.md), [open questions](evidence-screen/open-questions.md)
+- [Imported-source record](evidence-screen/sources/README.md), [prior 29-page review](evidence-screen/sources/deep-research-draft-2.pdf), [companion changelog](evidence-screen/CHANGELOG.md)
+- The broader historical search-count log lives separately in [`deep-research/search/`](deep-research/search/).
 
-A parallel pass kept intact in its own folder: protocol 0.2, a Europe PMC search baseline with immutable receipts, a 21-record executive-function screen and a short developing paper. The Draft 3 paper in `latex/` is the manuscript; this folder is its audit trail for the ADHD case study, not a second paper to submit.
-
-- [Developing paper (PDF)](evidence-screen/main.pdf), source `evidence-screen/main.tex` and `evidence-screen/sections/`
-- [Protocol 0.2](evidence-screen/protocol.md), [evidence and gaps](evidence-screen/evidence-map.md), [open questions](evidence-screen/open-questions.md)
-- [Original blog draft](evidence-screen/sources/blog-original.md), [prior 29-page critical review](evidence-screen/sources/deep-research-draft-2.pdf)
-- Search receipts in `evidence-screen/data/`, scripts in `evidence-screen/scripts/`, tests in `evidence-screen/tests/`; its changelog is `evidence-screen/CHANGELOG.md`
-
-The ten searches and the 21-record screen are an ADHD case study, not a search of all CBT evidence. The ten search slices of the Draft 3 paper (`deep-research/search/`) are a separate, broader count log.
+**TLDR-end:** [meta-review-cbt: Draft 4] Read the canonical PDF alongside its source and review records. The revision preserves counterevidence and clinical limits; it is for feedback, not a claim of systematic completeness or journal readiness.

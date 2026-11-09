@@ -1,5 +1,12 @@
-# Experiment log
+# Experiment and evidence-extension log
 
-| Date | Question | Data (DOI) | Code | Result | Caveats |
+**Doc link:** <https://github.com/brando90/meta-review-cbt/blob/main/experiments/LOG.md>
+
+**TLDR:** The November 2026 work extends the review's evidence records; it does not estimate new treatment effects or collect participant data. Each source's reading level and limitations remain explicit.
+
+| Date | Folder / question | Data | Code / record | Result | Caveats |
 |---|---|---|---|---|---|
-| (none yet) | | | | | |
+| 11-08-2026 | `01_1st_principles_evolutionary_argument_against_cbt`: does evolutionary conservation establish a treatment ranking? | 23 DOI candidates in `sources/source_manifest.json` | `scripts/retrieve_sources.py`, `scripts/export_verification_receipts.py`, revision plan | No valid age-to-efficacy inference; learning hypothesis retained with cognitive counterevidence | Targeted source reading; lab findings and clinical comparisons kept separate; no new pooled estimate |
+| 11-08-2026 | `02_cbt_are_the_reviewers_so_of_course_it_has_the_most_evidence_most_accepted`: what bias is established? | 8 DOI candidates in `sources/source_manifest.json` | Shared retrieval/export code above; `changes_cbt_reviewer_bias.md` | Allegiance/publication selection supported; CBT-specific reviewer suppression not established | Mahoney excluded as unread; selection magnitude uncertain; general peer-review evidence not psychotherapy-specific |
+| 11-08-2026 | `03_clinical_goals_engagement_and_timing`: what clinical observations have research support? | 12 DOI candidates (8 initial, 4 baseline citations rechecked after review), plus timing studies in the evolutionary folder | Shared retrieval/export code; `sources/targeted_search_receipts.json`; clinical plan | Acceptance/alliance/reactance/feedback integrated; four-type split and precise early-reframing hypothesis remain unvalidated | Observational processes are not unique mechanisms; structured feedback is not every informal probe; no private transcripts committed |
+| 11-08-2026 | Draft 4 light review and fixes | Frozen 41-file manifest, then manuscript fixes and four additional baseline abstract checks | `review/LIGHT_QA_DRAFT4.md`; seven offline receipt/citation tests added to `make test` | One Fable/max review: zero critical, five major findings; coordinator fixes and deterministic verification, no second model review | Review does not validate all 458 bibliography entries or establish systematic coverage; no participant experiment conducted |
