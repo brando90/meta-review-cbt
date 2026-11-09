@@ -5,7 +5,7 @@
 **TLDR:** The evidence-selection plan and manuscript subsection are implemented, with publication selection and researcher allegiance kept separate from unestablished reviewer suppression. Final publication/delivery status is tracked in the shared revision record.
 
 Created: 11-08-2026 17:41 PST
-Last updated: 11-08-2026 17:41 PST
+Last updated: 11-08-2026 17:58 PST
 
 ## Goal
 - Integrate the defensible bias critique without explaining all CBT evidence through an unmeasured reviewer preference.
@@ -14,10 +14,13 @@ Last updated: 11-08-2026 17:41 PST
 - Implemented the main-text subsection and objection; included this work in the single requested Fable/max review.
 ## Results
 - Driessen's submission-status breakdown and uncertainty remain in the paper; allegiance adjustment does not erase every CBT advantage.
-- The source-linked plan, receipts and notes are complete. Raw local context remains unchanged and is excluded from publication.
+- The source-linked plan, receipts and notes are published in `28a0b20` on `main`; the shared feedback delivery and completion notice are verified. Raw local context remains unchanged and is excluded from publication.
 ## Stuck / blocked
 - No blocker for this extension. Systematic search completeness is not claimed.
 ## Next steps
-- [p 9/10] Finish the shared staged audit, push and feedback delivery; see [review/fix record](../../review/LIGHT_QA_DRAFT4.md) and [main checkpoint](../01_1st_principles_evolutionary_argument_against_cbt/CKPT_evolutionary_revision.md).
+- [p 7/10] Revisit claims if substantive feedback supplies new evidence; shared completion and Google-sync status are in the [review/fix record](../../review/LIGHT_QA_DRAFT4.md) and [main checkpoint](../01_1st_principles_evolutionary_argument_against_cbt/CKPT_evolutionary_revision.md).
 ## Brando to-do
 - None for the authorized revision and delivery.
+
+## Log
+- 11-08-2026 17:58 PST — Published the evidence-selection extension in `28a0b20` and verified shared feedback/completion delivery; no additional model review.

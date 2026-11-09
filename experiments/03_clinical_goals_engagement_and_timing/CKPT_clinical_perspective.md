@@ -5,7 +5,7 @@
 **TLDR:** Clinical goals, engagement and timing are integrated with source-supported limits; the informal four-type scheme remains unvalidated and non-diagnostic. A matching paragraph is saved without duplicating the separately maintained blog section.
 
 Created: 11-08-2026 17:41 PST
-Last updated: 11-08-2026 17:41 PST
+Last updated: 11-08-2026 17:58 PST
 
 ## Goal
 - Connect acceptance, alliance, reactance and structured feedback to the review without publishing clinician identities, personal health information or raw transcripts.
@@ -14,11 +14,14 @@ Last updated: 11-08-2026 17:41 PST
 - Implemented the patient/context subsection, delivery discussion, corresponding hypothesis/objection changes and source-linked blog paragraph.
 - Included the initial revision in the single Fable/max review; coordinator fixes retain both directions of the timing evidence and restore the bounded therapist-level alliance finding.
 ## Results
-- Source notes, public metadata/reading receipts, targeted search receipts and the integration plan are complete.
+- Source notes, public metadata/reading receipts, targeted search receipts and the integration plan are published in `28a0b20` on `main`; the shared feedback delivery and completion notice are verified.
 - The existing separately owned blog post already contains the requested goals/patient/timing section; no duplicate website insertion was made.
 ## Stuck / blocked
 - No manuscript blocker. Google companion synchronization is pending; no document was modified there.
 ## Next steps
-- [p 9/10] Complete shared publication and feedback delivery; see [review/fix record](../../review/LIGHT_QA_DRAFT4.md) and [main checkpoint](../01_1st_principles_evolutionary_argument_against_cbt/CKPT_evolutionary_revision.md).
+- [p 7/10] Incorporate substantive clinical feedback when received; see the completed release record and remaining Google-sync limitation in the [review/fix record](../../review/LIGHT_QA_DRAFT4.md) and [main checkpoint](../01_1st_principles_evolutionary_argument_against_cbt/CKPT_evolutionary_revision.md).
 ## Brando to-do
 - None for the authorized revision and delivery.
+
+## Log
+- 11-08-2026 17:58 PST — Published the clinical extension in `28a0b20`, verified shared feedback/completion delivery, and preserved the separately owned blog without a duplicate insertion.

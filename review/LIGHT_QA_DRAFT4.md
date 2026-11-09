@@ -90,9 +90,11 @@ The initial review checked 39 candidates. The four additional existing citations
 
 ## Release, feedback and remaining scope
 
-- **Publication and feedback delivery:** pending the final staged audit and push; private delivery receipts will record the Sent copy and attachment hash, not whether the recipient read the paper.
+- **Publication:** the complete 49-file staged revision was inspected and pushed directly to `main` as [`28a0b20`](https://github.com/brando90/meta-review-cbt/commit/28a0b20be923fedb82f792e6df3b107064971302) on 11-08-2026. The remote branch matched that commit, and the published PDF bytes matched the checked hash above.
+- **Authorized feedback delivery:** verified in Sent at 17:57 PST on 11-08-2026. All four envelope recipients were accepted; subject, primary recipient, body, absence of visible copies and exact attachment hash were checked. This does **not** establish recipient reading. Contact details and delivery receipts remain private under ignored `latex/_build/qa/`.
+- **Completion notification:** the matching run-done message was verified in Sent at 17:58 PST, with all three required recipient copies accepted. No duplicate message was sent.
 - **Blog:** the separately owned post already includes the clinician-derived goals/engagement/timing section; this task preserves a source-linked alternative paragraph without overwriting or duplicating that work.
-- **Google companion:** synchronization pending. Available connector/command-line routes and a bounded read-only browser attempt did not establish a writable route; no Google document was modified.
+- **Google companion:** synchronization pending. Available connector/command-line routes and a bounded read-only browser attempt did not establish a writable route; no Google document was modified. The exact pending update is saved locally in ignored `latex/_build/google-companion-pending.md`.
 - **Submission:** not ready. The review is targeted, not independently double-screened or preregistered; no formal risk-of-bias assessment covers every included review. Official venue requirements, author verification and submission preparation remain separate work.
 
 **TLDR-end:** [meta-review-cbt: Draft 4 light review] The single model-review round is complete and its major findings have been addressed with source-grounded fixes and deterministic verification. Use the checked PDF for feedback without treating this record as journal acceptance or full-bibliography validation.
