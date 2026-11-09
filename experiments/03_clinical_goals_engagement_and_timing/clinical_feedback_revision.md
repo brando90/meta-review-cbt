@@ -57,6 +57,12 @@ text = "\n\n".join(p["text"] for p in document["passages"] if p.get("text")) + "
 
 The two additional abstracts were retrieved with the existing `retrieve_one` function in [`retrieve_sources.py`](../01_1st_principles_evolutionary_argument_against_cbt/scripts/retrieve_sources.py). Their explicit reading decisions were then added to the shared exporter. Running that exporter or the consistency checker does not establish that a source has been read.
 
+## Publication
+
+Published directly to `main` in [`a116b916d50b10919ce95f7449ea4d7334a51c89`](https://github.com/brando90/meta-review-cbt/commit/a116b916d50b10919ce95f7449ea4d7334a51c89). The remote revision and pinned PDF were verified on 11-08-2026 at 20:00 PST; downloaded PDF bytes match the checked local artifact.
+
+[Immutable Draft 4.1 PDF](https://github.com/brando90/meta-review-cbt/blob/a116b916d50b10919ce95f7449ea4d7334a51c89/latex/main.pdf). This revision has not been emailed to a collaborator; the earlier Draft 4 delivery record remains unchanged.
+
 ## Verification and remaining limits
 
 - `make test`: thirteen unit tests pass; companion source/receipt checks pass.
